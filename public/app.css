@@ -7195,9 +7195,8 @@ html {
 
 a {
   font-weight: bold;
-  color: #2c3e50; }
+  color: #007bff; }
+  a:hover {
+    text-decoration: none; }
   a.router-link-exact-active {
-    color: #42b983; }
-
-.btn-primary {
-  color: aqua; }
+    color: #ffc107; }

@@ -6,18 +6,24 @@
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+    <ul class="navbar-nav ml-auto">
+      <li class="m-2" >
+        <router-link to="/">Home</router-link> 
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Features</a>
+      <li class="m-2">
+        <router-link to="/skills">Programming skills</router-link>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Pricing</a>
+      <li class="m-2">
+        <router-link to="/projects">Projects</router-link>
+      </li>
+      <li class="m-2">
+        <router-link to="/education">Education</router-link>
+      </li>
+      <li class="m-2">
+        <router-link to="/resume">Resume</router-link>
       </li>
     </ul>
-    <button class="btn btn-primary">Hello</button>
+    
   </div>
 </nav>
 </div>
