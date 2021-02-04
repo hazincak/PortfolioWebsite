@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "node-sass": "node-sass src/sass/main.scss public/app.css -w"
   },
   "dependencies": {
     "bootstrap": "^4.6.0",

@@ -1,0 +1,11 @@
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/typography";
+
+@import "views/homePage";
+@import "views/projectsPage";
+
+@import "components/navbar";
+@import "components/buttons";
+@import "components/breadCrumbs";
