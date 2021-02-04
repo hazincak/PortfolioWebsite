@@ -8,6 +8,9 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav ml-auto">
       <li class="m-2" >
+        <a >Language:</a>
+      </li>
+      <li class="m-2" >
         <router-link to="/">Home</router-link> 
       </li>
       <li class="m-2">

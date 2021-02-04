@@ -1,14 +1,18 @@
 <template>
   <div id="app">
-    <navigation-bar></navigation-bar>
+    <app-navigation-bar></app-navigation-bar>
     <router-view/>
+    <app-footer></app-footer>
+
   </div>
 </template>
 <script>
-import NavigationBar from "../src/components/NavigationBar";
+import AppNavigationBar from "../src/components/NavigationBar";
+import AppFooter from "../src/components/Footer";
 export default {
   components:{
-    NavigationBar
+    AppNavigationBar,
+    AppFooter
   }
 }
 </script>
