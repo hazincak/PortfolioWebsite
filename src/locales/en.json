@@ -1,3 +1,12 @@
 {
-  "message": "hello i18n !!"
+  "message": "hello i18n !!",
+  "my-name": "Jan Hazincak",
+  "portfolio": "Portfolio",
+
+  "menu":{
+    "home": "Home",
+    "skills": "Programming Skills",
+    "projects": "Projects",
+    "education": "Education"
+  }
 }

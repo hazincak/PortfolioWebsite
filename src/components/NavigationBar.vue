@@ -8,19 +8,16 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav ml-auto">
       <li class="m-2" >
-        <a >Language:</a>
-      </li>
-      <li class="m-2" >
-        <router-link to="/">Home</router-link> 
+        <router-link to="/">{{ $t('menu.home') }}</router-link> 
       </li>
       <li class="m-2">
-        <router-link to="/skills">Programming skills</router-link>
+        <router-link to="/skills">{{ $t('menu.skills') }}</router-link>
       </li>
       <li class="m-2">
-        <router-link to="/projects">Projects</router-link>
+        <router-link to="/projects">{{ $t('menu.projects') }}</router-link>
       </li>
       <li class="m-2">
-        <router-link to="/education">Education</router-link>
+        <router-link to="/education">{{ $t('menu.education') }}</router-link>
       </li>
       <li class="m-2">
         <router-link to="/resume">Resume</router-link>

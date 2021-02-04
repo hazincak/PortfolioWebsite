@@ -1,3 +1,12 @@
 {
-  "message": "ahoj i18n !!"
+  "message": "ahoj",
+  "my-name": "Ján Hažinčák",
+  "portfolio": "Portfólio",
+
+  "menu":{
+    "home": "Domov",
+    "skills": "Programovacie znalosti",
+    "projects": "Projekty",
+    "education": "Vzdelanie"
+  }
 }
