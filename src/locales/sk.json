@@ -2,11 +2,22 @@
   "message": "ahoj",
   "my-name": "Ján Hažinčák",
   "portfolio": "Portfólio",
+  "home-page-intro": "Ahoj, moje meno je Ján Hažinčák a hľadám si prácu na pozíciách Junior PHP alebo JavaScript developer",
+
+  "about-me": "O mne",
+
+  "contact": "Kontakt",
 
   "menu":{
     "home": "Domov",
     "skills": "Programovacie znalosti",
     "projects": "Projekty",
     "education": "Vzdelanie"
-  }
+  },
+
+  "my-projects": "Moje projekty",
+  "projects-page-intro": "Zoznam projektov školských a vlastných projektov.",
+  "more-button": "Viac o projekte",
+
+  "e-commerce-description": "Vlastný redakčný systém vo forme internetového obchodu."
 }

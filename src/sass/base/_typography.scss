@@ -8,29 +8,30 @@ html{
     color: #2c3e50;
     
 }
-    .active{
-      font-weight: bold;
-    }
+.contact-icon{
+  font-size: 2.0rem;
+  
+  vertical-align: middle;
+}
 
-    .pointer{
-      cursor: pointer;
-    }
-
-    a {
-      font-weight: bold;
-      color: $blue;
-
-      &:hover{
-        text-decoration: none;
-      }
-
-      // &.router-link-active{
-      //   color: #42b983;
-      // }
-
-      
-      &.router-link-exact-active {
-        color: $warning; 
-      }
-    }
+.active{
+  font-weight: bold;
+}
+.pointer{
+  cursor: pointer;
+}
+a {
+  font-weight: bold;
+  color: $blue;
+  &:hover{
+    text-decoration: none;
+  }
+  // &.router-link-active{
+  //   color: #42b983;
+  // }
+  
+  &.router-link-exact-active {
+    color: $warning; 
+  }
+}
   

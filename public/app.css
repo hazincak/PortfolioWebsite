@@ -7197,6 +7197,10 @@ html {
   text-align: center;
   color: #2c3e50; }
 
+.contact-icon {
+  font-size: 2.0rem;
+  vertical-align: middle; }
+
 .active {
   font-weight: bold; }
 
