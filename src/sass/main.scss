@@ -1,8 +1,10 @@
+
 @import 'node_modules/bootstrap/scss/bootstrap';
 
 @import "abstracts/mixins";
 @import "abstracts/variables";
 
+@import "base/base";
 @import "base/typography";
 
 @import "views/homePage";
@@ -10,5 +12,7 @@
 
 @import "components/navbar";
 @import "components/footer";
+@import "components/images";
 @import "components/buttons";
 @import "components/breadCrumbs";
+

@@ -7,9 +7,11 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "i18n:report": "vue-cli-service i18n:report --src './src/**/*.?(js|vue)' --locales './src/locales/**/*.json'",
+    
     "node-sass": "node-sass src/sass/main.scss public/app.css -w"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
     "bootstrap": "^4.6.0",
     "core-js": "^3.6.5",
     "jquery": "^3.5.1",
