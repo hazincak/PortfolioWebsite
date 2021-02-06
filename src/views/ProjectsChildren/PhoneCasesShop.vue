@@ -1,6 +1,5 @@
 <template>
     <div>
-        <router-view></router-view>
+        <h1>Phone Cases Shop</h1>
     </div>
-    
 </template>

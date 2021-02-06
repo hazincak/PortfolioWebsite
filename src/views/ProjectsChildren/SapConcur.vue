@@ -1,6 +1,5 @@
 <template>
     <div>
-        <router-view></router-view>
+        <h1>SAP Concur</h1>
     </div>
-    
 </template>

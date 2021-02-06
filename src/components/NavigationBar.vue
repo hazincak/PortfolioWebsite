@@ -14,7 +14,7 @@
         <router-link to="/skills">{{ $t('menu.skills') }}</router-link>
       </li>
       <li class="m-2">
-        <router-link to="/projects">{{ $t('menu.projects') }}</router-link>
+        <router-link :to="{name: 'AllProjects'}">{{ $t('menu.projects') }}</router-link>
       </li>
       <li class="m-2">
         <router-link to="/education">{{ $t('menu.education') }}</router-link>

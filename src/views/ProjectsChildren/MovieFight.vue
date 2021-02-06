@@ -1,6 +1,5 @@
 <template>
     <div>
-        <router-view></router-view>
+        <h1>Movie Fight</h1>
     </div>
-    
 </template>

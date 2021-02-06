@@ -22,7 +22,45 @@ const routes = [
   {
     path: '/projects',
     name: 'Projects',
-    component: () => import('../views/Projects.vue')
+    component: () => import('../views/Projects.vue'),
+
+    children:[
+      {
+        path:"all-projects",
+        name:"AllProjects",
+        component: () => import('../views/ProjectsChildren/AllProjects.vue'),
+      },
+      {
+        path:"phone-cases-shop",
+        name:"PhoneCasesShopProject",
+        component: () => import('../views/ProjectsChildren/PhoneCasesShop.vue')
+      },
+      {
+        path:"weather-app",
+        name:"WeatherAppProject",
+        component: () => import('../views/ProjectsChildren/WeatherApp.vue')
+      },
+      {
+        path:"laptomania",
+        name:"LaptopmaniaProject",
+        component: () => import('../views/ProjectsChildren/Laptomania.vue')
+      },
+      {
+        path:"blog-system",
+        name:"BlogSystemProject",
+        component: () => import('../views/ProjectsChildren/BlogSystem.vue')
+      },
+      {
+        path:"movie-fight",
+        name:"MovieFightProject",
+        component: () => import('../views/ProjectsChildren/MovieFight.vue')
+      },
+      {
+        path:"java-projects",
+        name:"JavaProjects",
+        component: () => import('../views/ProjectsChildren/JavaProjects.vue')
+      },
+    ]
   },
   {
     path: '/education',
