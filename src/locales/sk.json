@@ -34,16 +34,25 @@
 
   "phone-cases-shop-videos":{
     "categoryCRUD":"Vytvorenie, úprava a vymazanie kategórie",
-    "creating-model":"Vytvorenie modelu a priradenie ku kategórii",
+    "categoryCRUD-detail": "Kategória, značky a modely produktov môžu byť vytvorené, aktualizované a vymazané z admin sekcie. Kategórie su po pridání zobrazene v obchodnom menu.",
+
+    "creating-model":"Vytvorenie modelu a priradenie ku značke",
+    "creating-model-detail":"Model produktu musí byť vytvorený pred pridáním produktu.",
+
     "attaching-brand-and-model": "Priradenie modelu a značky ku kategórii",
+    "attaching-brand-and-model-detail": "Modely a značky musia byť priradené ku kategórii pred pridáním produktu. Priradené modely a značky sú potom hierarchicky usporiadané v obchodnom menu.",
 
     "adding-product": "Pridávanie produktu",
+    "adding-product-detail": "Kategórie, modely a značky musia byť vytvorené a priradené k sebe pred pridáním produktu. Po úspešnom pridání produktu, je tento produkt dostupný pod určenou kategóriou, značkou a modelom v obchodnom menu.",
+
     "updating-product": "Aktualizácia produktu",
 
     "placing-order-stripe": "Zaplatenie kartou (STRIPE)",
     "placing-order-paypal": "Zaplatenie cez PayPal",
 
     "managing-policies": "Správa dynamického obsahu",
+    "managing-policies-detail": "Dynamické menenie obsahu vybraných stránok pomocou WYSIWYG editoru, ktorý umožňuje vložiť text spolu s HTML značkami. ",
+
     "managing-carousel": "Správa produktov zobrazených v karuseli",
 
     "protecting-routes": "Ochrana admin sekcie"

@@ -35,16 +35,25 @@
   },
   "phone-cases-shop-videos":{
     "categoryCRUD":"Creating, updating and deleting category",
-    "creating-model":"Creating model and linking it to brand",
+    "categoryCRUD-detail": "Categories, brands and models can be created, updated and deleted from the admin section. Categories are displayed in the sidebar menu after their creation. ",
+
+    "creating-model":"Creating model and attaching it to its brand",
+    "creating-model-detail":"Product model must be created before adding the product.",
+
     "attaching-brand-and-model": "Attaching brand and model to selected category",
+    "attaching-brand-and-model-detail": "Brands and models need to be attached to the category before they are displayed in the shop sidebar menu.",
 
     "adding-product": "Adding product",
+    "adding-product-detail": "Categories, brands and models need to be created and attached to each other before adding the product. While adding the product, the user needs to select its category, brand and model. Product model can be then accessed in the shop sidebar under selected category.",
+
     "updating-product": "Updating product",
 
     "placing-order-stripe": "Placing order with Stripe payment gateway",
     "placing-order-paypal": "Placing order with PayPal",
 
     "managing-policies": "Managing dynamic GDPR, rules of return and trading rules pages",
+    "managing-policies-detail": "Content of the return & refund policies, trading terms and GDPR pages are highly customizable with the WYSIWYG (What You See Is What You Get) editor which is wrapping the text in HTML tags.",
+
     "managing-carousel": "Managing dynamic carousel",
     "protecting-routes": "Protecting routes"
   },
