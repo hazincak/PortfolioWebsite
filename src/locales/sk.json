@@ -32,6 +32,23 @@
     "description": "Webová aplikácia na predaj mobilného príslušenstva s vlastným redakčným systémom, dynamickým obsahom a integrovanymi platobnými bránami."
   }, 
 
+  "phone-cases-shop-videos":{
+    "categoryCRUD":"Vytvorenie, úprava a vymazanie kategórie",
+    "creating-model":"Vytvorenie modelu a priradenie ku kategórii",
+    "attaching-brand-and-model": "Priradenie modelu a značky ku kategórii",
+
+    "adding-product": "Pridávanie produktu",
+    "updating-product": "Aktualizácia produktu",
+
+    "placing-order-stripe": "Zaplatenie kartou (STRIPE)",
+    "placing-order-paypal": "Zaplatenie cez PayPal",
+
+    "managing-policies": "Správa dynamického obsahu",
+    "managing-carousel": "Správa produktov zobrazených v karuseli",
+
+    "protecting-routes": "Ochrana admin sekcie"
+  },
+
   "weather-app":{
     "title": "Mobilná aplikácia na počasie",
     "description": "Mobilná aplikácia vypracovaná ako záverečná práca predmetu na GMIT."

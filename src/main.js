@@ -5,6 +5,7 @@ import router from './router'
 import 'bootstrap'
 import i18n from './i18n'
 
+
 import '@fortawesome/fontawesome-free/js/fontawesome'
 import '@fortawesome/fontawesome-free/js/solid'
 import '@fortawesome/fontawesome-free/js/regular'

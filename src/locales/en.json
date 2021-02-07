@@ -33,6 +33,21 @@
     "title": "E-commerce website",
     "description": "Full e-commerce solution for phone accessories with its own content management system and integrated payment gateways."
   },
+  "phone-cases-shop-videos":{
+    "categoryCRUD":"Creating, updating and deleting category",
+    "creating-model":"Creating model and linking it to brand",
+    "attaching-brand-and-model": "Attaching brand and model to selected category",
+
+    "adding-product": "Adding product",
+    "updating-product": "Updating product",
+
+    "placing-order-stripe": "Placing order with Stripe payment gateway",
+    "placing-order-paypal": "Placing order with PayPal",
+
+    "managing-policies": "Managing dynamic GDPR, rules of return and trading rules pages",
+    "managing-carousel": "Managing dynamic carousel",
+    "protecting-routes": "Protecting routes"
+  },
 
   "weather-app":{
     "title": "Weather and News mobile application",
