@@ -2,8 +2,11 @@
   "message": "hello i18n !!",
   "my-name": "Jan Hazincak",
   "portfolio": "Portfolio",
+  "description": "Description",
+  
   "home-page-intro": "Hello, I am web developer enthusiast looking for my first job opportunity.",
   
+
   "about-me": "About me",
   "about-me-detail":"After 7 years working in the hospitality industry I have decided to change my career and jump into programming world. It started with simple Hello World programs.",
 
@@ -20,6 +23,40 @@
   "projects-page-intro": "List of projects created either as school or free-time projects.",
   "more-button":"Find out more",
   "used-technologies": "Used technologies",
+  "database": "Database",
+  "payment-gateways": "Payment gateways",
+  "project-demo": "Project demonstration videos",
   
-  "e-commerce-description": "Web application simulating single page e-commerce website with dynamic content manageable from the protected admin section."
+  "e-commerce-description": "Web application simulating single page e-commerce website with dynamic content manageable from the protected admin section.",
+
+  "phone-cases-shop":{
+    "title": "E-commerce website",
+    "description": "Full e-commerce solution for phone accessories with its own content management system and integrated payment gateways."
+  },
+
+  "weather-app":{
+    "title": "Weather and News mobile application",
+    "description": "Mobile application created as final project of Mobile Applications Development module at GMIT."
+  },
+
+  "laptopmania":{
+    "description": "Website created as final project of Web Application Development module at GMIT."
+  },
+
+  "sap-concur":{
+    "description": "Wordpress website created as school project hosted on an AWS cloud-based LAMP server."
+  },
+
+  "blog-system":{
+    "description": "Blog website with its own content management system represented by protected admin and user areas."
+  },
+
+  "movie-fight":{
+    "description": "Javascript application for comparing movies."
+  },
+
+  "java":{
+    "title": "Java projects",
+    "description": "Java projects completed as GMIT's modules final projects."
+  }
 }

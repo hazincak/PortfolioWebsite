@@ -2,6 +2,11 @@
   "message": "ahoj",
   "my-name": "Ján Hažinčák",
   "portfolio": "Portfólio",
+  "description": "Popis",
+  "database": "Databáza",
+  "payment-gateways": "Platobné brány",
+  "project-demo": "Video ukážky projektu",
+
   "home-page-intro": "Ahoj, moje meno je Ján Hažinčák a hľadám si prácu na pozíciách Junior PHP alebo JavaScript developer",
 
   "about-me": "O mne",
@@ -17,8 +22,39 @@
 
   "my-projects": "Moje projekty",
   "projects-page-intro": "Zoznam projektov školských a vlastných projektov.",
-  "more-button": "Viac o projekte",
+  "more-button": "Zobraziť podrobnosti",
   "used-technologies": "Použité technologie",
 
-  "e-commerce-description": "Vlastný redakčný systém vo forme internetového obchodu."
+  "e-commerce-description": "Vlastný redakčný systém vo forme internetového obchodu.",
+  
+  "phone-cases-shop":{
+    "title": "Internetový obchod",
+    "description": "Webová aplikácia na predaj mobilného príslušenstva s vlastným redakčným systémom, dynamickým obsahom a integrovanymi platobnými bránami."
+  }, 
+
+  "weather-app":{
+    "title": "Mobilná aplikácia na počasie",
+    "description": "Mobilná aplikácia vypracovaná ako záverečná práca predmetu na GMIT."
+  },
+
+  "laptopmania":{
+    "description": "Internetová stránka vypracovaná ako záverečná práca predmetu na GMIT."
+  },
+
+  "sap-concur":{
+    "description": "Wordpress internetová stránka vypracovaná ako záverečná práca predmetu na GMIT. Stránka funguje na Linux, Apache, MySQL, PHP webovom serveri vytvorenom na AWS EC2 inštancii."
+  },
+
+  "blog-system":{
+    "description": "Internetová stránka vo forme blogu s vlastným redakčným systémom obsahujúca funkcie s oprávneniami správcu a používateľa."
+  },
+
+  "movie-fight":{
+    "description": "Javascript aplikácia na porovnanie filmov."
+  },
+
+  "java":{
+    "title": "Java projekty",
+    "description": "Java projekty vypracované ako záverečné práce predmetov na GMIT."
+  }
 }
