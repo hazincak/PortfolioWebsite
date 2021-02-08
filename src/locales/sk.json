@@ -1,12 +1,32 @@
 {
-  "message": "ahoj",
   "my-name": "Ján Hažinčák",
   "portfolio": "Portfólio",
+  "project-description": "Popis projektu",
   "description": "Popis",
   "database": "Databáza",
+  "my-projects": "Moje projekty",
+  "projects-page-intro": "Zoznam projektov školských a vlastných projektov.",
+  "more-button": "Zobraziť podrobnosti",
+  "used-technologies": "Použité technológie",
+  "other-used-technologies": "Ostatné použité technológie",
   "payment-gateways": "Platobné brány",
   "project-demo": "Video ukážky projektu",
+  "project-features": "Implementované funkcie",
+  "source-code": "Zdrojový kód",
 
+  "application-state": "Aplikačný stav",
+  
+  "dynamic-content": "Dynamický obsah",
+  "dynamic-content-detail":"Obsah tohto e-shopu môže byť vytvorený, upravený alebo vymazaný z admin sekcie.",
+  "manageable-content": "Spravovateľný obsah:",
+  
+  
+  "admin-section": "Admin sekcia",
+  "email-notification": "Email upozornenia",
+  "responsiveness": "Responzívny web dizajn",
+  "shopping-cart": "Nákupný košík",
+  
+ 
   "home-page-intro": "Ahoj, moje meno je Ján Hažinčák a hľadám si prácu na pozíciách Junior PHP alebo JavaScript developer",
 
   "about-me": "O mne",
@@ -20,16 +40,28 @@
     "education": "Vzdelanie"
   },
 
-  "my-projects": "Moje projekty",
-  "projects-page-intro": "Zoznam projektov školských a vlastných projektov.",
-  "more-button": "Zobraziť podrobnosti",
-  "used-technologies": "Použité technologie",
+  
 
   "e-commerce-description": "Vlastný redakčný systém vo forme internetového obchodu.",
   
   "phone-cases-shop":{
     "title": "Internetový obchod",
-    "description": "Webová aplikácia na predaj mobilného príslušenstva s vlastným redakčným systémom, dynamickým obsahom a integrovanymi platobnými bránami."
+    "description": "Webová aplikácia na predaj mobilného príslušenstva s vlastným redakčným systémom, dynamickým obsahom a integrovanymi platobnými bránami.",
+    "description-detail": "Táto stránka bola vytvorená ako projekt pre moje portfólio. Účelom tejto webovej stránky si bolo vyskúšať prácu na pokročilejšiom projekte s využitím frameworkov Vuejs a Laravel. Stránka implementuje základne prvky internetového obchodu ako sú platobné brany, počítanie ceny na základe zvoleného spôsobu dopravy a zaplatenia alebo tiež možnosť spravovania obsahu stránky z admin sekcie.",
+
+    "manageable-content-items": {
+      "carousel": "Produkty zobrazené v karuseli na domovskej stránke",
+      "products-features": "Kategórie, značky, modely, farby a materiály produktov",
+      "products": "Vytváranie, aktualizácia a odstraňovanie produktov",
+      "other-pages": "Obsah pravidiel vrátenia tovaru, ochrany osobných údajov a obchodných pravdiel"
+    },
+
+    "admin-section-detail": "Obsah je spravovateľný z admin sekcie, ku ktorej prístup je chránený jednak na frontende (VueJS Navigation Guards) a na backende (Laravel Gates).",
+    "email-notification-detail": "Zakaznik e-shopu je upozornený po úspěšnej objednávke a takisto ak je jeho objednávka potvrdená",
+    "responsiveness-detail": "Responzívny dizajn je dosiahnutý najmä Bootsrapom. Všetky ostatné elementy ako napríklad veľkosť textu su dynamicky modifikované Sass mixin funkciou, ktorá reaguje na definované zlomy.",
+    "shopping-cart-details": "Produkty pridané do nákupného košíka sú dostupné naprieč všetkými stránkami e-shopu. Rovnako sú uložené v HTML5 webovom uložisku bez expiračnej doby. To zaručuje, že obsah nákupného košíka je dostupný aj po znovu načítání webovej stránky."
+  
+
   }, 
 
   "phone-cases-shop-videos":{

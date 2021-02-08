@@ -1,12 +1,25 @@
 {
-  "message": "hello i18n !!",
   "my-name": "Jan Hazincak",
   "portfolio": "Portfolio",
+  "project-description": "Project description",
   "description": "Description",
-  
+  "database": "Database",
+  "my-projects": "My projects",
+  "projects-page-intro": "List of projects created either as school or free-time projects.",
+  "more-button":"Find out more",
+  "used-technologies": "Used technologies",
+  "other-used-technologies": "Other used technologies",
+  "payment-gateways": "Payment gateways",
+  "project-demo": "Project demonstration videos",
+  "project-features": "Implemented features",
+  "source-code": "Source code",
+
+  "application-state": "Application state",
+
+
+
   "home-page-intro": "Hello, I am web developer enthusiast looking for my first job opportunity.",
   
-
   "about-me": "About me",
   "about-me-detail":"After 7 years working in the hospitality industry I have decided to change my career and jump into programming world. It started with simple Hello World programs.",
 
@@ -19,19 +32,39 @@
     "education": "Education"
   },
 
-  "my-projects": "My projects",
-  "projects-page-intro": "List of projects created either as school or free-time projects.",
-  "more-button":"Find out more",
-  "used-technologies": "Used technologies",
-  "database": "Database",
-  "payment-gateways": "Payment gateways",
-  "project-demo": "Project demonstration videos",
   
+  
+  "dynamic-content": "Dynamic content",
+  "dynamic-content-detail":"Application content can be dynamically created, updated and deleted from the admin section.",
+  "manageable-content": "Manageable content:",
+  
+
+  "admin-section": "Admin section",
+  "email-notification": "Email notification",
+  "responsiveness": "Responsive design",
+  "shopping-cart": "Shopping cart",
+  
+
+ 
   "e-commerce-description": "Web application simulating single page e-commerce website with dynamic content manageable from the protected admin section.",
 
   "phone-cases-shop":{
     "title": "E-commerce website",
-    "description": "Full e-commerce solution for phone accessories with its own content management system and integrated payment gateways."
+    "description": "Full e-commerce solution for phone accessories with its own content management system and integrated payment gateways.",
+    "description-detail":"This e-commerce website was created as a project for my portfolio and to enhance my skills with Javascript and PHP frameworks (Vuejs and Laravel) in realistic project. It implements basic features of both - modern website and e-commerce solution. ",
+
+    "manageable-content-items": {
+      "carousel": "Products displayed in products carousel on the home page",
+      "products-features": "Products categories, brands, models, colors and materials",
+      "products": "Creating, updating and deleting products",
+      "other-pages":"Content of Return & Refund policies, Trading terms and GRPR pages"
+    },
+
+    "admin-section-detail": "Content can be managed from the admin section. Admin routes are protected both on client (VueJS Navigation Guards) and server side (Laravel Gates). ",
+    "email-notification-detail": "Customer is notified by email about successful checkout and after his order is confirmed.",
+    "responsiveness-detail": "Responsiveness is achieved mostly by Bootstrap grid system. All others elements requiered action were modified by Sass mixins. ",
+    "shopping-cart-details": "Products added to the basket are stored with no expiration date in the HTML5 web storage (localStorage) therefore they are available on the page refresh and even after the webpage is left and revisited. Items can be deleted from the basket within the basket page and from the shop menu. "
+  
   },
   "phone-cases-shop-videos":{
     "categoryCRUD":"Creating, updating and deleting category",

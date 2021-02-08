@@ -8,14 +8,58 @@
         </div>
         <hr>
         <div class="row">
-                <h4><span>{{$t('used-technologies')}}</span></h4>
-                <div class="col-6 text-left">
-                    <p><b>Frontend:</b>&nbsp;HTML5,&nbsp;CSS3,&nbsp;Sass,&nbsp;VueJS&nbsp;(Javascript)</p>
-                    <p><b>Backend:</b>&nbsp;Laravel&nbsp;(PHP)</p>
-                    <p><b>{{$t('database')}}:</b>&nbsp;MySQL&nbsp;(SQL)</p> 
-                    <p><b>{{$t('payment-gateways')}}:</b>&nbsp;PayPal,&nbsp;Stripe</p> 
+                <div class="col-12 text-center">
+                    <h4><span>{{$t('project-description')}}</span></h4>
+                    <p class="lead">{{$t('phone-cases-shop.description-detail')}}</p>
+                    <hr>
+                    <h4><span>{{$t('used-technologies')}}</span></h4>
+                    <h5><span>Frontend:</span></h5>
+                    <p>&nbsp;HTML5,&nbsp;CSS3,&nbsp;Sass,&nbsp;VueJS&nbsp;(Javascript)</p>
+                    <h5><span>Backend:</span></h5>
+                    <p>&nbsp;Laravel&nbsp;(PHP)</p>
+                    <h5><span>{{$t('database')}}:</span></h5>
+                    <p>&nbsp;MySQL&nbsp;(SQL)</p> 
+
+                    <h4><span>{{$t('other-used-technologies')}}</span></h4>
+                    <h5><span>{{$t('application-state')}}:</span></h5>
+                    <p>Vuex</p>
+                    <h5><span>{{$t('application-state')}}:</span></h5>
+                    <p>PayPal,&nbsp;Stripe</p> 
                 </div>
-           
+        </div>
+        <hr>
+        <div class="row justify-content-center">
+                <div class="col-10 text-center">
+                <h4><span>{{$t('project-features')}}</span></h4>   
+                <h5><span>{{$t('dynamic-content')}}</span></h5>
+                <p>{{$t('dynamic-content-detail')}}</p>
+                <div class="row justify-content-center">
+                    <div class="col-6">
+                    <h6><span>{{$t('manageable-content')}}</span></h6>
+                        <ol>
+                            <li>{{$t('phone-cases-shop.manageable-content-items.carousel')}}</li>
+                            <li>{{$t('phone-cases-shop.manageable-content-items.products-features')}}</li>
+                            <li>{{$t('phone-cases-shop.manageable-content-items.products')}}</li>
+                            <li>{{$t('phone-cases-shop.manageable-content-items.other-pages')}}</li>
+                        </ol>
+                    </div>
+                </div>
+                <hr>
+                <h5><span>{{$t('admin-section')}}&nbsp;and&nbsp;{{$t('authentification')}}</span></h5>
+                <p>{{$t('phone-cases-shop.admin-section-detail')}}</p>
+                <h5><span>{{$t('email-notification')}}</span></h5>
+                <p>{{$t('phone-cases-shop.email-notification-detail')}}</p>
+                <h5><span>{{$t('responsiveness')}}</span></h5>
+                <p>{{$t('phone-cases-shop.responsiveness-detail')}}</p>
+                <h5><span>{{$t('shopping-cart')}}</span></h5>
+                <p>{{$t('phone-cases-shop.shopping-cart-details')}}</p>
+                <h5>{{$t('payment-gateways')}}</h5>
+                </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+
+            </div>
         </div>
         <div class="row justify-content-center">
                 <h4><span>{{$t('project-demo')}}</span></h4>
@@ -144,11 +188,18 @@
                 <!-- carousel -->
                 </div>
                 
-            </div>
-            <!-- column -->
         </div>
-        <!-- row -->
-    
+           <!-- row -->
+        <hr>
+        <div class="row justify-content-center">
+            <div class="col-md-8 text-center">
+                <h4><span>{{$t('source-code')}}</span></h4>
+                <button class="btn btn-secondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+            </div>
+        </div>
+        </div>
+        <!-- template div -->
+        
 </template>
 <script>
 
