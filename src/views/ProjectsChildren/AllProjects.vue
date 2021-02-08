@@ -23,13 +23,37 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <div class="d-flex justify-content-center">
-                                <img id="img-badges" src="../../assets/techBrands/htmlJsCss.png" alt="html-css-js-badges">
-                                <img id="img-bootstrap" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
-                                <img class="img-tech-brand" src="../../assets/techBrands/vuejs.png" alt="vue-logo">
-                                <img class="img-tech-brand" src="../../assets/techBrands/sass.png" alt="sass-logo">
-                                <img class="img-tech-brand" src="../../assets/techBrands/laravel.png" alt="laravel-logo">
-                                <img class="img-tech-brand" src="../../assets/techBrands/mysql.png" alt="mysql-logo">
+                            <div class="d-flex justify-content-around align-items-center">
+                                <div class="p-2">
+                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
+                                </div>
+                                <div class="p-2">
+                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
+                                </div>
+                                <div class="p-2">
+                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
+                                </div>
+                                <div class="p-2">
+                                    <img class="img-fluid" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
+                                </div>
+                                <div class="p-2">
+                                    <img class="img-fluid" src="../../assets/techBrands/vuejs.png" alt="vue-logo">
+                                </div>
+                                <div class="p-2">
+                                    <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">
+                                </div>
+                                <div class="p-2">
+                                    <img class="img-fluid" src="../../assets/techBrands/laravel.png" alt="laravel-logo">
+                                </div>
+                                <div class="p-2">
+                                    <img class="img-fluid" src="../../assets/techBrands/mysql.png" alt="mysql-logo">
+                                </div>
+                                <!-- <img class="img-fluid" src="../../assets/techBrands/htmlJsCss.png" alt="html-css-js-badges">
+                                <img class="img-fluid" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
+                                <img class="img-fluid" src="../../assets/techBrands/vuejs.png" alt="vue-logo">
+                                <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">
+                                <img class="img-fluid" src="../../assets/techBrands/laravel.png" alt="laravel-logo">
+                                <img class="img-fluid" src="../../assets/techBrands/mysql.png" alt="mysql-logo"> -->
                             </div>
 
                         </div>
@@ -37,7 +61,7 @@
                     <hr>
                 </div>
                 <div class="m-5"> 
-                    <div class="row align-items-center">
+                    <div class="row">
                         <div class="col-md-6">
                             <img alt="project-thumbnail" class="img-fluid rounded img-thumbnail"  src="../../assets/WeatherApp.jpg">
                         </div>
@@ -49,11 +73,28 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <div class="d-flex justify-content-center">
-                            <img id="img-badges" src="../../assets/techBrands/htmlJsCss.png" alt="html-css-js-badges">
-                            <img class="img-tech-brand" src="../../assets/techBrands/sass.png" alt="sass-logo">
-                            <img class="img-tech-brand" src="../../assets/techBrands/angular.png" alt="html-logo">
-                            <img class="img-tech-brand" src="../../assets/techBrands/ionic.png" alt="jquery-logo">
+                            <div class="d-flex justify-content-around align-items-center">
+                                <div class="p-2">
+                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
+                                </div>
+                                <div class="p-2">
+                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
+                                </div>
+                                <div class="p-2">
+                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
+                                </div>
+                                <div class="p-2">
+                                     <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">
+                                </div>
+                                <div class="p-2">
+                                    <img class="img-fluid" src="../../assets/techBrands/angular.png" alt="html-logo">
+                                </div>
+                                <div class="p-2">
+                                    <img class="img-fluid" src="../../assets/techBrands/ionic.png" alt="jquery-logo">
+                                </div>
+                            <!-- <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">
+                            <img class="img-fluid" src="../../assets/techBrands/angular.png" alt="html-logo">
+                            <img class="img-fluid" src="../../assets/techBrands/ionic.png" alt="jquery-logo"> -->
                             </div>
 
                         </div>
@@ -61,7 +102,7 @@
                     <hr>
                 </div>
                 <div class="m-5">   
-                    <div class="row align-items-center">
+                    <div class="row align-items-center ">
                         <div class="col-md-6">
                             <img alt="project-thumbnail" class="img-fluid rounded img-thumbnail"  src="../../assets/laptopmania.jpg">
                         </div>
@@ -73,13 +114,36 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                                <div class="d-flex justify-content-center">
-                                <img id="img-badges" src="../../assets/techBrands/htmlJsCss.png" alt="html-logo">
-                                <img id="img-bootstrap" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
-                                <img class="img-tech-brand" src="../../assets/techBrands/jquery.png" alt="jquery-logo">
-                                <img class="img-tech-brand" src="../../assets/techBrands/sass.png" alt="sass-logo">
+                                <div class="d-flex justify-content-around align-items-center">
+                                    <div class="p-2">
+                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
+                                    </div>
+                                    <div class="p-2">
+                                        <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
+                                    </div>
+                                    <div class="p-2">
+                                        <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
+                                    </div>   
+                                    <div class="p-2">
+                                        <img class="img-fluid" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
+                                    </div>
+                                    <div class="p-2">
+                                        <img class="img-fluid" src="../../assets/techBrands/jquery.png" alt="jquery-logo">
+                                    </div>
+                                    <div class="p-2">
+                                        <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">
+                                    </div>
+                                    <div class="p-2">
+                                        <img class="img-fluid" src="../../assets/techBrands/php.png" alt="php-logo">
+                                    </div>
+                                    <div class="p-2">
+                                        <img class="img-fluid" src="../../assets/techBrands/mysql.png" alt="mysql-logo">
+                                    </div>
+<!--                                 
+                                <img class="img-fluid" src="../../assets/techBrands/jquery.png" alt="jquery-logo">
+                                <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">
                                 <img class="img-php" src="../../assets/techBrands/php.png" alt="php-logo">
-                                <img class="img-tech-brand" src="../../assets/techBrands/mysql.png" alt="mysql-logo">
+                                <img class="img-fluid" src="../../assets/techBrands/mysql.png" alt="mysql-logo"> -->
                             </div>
                         </div>
                     </div>
@@ -98,10 +162,16 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                                <div class="d-flex justify-content-center">
-                                    <img id="img-wordpress" src="../../assets/techBrands/wordpress.png" alt="wordpress-logo">
-                                    <img class="img-tech-brand" src="../../assets/techBrands/lamp.png" alt="lamp-logo">
-                                    <img class="img-tech-brand" src="../../assets/techBrands/ec2.png" alt="ec2-logo">
+                                <div class="d-flex justify-content-around align-items-center">
+                                    <div class="p-2">
+                                        <img class="img-fluid" src="../../assets/techBrands/wordpress.png" alt="wordpress-logo">
+                                    </div>
+                                    <div class="p-2">
+                                        <img class="img-fluid" src="../../assets/techBrands/lamp.png" alt="lamp-logo">
+                                    </div>
+                                    <div class="p-2">
+                                        <img class="img-fluid" src="../../assets/techBrands/ec2.png" alt="ec2-logo">
+                                    </div>
                                 </div>
                         </div>
                     </div>
@@ -120,11 +190,25 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                                <div class="d-flex justify-content-center">
-                                    <img id="img-badges" src="../../assets/techBrands/htmlJsCss.png" alt="html-css-js-badges">
-                                    <img id="img-bootstrap" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
-                                    <img class="img-php" src="../../assets/techBrands/php.png" alt="php-logo">
-                                    <img class="img-tech-brand" src="../../assets/techBrands/mysql.png" alt="mysql-logo">
+                                <div class="d-flex justify-content-center align-items-center">
+                                   <div class="p-2">
+                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
+                                    </div>
+                                    <div class="p-2">
+                                        <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
+                                    </div>
+                                    <div class="p-2">
+                                        <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
+                                    </div>    
+                                    <div class="p-2">
+                                        <img class="img-fluid" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
+                                    </div>
+                                    <div class="p-2">
+                                        <img class="img-fluid" src="../../assets/techBrands/php.png" alt="php-logo">
+                                    </div>
+                                    <div class="p-2">
+                                        <img class="img-fluid" src="../../assets/techBrands/mysql.png" alt="mysql-logo">
+                                    </div>
                                 </div>
                         </div>
                     </div>
@@ -143,9 +227,19 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                                <div class="d-flex justify-content-center">
-                                    <img id="img-badges" src="../../assets/techBrands/htmlJsCss.png" alt="html-css-js-badges">
-                                    <img class="img-tech-brand" src="../../assets/techBrands/bulma.png" alt="bulma-logo">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <div class="p-2">
+                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
+                                    </div>
+                                    <div class="p-2">
+                                        <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
+                                    </div>
+                                    <div class="p-2">
+                                        <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
+                                    </div>    
+                                    <div class="p-2">
+                                        <img class="img-fluid" src="../../assets/techBrands/bulma.png" alt="bulma-logo">
+                                    </div>
                                 </div>
                         </div>
                     </div>
