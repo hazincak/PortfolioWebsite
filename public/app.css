@@ -7239,14 +7239,24 @@ a {
   height: 40px;
   margin: .7rem 0.5rem; }
 
-#img-php {
+.img-php {
   width: 100px;
   height: 45px;
   margin: .7rem 0.3rem; }
 
+#img-postgreSQL {
+  max-height: 90px;
+  max-width: 100px;
+  min-height: 90px; }
+
 #img-badges {
   height: 50px;
   margin: .3rem 0.3rem; }
+
+.img-badge {
+  max-height: 90px;
+  max-width: 80px;
+  min-height: 90px; }
 
 .img-tech-brand-badge {
   height: 30px; }

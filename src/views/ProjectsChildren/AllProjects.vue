@@ -78,7 +78,7 @@
                                 <img id="img-bootstrap" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
                                 <img class="img-tech-brand" src="../../assets/techBrands/jquery.png" alt="jquery-logo">
                                 <img class="img-tech-brand" src="../../assets/techBrands/sass.png" alt="sass-logo">
-                                <img id="img-php" src="../../assets/techBrands/php.png" alt="php-logo">
+                                <img class="img-php" src="../../assets/techBrands/php.png" alt="php-logo">
                                 <img class="img-tech-brand" src="../../assets/techBrands/mysql.png" alt="mysql-logo">
                             </div>
                         </div>
@@ -123,7 +123,7 @@
                                 <div class="d-flex justify-content-center">
                                     <img id="img-badges" src="../../assets/techBrands/htmlJsCss.png" alt="html-css-js-badges">
                                     <img id="img-bootstrap" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
-                                    <img id="img-php" src="../../assets/techBrands/php.png" alt="php-logo">
+                                    <img class="img-php" src="../../assets/techBrands/php.png" alt="php-logo">
                                     <img class="img-tech-brand" src="../../assets/techBrands/mysql.png" alt="mysql-logo">
                                 </div>
                         </div>

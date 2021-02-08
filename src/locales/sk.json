@@ -4,6 +4,7 @@
   "project-description": "Popis projektu",
   "description": "Popis",
   "database": "Databáza",
+  "databases": "Databázy",
   "my-projects": "Moje projekty",
   "projects-page-intro": "Zoznam projektov školských a vlastných projektov.",
   "more-button": "Zobraziť podrobnosti",
@@ -13,6 +14,8 @@
   "project-demo": "Video ukážky projektu",
   "project-features": "Implementované funkcie",
   "source-code": "Zdrojový kód",
+  "database-design": "Štruktúra databázy",
+  "experience-with": "Skúsenosti s",
 
   "application-state": "Aplikačný stav",
   

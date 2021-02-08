@@ -4,6 +4,7 @@
   "project-description": "Project description",
   "description": "Description",
   "database": "Database",
+  "databases": "Databases",
   "my-projects": "My projects",
   "projects-page-intro": "List of projects created either as school or free-time projects.",
   "more-button":"Find out more",
@@ -13,6 +14,8 @@
   "project-demo": "Project demonstration videos",
   "project-features": "Implemented features",
   "source-code": "Source code",
+  "database-design": "Database design",
+  "experience-with": "Experience with",
 
   "application-state": "Application state",
 

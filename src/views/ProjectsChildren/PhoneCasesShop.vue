@@ -190,6 +190,11 @@
                 
         </div>
            <!-- row -->
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h4><span>{{$t('database-design')}}</span></h4>
+            </div>
+        </div>
         <hr>
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">
