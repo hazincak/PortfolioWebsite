@@ -6,7 +6,7 @@
                 <div>
                     <h4><span>HTML & CSS</span></h4>
                     <hr>
-                    <div class="d-flex justify-content-around">
+                    <div class="d-flex justify-content-around align-items-baseline">
                         <div class="p-2">
                             <img  class="img-fluid" src="../assets/techBrandsBadges/html5-badge.png" alt="">
                             <p class="text-center mt-auto">HTML5</p>
@@ -31,7 +31,7 @@
 
                     <h4>Javascript</h4>
                     <hr>
-                    <div class="d-flex justify-content-around">
+                    <div class="d-flex justify-content-around align-items-baseline">
                         <div class="p-2">
                             <img  class="img-fluid" src="../assets/techBrandsBadges/javascript-badge.png" alt="">
                             <p class="text-center mt-auto">Javascript</p>
@@ -56,16 +56,12 @@
                             <img  class="img-fluid" src="../assets/techBrandsBadges/ionic-badge.png" alt="">
                             <p class="text-center mt-auto">Ionic</p>
                         </div>
-                        <div class="p-2">
-                            <img  class="img-fluid" src="../assets/techBrandsBadges/npm.png" alt="">
-                            <p class="text-center mt-auto">NPM</p>
-                        </div>
                     </div>
                 </div>
                 <div>
                     <h4>Backend & {{$t('databases')}}</h4>
                     <hr>
-                    <div class="d-flex justify-content-around">
+                    <div class="d-flex justify-content-around align-items-baseline">
                         <div class="p-2">
                             <img  class="img-fluid"  src="../assets/techBrandsBadges/php.png" alt="">
                             <p class="text-center mt-auto">PHP</p>
@@ -81,9 +77,23 @@
                     </div>
                 </div>
                 <div>
+                    <h4>Package managers</h4>
+                    <hr>
+                    <div class="d-flex justify-content-around align-items-baseline">
+                        <div class="p-2">
+                            <img  class="img-fluid" src="../assets/techBrandsBadges/npm.png" alt="">
+                            <p class="text-center mt-auto">NPM</p>
+                        </div>
+                        <div class="p-2">
+                            <img  class="img-fluid" src="../assets/techBrandsBadges/conposer.png" alt="">
+                            <p class="text-center mt-auto">Composer</p>
+                        </div>
+                    </div>
+                </div>
+                <div>
                     <h4>{{$t('experience-with')}}</h4>
                     <hr>
-                    <div class="d-flex justify-content-around">
+                    <div class="d-flex justify-content-around align-items-baseline">
                         <div class="p-2">
                             <img  class="img-fluid" src="../assets/techBrandsBadges/Java.png" alt="">
                             <p class="text-center mt-auto">Java</p>
@@ -95,10 +105,6 @@
                         <div class="p-2">
                             <img  class="img-fluid" src="../assets/techBrandsBadges/firebase.png" alt="">
                             <p class="text-center mt-auto">Firebase</p>
-                        </div>
-                        <div class="p-2">
-                            <img  class="img-fluid" src="../assets/techBrandsBadges/conposer.png" alt="">
-                            <p class="text-center mt-auto">Composer</p>
                         </div>
                         <div class="p-2">
                             <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/PostgreSQL.png" alt="">

@@ -16,6 +16,7 @@
   "source-code": "Source code",
   "database-design": "Database design",
   "experience-with": "Experience with",
+  "close": "Close",
 
   "application-state": "Application state",
 
@@ -118,5 +119,40 @@
   "java":{
     "title": "Java projects",
     "description": "Java projects completed as GMIT's modules final projects."
+  },
+
+  "education": {
+    "education": "Education",
+    "page-intro": "List of attended educational institutions.",
+    "institution-website": "Website",
+    "high-school": "Secondary grammar school arm. gen. L. Svobodu in Humenne",
+    "university": "Academy of the Police Force in Bratislava",
+    "university-description": "Bachelor of Legal Protection of Persons and Property",
+    "gmit": "Galway-Mayo Institute of Technology",
+    "gmit-description":"Higher Diploma in Computing - Software Development",
+    "udemy-certificates": "Udemy certificates",
+    "udemy-certificates-intro": "Udemy programming certificates",
+    "taught-modules": "Taught modules",
+    "display-taught-modules": "Display taught modules"
+    
+    
+    
+  },
+
+  "gmit": {
+    "completed-modules": "Completed modules",
+    "module-name": "Module name",
+    "final-grade-percentage": "Final grade in percentage",
+    "final-grade-clasification": "Letter grade",
+    "oop-subject": "Object Oriented Software Development",
+    "aoop-subject": "Advanced Object Oriented Software Development",
+    "catc-subject": "Computer Architecture and Technology Convergence",
+    "nt-subject": "Network Technologies",
+    "ddad-subject": "Database Design and Development",
+    "wad-subject": "Web Application Development",
+    "aad-subject": "Agile Application Development",
+    "amd-subject": "Mobile Application Development",
+    "osacc-subject": "Operating Systems and Cloud Computing",
+    "ctwa-subject": "Computational Thinking with Algorithms"
   }
 }

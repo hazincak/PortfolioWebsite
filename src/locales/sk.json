@@ -16,6 +16,7 @@
   "source-code": "Zdrojový kód",
   "database-design": "Štruktúra databázy",
   "experience-with": "Skúsenosti s",
+  "close": "Zatvoriť",
 
   "application-state": "Aplikačný stav",
   
@@ -117,5 +118,38 @@
   "java":{
     "title": "Java projekty",
     "description": "Java projekty vypracované ako záverečné práce predmetov na GMIT."
+  },
+
+  "education": {
+    "education": "Vzdelanie",
+    "page-intro": "Zoznam absolvovaných vzdelávacích inštitúcií a ostatných dosiahnutých certifikátov z oblasti programovania.",
+    "institution-website": "Webová stránka školy",
+    "high-school": "Gymnázium arm. gen. L. Svobodu v Humennom",
+    "university": "Akadémia policajného zboru v Bratislave",
+    "university-description": "Bakalár v odbore Bezpečnostnoprávna ochrana osôb a majetku",
+    "gmit": "Galway-Mayo Institute of Technology",
+    "gmit-description":"Higher Diploma in Conputing - Software Development",
+    "udemy-certificates": "Udemy certifikáty",
+    "udemy-certificates-intro": "Udemy certifikáty z programovania.",
+    "taught-modules": "Moduly kurzu",
+    "display-taught-modules": "Zobraz moduly kurzu"
+  },
+
+  "gmit": {
+    "completed-modules": "Absolvované predmety",
+    "module-name": "Názov predmetu",
+    "final-grade-percentage": "Hodnotenie v percentách",
+    "final-grade-clasification": "Hodnotenie známkou",
+    "oop-subject": "Objektovo orientované programovanie",
+    "aoop-subject": "Objektovo orientované programovanie 2",
+    "catc-subject": "Počítačová architektúra a technologický vývoj ",
+    "nt-subject": "Informačné a sieťové technológie",
+    "ddad-subject": "Modelovanie a vývoj databáz",
+    "wad-subject": "Vývoj webových aplikácií",
+    "aad-subject": "Agilné metodológie riadenia vývoja softvéru",
+    "amd-subject": "Vývoj mobilných aplikácií",
+    "osacc-subject": "Operačné systémy a cloud computing",
+    "ctwa-subject": "Počítačové myslenie s algoritmamy"
+
   }
 }

@@ -1,8 +1,9 @@
 <template>
     <div>
-        <h1>Phone Cases Shop</h1>
+        
         <div class="row">
             <div class="col-md-12 text-center">
+                <h1>Phone Cases Shop</h1>
                 <img alt=""  class="img-fluid w-100 rounded"  src="../../assets/PhoneCasesShop.jpg">
             </div>
         </div>
