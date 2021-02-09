@@ -1,18 +1,20 @@
 <template>
     <div>
-        <div class="row justify-content-center">
-            <div class="col-md-6 text-center">
-                <h1><span>{{$t('my-projects')}}</span></h1>
-                <p class="lead">{{$t('projects-page-intro')}}</p>
-            </div>        
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col-md-6 text-center">
+                    <h1><span>{{$t('my-projects')}}</span></h1>
+                    <p class="lead">{{$t('projects-page-intro')}}</p>
+                </div>        
+            </div>
         </div>
-        <hr>
-        
-            <div class="col-12">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
                 <div class="m-5">
                     <div class="row align-items-center">
                         <div class="col-md-6">
-                            <img alt="project-thumbnail" class="img-fluid"  src="../../assets/PhoneCasesShop.jpg">
+                            <img class="img-fluid"  src="../../assets/PhoneCasesShop.jpg">
                         </div>
                         <div class="col-md-6">
                             <h4><span>{{$t('phone-cases-shop.title')}}</span></h4>
@@ -21,9 +23,9 @@
                             
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="d-flex justify-content-around align-items-center">
+                    <div class="row justify-content-center">
+                        <div class="col-md-8">
+                            <div class="d-flex justify-content-center align-items-center">
                                 <div class="p-2">
                                     <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                 </div>
@@ -63,7 +65,7 @@
                 <div class="m-5"> 
                     <div class="row">
                         <div class="col-md-6">
-                            <img alt="project-thumbnail" class="img-fluid rounded img-thumbnail"  src="../../assets/WeatherApp.jpg">
+                            <img class="img-fluid rounded img-thumbnail"  src="../../assets/WeatherApp.jpg">
                         </div>
                         <div class="col-md-6">
                             <h4><span>{{$t('weather-app.title')}}</span></h4>
@@ -71,9 +73,9 @@
                             <router-link :to="{name: 'WeatherAppProject'}" class="btn btn-secondary btn-block">{{$t('more-button')}}</router-link>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="d-flex justify-content-around align-items-center">
+                    <div class="row justify-content-center">
+                        <div class="col-md-6">
+                            <div class="d-flex justify-content-center align-items-center">
                                 <div class="p-2">
                                     <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                 </div>
@@ -104,7 +106,7 @@
                 <div class="m-5">   
                     <div class="row align-items-center ">
                         <div class="col-md-6">
-                            <img alt="project-thumbnail" class="img-fluid rounded img-thumbnail"  src="../../assets/laptopmania.jpg">
+                            <img class="img-fluid rounded img-thumbnail"  src="../../assets/laptopmania.jpg">
                         </div>
                         <div class="col-md-6">
                             <h4><span>Laptopmania</span></h4>
@@ -112,9 +114,9 @@
                             <router-link :to="{name: 'LaptopmaniaProject'}" class="btn btn-secondary btn-block">{{$t('more-button')}}</router-link>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                                <div class="d-flex justify-content-around align-items-center">
+                    <div class="row justify-content-center">
+                        <div class="col-md-8">
+                                <div class="d-flex justify-content-center align-items-center">
                                     <div class="p-2">
                                     <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                     </div>
@@ -152,7 +154,7 @@
                 <div class="m-5">   
                     <div class="row align-items-center">
                         <div class="col-md-6">
-                            <img alt="project-thumbnail" class="img-fluid rounded img-thumbnail"  src="../../assets/SapConcur.jpg">
+                            <img class="img-fluid rounded img-thumbnail"  src="../../assets/SapConcur.jpg">
                         </div>
                         <div class="col-md-6">
                             <h4><span>SAP Concur</span></h4>
@@ -160,9 +162,9 @@
                             <router-link :to="{name: 'SapConcurProject'}" class="btn btn-secondary btn-block">{{$t('more-button')}}</router-link>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                                <div class="d-flex justify-content-around align-items-center">
+                    <div class="row justify-content-center">
+                        <div class="col-md-5">
+                                <div class="d-flex justify-content-center align-items-center">
                                     <div class="p-2">
                                         <img class="img-fluid" src="../../assets/techBrands/wordpress.png" alt="wordpress-logo">
                                     </div>
@@ -180,7 +182,7 @@
                 <div class="m-5">   
                     <div class="row align-items-center">
                         <div class="col-md-6">
-                            <img alt="project-thumbnail" class="img-fluid rounded img-thumbnail"  src="../../assets/BlogSystem.jpg">
+                            <img class="img-fluid rounded img-thumbnail"  src="../../assets/BlogSystem.jpg">
                         </div>
                         <div class="col-md-6">
                             <h4><span>BlogSystem</span></h4>
@@ -188,8 +190,8 @@
                             <router-link :to="{name: 'BlogSystemProject'}" class="btn btn-secondary btn-block">{{$t('more-button')}}</router-link>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-md-12">
+                    <div class="row justify-content-center">
+                        <div class="col-md-6">
                                 <div class="d-flex justify-content-center align-items-center">
                                    <div class="p-2">
                                     <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
@@ -217,7 +219,7 @@
                 <div class="m-5">   
                     <div class="row align-items-center">
                         <div class="col-md-6">
-                            <img alt="project-thumbnail" class="img-fluid rounded img-thumbnail"  src="../../assets/MovieFight.jpg">
+                            <img class="img-fluid rounded img-thumbnail"  src="../../assets/MovieFight.jpg">
                         </div>
                         <div class="col-md-6">
                             <h4><span>MovieFight</span></h4>
@@ -225,8 +227,8 @@
                             <router-link :to="{name: 'MovieFightProject'}" class="btn btn-secondary btn-block">{{$t('more-button')}}</router-link>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-md-12">
+                    <div class="row justify-content-center">
+                        <div class="col-md-4">
                                 <div class="d-flex justify-content-center align-items-center">
                                     <div class="p-2">
                                     <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
@@ -248,7 +250,7 @@
                 <div class="m-5">   
                     <div class="row align-items-center">
                         <div class="col-md-6">
-                            <img alt="project-thumbnail" class="img-fluid rounded img-thumbnail"  src="../../assets/techBrands/java.png">
+                            <img class="img-fluid rounded img-thumbnail"  src="../../assets/techBrands/java.png">
                         </div>
                         <div class="col-md-6">
                             <h4><span>{{$t('java.title')}}</span></h4>
@@ -258,6 +260,10 @@
                     </div>
                 </div>
             </div>
+            </div>
+        </div>
+        
+            
         
     </div>
 </template>
