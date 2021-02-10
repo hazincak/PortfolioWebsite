@@ -22,7 +22,7 @@
                             <h6>{{$t('education.institution-website')}}: <a href="https://gaglshe.edupage.org/" target="_blank" rel="noopener noreferrer">https://gaglshe.edupage.org/</a></h6>
                         </div>
                     </div>
-                    <hr>
+                    <hr class="divider--full">
                     <div class="d-flex flex-row justify-content-center">
                         <div class="p-2 align-self-center">
                             <img class="img-fluid" src="../assets/education/APZ.png">
@@ -34,7 +34,7 @@
                             <h6>{{$t('education.institution-website')}}: <a href="https://www.akademiapz.sk/" target="_blank" rel="noopener noreferrer">https://www.akademiapz.sk/</a></h6>
                         </div>
                     </div>
-                    <hr>
+                    <hr class="divider--full">
                     <div class="d-flex flex-row justify-content-center">
                         <div class="p-2 align-self-center">
                             <img class="img-fluid"  src="../assets/education/GMIT.png">
@@ -44,24 +44,22 @@
                             <h5>2019-2021</h5>
                             <p>{{$t('education.gmit-description')}}</p>
                             <h6>{{$t('education.institution-website')}}: <a href="https://www.gmit.ie/" target="_blank" rel="noopener noreferrer">https://www.gmit.ie/</a></h6>
-                            <hr>
-                            <button type="button" class="btn btn-primary btn-block" data-toggle="modal" data-target="#gmitModules">
+                            <button type="button" class="btn btn--myPrimary btn-block" data-toggle="modal" data-target="#gmitModules">
                                 {{$t('gmit.completed-modules')}}
                             </button>
                         </div>
                     </div>
                 </div>
             </div>
-            <hr>
+            <hr class="divider--full">
             <div class="row">
                 <div class="col-12 text-center">
                     <h1><span>{{$t('education.udemy-certificates')}}</span></h1>
                     <p class="lead">{{$t('education.udemy-certificates-intro')}}</p>
                 </div>
             </div>    
-            <hr>
-            <div class="row">
-                <div class="col">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
                     <div id="certificatesCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
                   <div class="carousel-inner">
                     <div class="carousel-item active">

@@ -9,7 +9,7 @@
         </div>
       </div>  
     </div>
-    <div class="section_base">
+    <div class="section_body">
       <div class="container">
         <div class="row">
           <div class="col-md-7">

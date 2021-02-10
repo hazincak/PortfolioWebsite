@@ -57,8 +57,8 @@
 
                         </div>
                     </div>
-                    <hr>
                 </div>
+                <hr class="divider--full">
                 <div class="m-5"> 
                     <div class="row align-items-center">
                         <div class="col-md-6">
@@ -95,8 +95,8 @@
 
                         </div>
                     </div>
-                    <hr>
                 </div>
+                <hr class="divider--full">
                 <div class="m-5">   
                     <div class="row align-items-center ">
                         <div class="col-md-6">
@@ -138,8 +138,8 @@
                             </div>
                         </div>
                     </div>
-                    <hr>
                 </div>
+                <hr class="divider--full">
                 <div class="m-5">   
                     <div class="row align-items-center">
                         <div class="col-md-6">
@@ -167,7 +167,7 @@
                         </div>
                     </div>
                 </div>
-                <hr>
+                <hr class="divider--full">
                 <div class="m-5">   
                     <div class="row align-items-center">
                         <div class="col-md-6">
@@ -204,7 +204,7 @@
                         </div>
                     </div>
                 </div>
-                <hr>
+                <hr class="divider--full">
                 <div class="m-5">   
                     <div class="row align-items-center">
                         <div class="col-md-6">
@@ -235,7 +235,7 @@
                         </div>
                     </div>
                 </div>
-                <hr>
+                <hr class="divider--full">
                 <div class="m-5">   
                     <div class="row align-items-center">
                         <div class="col-md-6">

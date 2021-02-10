@@ -13,7 +13,7 @@
                     <div class="col-md-12">
                         <div>
                             <h4><span>HTML & CSS</span></h4>
-                            <hr>
+                            <hr class="full">
                             <div class="d-flex justify-content-around align-items-baseline">
                                 <div class="p-2">
                                     <img  class="img-fluid" src="../assets/techBrandsBadges/html5-badge.png" alt="">
@@ -36,7 +36,9 @@
                                     <p class="text-center mt-auto">Sass</p>
                                 </div>
                             </div>
-
+                        </div>
+                        <hr class="divider--full">
+                        <div>
                             <h4>Javascript</h4>
                             <hr>
                             <div class="d-flex justify-content-around align-items-baseline">
@@ -66,6 +68,7 @@
                                 </div>
                             </div>
                         </div>
+                        <hr class="divider--full">
                         <div>
                             <h4>Backend & {{$t('databases')}}</h4>
                             <hr>
@@ -84,6 +87,7 @@
                                 </div>
                             </div>
                         </div>
+                        <hr class="divider--full">
                         <div>
                             <h4>Package managers</h4>
                             <hr>
@@ -98,6 +102,7 @@
                                 </div>
                             </div>
                         </div>
+                        <hr class="divider--full">
                         <div>
                             <h4>{{$t('experience-with')}}</h4>
                             <hr>
