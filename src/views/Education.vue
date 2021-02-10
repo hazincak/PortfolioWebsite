@@ -1,14 +1,15 @@
 <template>
     <div>
-        <div class="container-fluid">
-            <div class="row justify-content-center">
+        <div class="container-fluid section_banner">
+            <div class="row justify-content-center align-items-center">
                 <div class="col-md-6 text-center">
                     <h1><span>{{$t('education.education')}}</span></h1>
                     <p class="lead">{{$t('education.page-intro')}}</p>
                 </div>        
             </div>
         </div>
-        <div class="container">
+        <div class="section_body">
+            <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="d-flex flex-row justify-content-center">
@@ -115,6 +116,8 @@
         <!-- row -->
         </div>
         <!-- container -->
+        </div>
+        <!-- section_body -->
         <app-education-page-modals></app-education-page-modals>
     </div>
 

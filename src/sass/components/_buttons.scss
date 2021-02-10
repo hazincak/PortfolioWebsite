@@ -1,0 +1,15 @@
+.btn{
+    font-weight: bold;
+    &--myPrimary{
+        background-color: $my-color-3;
+        color: $my-color-white;
+        &:hover{
+            color: $my-color-4;
+        }
+    }
+    &--mySecondary{
+        background-color: $my-color-white;
+        border-color: $my-color-3;
+    }
+ 
+}

@@ -1,6 +1,6 @@
 <template>
    
-        <footer class="footer">
+        <footer class="footer section_footer">
             <div class="row justify-content-center">
                 <div class="col-md-6 text-center">
                     <span :class="{active: locale ==='en'}" class="pointer" @click="setLanguage('en')">English</span>&nbsp;|&nbsp;<span :class="{active: locale ==='sk'}" class="pointer" @click="setLanguage('sk')">Slovensky</span>

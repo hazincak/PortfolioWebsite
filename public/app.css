@@ -7187,7 +7187,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 .container {
-  min-height: 40vh;
+  min-height: 50vh;
   padding: 4rem 1rem; }
 
 
@@ -7196,18 +7196,48 @@ a.text-dark:hover, a.text-dark:focus {
 .container-md,
 .container-lg,
 .container-xl {
-  padding: 4rem 0rem;
-  background-color: blanchedalmond; }
+  min-height: 30.5vh; }
+  .container-fluid .row, .container-sm .row, .container-md .row, .container-lg .row, .container-xl .row {
+    min-height: inherit; }
+
+hr {
+  height: 12px;
+  border: 0;
+  box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5); }
 
 html {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50; }
 
+body {
+  font-family: 'Rubik', Helvetica, Arial, sans-serif;
+  font-weight: 400; }
+
+h1, h2, h3, h5, h6 {
+  font-family: "Rubik"; }
+
+a {
+  color: #f05454; }
+
+.heading--secondary {
+  background-image: 120deg, #f05454 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 0.2em;
+  background-position: 0 88%;
+  transition: background-size 0.25s ease-in; }
+  .heading--secondary:hover {
+    background-size: 100% 88%; }
+
+.heading--animated {
+  animation-name: moveInLeft;
+  animation-duration: 1s;
+  animation-timing-function: ease-out; }
+
 .contact-icon {
   font-size: 2.0rem;
+  color: #f05454;
   vertical-align: middle; }
 
 .active {
@@ -7216,22 +7246,50 @@ html {
 .pointer {
   cursor: pointer; }
 
-a {
+nav a {
   font-weight: bold;
-  color: #007bff; }
-  a:hover {
-    text-decoration: none; }
-  a.router-link-exact-active {
-    color: #ffc107; }
+  color: #fff; }
+  nav a:hover {
+    text-decoration: none;
+    color: #f05454; }
+  nav a.router-link-exact-active {
+    color: #f05454; }
+
+.section_banner {
+  color: #fff; }
+
+nav {
+  background-color: #222831; }
 
 .footer {
   padding: 2rem 5rem;
-  text-align: center;
-  background-color: #f8f9fa; }
+  text-align: center; }
+
+.section_banner {
+  background: #222831;
+  background: linear-gradient(0deg, #30475e 0%, #222831 100%); }
+
+.section_body {
+  background: #cccccc;
+  background: radial-gradient(circle, #fff 60%, #cccccc 100%); }
+
+.section_footer {
+  background-color: #cccccc; }
 
 .img-avatar {
-  width: 15%;
+  width: 13%;
   border-radius: 50%; }
 
 .img-tech-brand-badge {
   height: 30px; }
+
+.btn {
+  font-weight: bold; }
+  .btn--myPrimary {
+    background-color: #30475e;
+    color: #fff; }
+    .btn--myPrimary:hover {
+      color: #f05454; }
+  .btn--mySecondary {
+    background-color: #fff;
+    border-color: #30475e; }

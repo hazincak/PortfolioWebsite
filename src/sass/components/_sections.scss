@@ -1,0 +1,13 @@
+.section{
+    &_banner{
+        background: $my-color-2;
+        background: linear-gradient(0deg, $my-color-3 0%, $my-color-2 100%);
+    }
+    &_body{
+        background: $my-color-1;
+        background: radial-gradient(circle, $my-color-white 60%, $my-color-1 100%);
+    }
+    &_footer{
+        background-color:$my-color-1;
+    }
+}

@@ -1,16 +1,55 @@
 
 
 html{
-    font-family: Avenir, Helvetica, Arial, sans-serif;
+    
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     color: #2c3e50;
     
 }
+
+body{
+  font-family: 'Rubik', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+
+h1,h2,h3,h5,h6{
+  font-family: "Rubik";
+}
+
+a{
+  color: $my-color-4;
+}
+
+.heading{
+  &--main{
+  
+  
+   
+  }
+
+  &--secondary{
+    background-image: 120deg, $my-color-4 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 0.2em;
+    background-position: 0 88%;
+    transition: background-size 0.25s ease-in;
+    &:hover {
+      background-size: 100% 88%;
+    }
+  }
+
+  &--animated{
+    animation-name: moveInLeft;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+  }
+}
+
 .contact-icon{
   font-size: 2.0rem;
-  
+  color: $my-color-4;
   vertical-align: middle;
 }
 
@@ -20,18 +59,22 @@ html{
 .pointer{
   cursor: pointer;
 }
-a {
+nav a {
   font-weight: bold;
-  color: $blue;
+  color: $my-color-white;
   &:hover{
     text-decoration: none;
+    color: $my-color-4;
   }
-  // &.router-link-active{
-  //   color: #42b983;
-  // }
   
   &.router-link-exact-active {
-    color: $warning; 
+    color: $my-color-4; 
+  }
+}
+
+.section{
+  &_banner{
+    color: $my-color-white;
   }
 }
   
