@@ -17,7 +17,7 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-10 text-center">
-                         <h3><span>{{$t('used-technologies')}}</span></h3>
+                         <h4><span>{{$t('used-technologies')}}</span></h4>
                             <h5><span>Frontend:</span></h5>
                             <p>&nbsp;HTML5,&nbsp;CSS3,&nbsp;Sass,&nbsp;VueJS&nbsp;(Javascript)</p>
                             <h5><span>Backend:</span></h5>
@@ -25,17 +25,17 @@
                             <h5><span>{{$t('database')}}:</span></h5>
                             <p>&nbsp;MySQL&nbsp;(SQL)</p> 
 
-                            <h3><span>{{$t('other-used-technologies')}}</span></h3>
+                            <h4><span>{{$t('other-used-technologies')}}</span></h4>
                             <h5><span>{{$t('application-state')}}:</span></h5>
                             <p>Vuex</p>
-                            <h5><span>{{$t('application-state')}}:</span></h5>
+                            <h5><span>{{$t('payment-gateways')}}:</span></h5>
                             <p>PayPal,&nbsp;Stripe</p> 
                     </div>
                 </div>
                 <hr class="divider--full">
                 <div class="row justify-content-center">
                         <div class="col-10 text-center">
-                        <h3><span>{{$t('project-features')}}</span></h3>   
+                        <h4><span>{{$t('project-features')}}</span></h4>   
                         <h5><span>{{$t('dynamic-content')}}</span></h5>
                         <p>{{$t('dynamic-content-detail')}}</p>
                         <div class="row justify-content-center">
@@ -67,12 +67,12 @@
                 </div>
                 <hr class="divider--full">
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-8">
 
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                        <h3><span>{{$t('project-demo')}}</span></h3>
+                        <h4><span>{{$t('project-demo-plural')}}</span></h4>
                         <div class="col-md-12 ">
                             <div id="carouselExampleControls" class="carousel slide" data-interval="false" data-touch="true" data-ride="carousel">
                          <div class="carousel-inner">
@@ -83,8 +83,8 @@
                                              </video>
                                          </div>
                                          <div>
-                                             <h5 class="text-muted text-center">{{$t('phone-cases-shop-videos.categoryCRUD')}}</h5>
-                                             <p class="text-muted text-center">{{$t('phone-cases-shop-videos.categoryCRUD-detail')}}</p>
+                                             <h5 class="text-center">{{$t('phone-cases-shop-videos.categoryCRUD')}}</h5>
+                                             <p class="text-center">{{$t('phone-cases-shop-videos.categoryCRUD-detail')}}</p>
                                          </div>
                                 </div>
                                 <div class="carousel-item">
@@ -94,8 +94,8 @@
                                              </video>
                                          </div>
                                          <div>
-                                             <h5 class="text-muted text-center">{{$t('phone-cases-shop-videos.creating-model')}}</h5>
-                                             <p class="text-muted text-center">{{$t('phone-cases-shop-videos.creating-model-detail')}}</p>
+                                             <h5 class="text-center">{{$t('phone-cases-shop-videos.creating-model')}}</h5>
+                                             <p class="text-center">{{$t('phone-cases-shop-videos.creating-model-detail')}}</p>
                                          </div>
                                 </div>
                                 <div class="carousel-item">
@@ -105,8 +105,8 @@
                                              </video>
                                          </div>
                                          <div>
-                                             <h5 class="text-muted text-center">{{$t('phone-cases-shop-videos.attaching-brand-and-model')}}</h5>
-                                             <p class="text-muted text-center">{{$t('phone-cases-shop-videos.attaching-brand-and-model-detail')}}</p>
+                                             <h5 class="text-center">{{$t('phone-cases-shop-videos.attaching-brand-and-model')}}</h5>
+                                             <p class="text-center">{{$t('phone-cases-shop-videos.attaching-brand-and-model-detail')}}</p>
                                          </div>
                                 </div>
                                 <div class="carousel-item">
@@ -116,8 +116,8 @@
                                              </video>
                                          </div>
                                          <div>
-                                             <h5 class="text-muted text-center">{{$t('phone-cases-shop-videos.adding-product')}}</h5>
-                                             <p class="text-muted text-center">{{$t('phone-cases-shop-videos.adding-product-detail')}}</p>
+                                             <h5 class="text-center">{{$t('phone-cases-shop-videos.adding-product')}}</h5>
+                                             <p class="text-center">{{$t('phone-cases-shop-videos.adding-product-detail')}}</p>
                                          </div>
                                 </div>
                                 <div class="carousel-item">
@@ -130,7 +130,7 @@
                                              <h5>{{$t('phone-cases-shop-videos.updating-product')}}</h5>
                                          </div>
                                          <div>
-                                             <h5 class="text-muted text-center">{{$t('phone-cases-shop-videos.updating-product')}}</h5>
+                                             <h5 class="text-center">{{$t('phone-cases-shop-videos.updating-product')}}</h5>
                                          </div>
                                 </div>
                                 <div class="carousel-item">
@@ -140,7 +140,7 @@
                                              </video>
                                          </div>
                                          <div>
-                                             <h5 class="text-muted text-center">{{$t('phone-cases-shop-videos.placing-order-paypal')}}</h5>
+                                             <h5 class="text-center">{{$t('phone-cases-shop-videos.placing-order-paypal')}}</h5>
                                          </div>
                                 </div>
                                 <div class="carousel-item">
@@ -150,7 +150,7 @@
                                              </video>
                                          </div>     
                                          <div>
-                                             <h5 class="text-muted text-center">{{$t('phone-cases-shop-videos.placing-order-stripe')}}</h5>
+                                             <h5 class="text-center">{{$t('phone-cases-shop-videos.placing-order-stripe')}}</h5>
                                          </div>
                                 </div>
                                 <div class="carousel-item">
@@ -160,8 +160,8 @@
                                              </video>
                                          </div>
                                          <div>
-                                             <h5 class="text-muted text-center">{{$t('phone-cases-shop-videos.managing-policies')}}</h5>
-                                             <p class="text-muted text-center">{{$t('phone-cases-shop-videos.managing-policies-detail')}}</p>
+                                             <h5 class="text-center">{{$t('phone-cases-shop-videos.managing-policies')}}</h5>
+                                             <p class="text-center">{{$t('phone-cases-shop-videos.managing-policies-detail')}}</p>
                                          </div>
                                 </div>
                                 <div class="carousel-item">
@@ -171,7 +171,7 @@
                                              </video>
                                          </div>
                                          <div>
-                                             <h5 class="text-muted text-center">{{$t('phone-cases-shop-videos.managing-carousel')}}</h5>
+                                             <h5 class="text-center">{{$t('phone-cases-shop-videos.managing-carousel')}}</h5>
                                          </div>
                                 </div>
                                 <div class="carousel-item">
@@ -181,7 +181,7 @@
                                              </video>
                                          </div>
                                          <div>
-                                             <h5 class="text-muted text-center">{{$t('phone-cases-shop-videos.protecting-routes')}}</h5>
+                                             <h5 class="text-center">{{$t('phone-cases-shop-videos.protecting-routes')}}</h5>
                                          </div>
                                 </div>
                          </div>
@@ -200,15 +200,16 @@
 
                 </div>
                    <!-- row -->
+                <hr class="divider--full">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <h3><span>{{$t('database-design')}}</span></h3>
+                        <h4><span>{{$t('database-design')}}</span></h4>
                     </div>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-8 text-center">
-                        <h3><span>{{$t('source-code')}}</span></h3>
-                        <button class="btn btn-secondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                        <h4><span>{{$t('source-code')}}</span></h4>
+                        <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
                     </div>
                 </div>
             </div>

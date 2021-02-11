@@ -11,12 +11,14 @@
   "used-technologies": "Použité technológie",
   "other-used-technologies": "Ostatné použité technológie",
   "payment-gateways": "Platobné brány",
-  "project-demo": "Video ukážky projektu",
+  "project-demo-singular": "Video ukážka projektu",
+  "project-demo-plural": "Video ukážky projektu",
   "project-features": "Implementované funkcie",
   "source-code": "Zdrojový kód",
   "database-design": "Štruktúra databázy",
   "experience-with": "Skúsenosti s",
   "close": "Zatvoriť",
+  "authentification": "autentifikácia",
 
   "application-state": "Aplikačný stav",
   
@@ -96,7 +98,16 @@
 
   "weather-app":{
     "title": "Mobilná aplikácia na počasie",
-    "description": "Mobilná aplikácia vypracovaná ako záverečná práca predmetu na GMIT."
+    "description": "Mobilná aplikácia vypracovaná ako záverečná práca predmetu na GMIT.",
+    "bookmarks": "Záložky článkov",
+    "bookmarks-detail": "Užívateľ aplikácie môže pridať ľubovoľný článok do záložiek. Ten je potom uloženy do Ionic úložiska. Článok môže byť neskôr prečítaný alebo zmazaný.",
+    "bookmarks-badge": "Informative CSS badge",
+    "bookmarks-badge-detail": "Rounded badge showing number of bookmarked articles in the Ionic storage",
+    "ionic-searchbar": "Ionic vyhľadávacie pole",
+    "ionic-searchbar-detail": "Užívateľ aplikácie vyhľadáva svoju lokáciu pomocou Ionic vyhľadávacieho okna. Zoznam nájdených lokalít ziskany vysláním HTTP požiadavky do OpenWeather Geocoding API, ktorý je súčasťou Current Weather Data API. HTTP požiadavka klienta je vyslaná potom ako užívateľ prestane písať názov obce.",
+    "rotating-icon": "Zobrazenie smeru vetra",
+    "rotating-icon-detail": "Rotujúca ikona v tvare šipky a svetové strany zobzobrazujúce hodnoty na základe uhlu vetra."
+
   },
 
   "laptopmania":{

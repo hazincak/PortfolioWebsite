@@ -59,41 +59,41 @@
                 </div>
             </div>    
             <div class="row justify-content-center">
-                <div class="col-md-10">
+                <div class="col-md-12">
                     <div id="certificatesCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
-                  <div class="carousel-inner">
+                  <div class="carousel-inner text-center">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="../assets/education/certificates/webDev.jpg" alt="First slide">
+                        <img class="d-block w-100 img-certificate " src="../assets/education/certificates/webDev.jpg" alt="First slide">
                         <div>
                             <h5 class="text-muted text-center"><a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/" target="_blank" rel="noopener noreferrer">{{$t('education.find-out-more')}}</a></h5>
                         </div>
                     </div>
                     <div class="carousel-item">
-                      <img class="d-block w-100"  src="../assets/education/certificates/sql.jpg" alt="Second slide">
+                      <img class="d-block w-100 img-certificate"  src="../assets/education/certificates/sql.jpg" alt="Second slide">
                         <div>
                             <h5 class="text-muted text-center"><a href="https://www.udemy.com/course/the-complete-sql-bootcamp/" target="_blank" rel="noopener noreferrer">{{$t('education.find-out-more')}}</a></h5>
                         </div>
                     </div>
                     <div class="carousel-item">
-                      <img class="d-block w-100" src="../assets/education/certificates/laravel.jpg" alt="Third slide">
+                      <img class="d-block w-100 img-certificate" src="../assets/education/certificates/laravel.jpg" alt="Third slide">
                         <div>
                             <h5 class="text-muted text-center"><a href="https://www.udemy.com/course/laravel-beginner-fundamentals/" target="_blank" rel="noopener noreferrer">{{$t('education.find-out-more')}}</a></h5>
                         </div>
                     </div>
                     <div class="carousel-item">
-                      <img class="d-block w-100" src="../assets/education/certificates/laravel2.jpg" alt="Fourth slide">
+                      <img class="d-block w-100 img-certificate" src="../assets/education/certificates/laravel2.jpg" alt="Fourth slide">
                         <div>
                             <h5 class="text-muted text-center"><a href="https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/" target="_blank" rel="noopener noreferrer">{{$t('education.find-out-more')}}</a></h5>
                         </div>
                     </div>
                     <div class="carousel-item">
-                      <img class="d-block w-100" src="../assets/education/certificates/laravel-vue.jpg" alt="Sixth slide">
+                      <img class="d-block w-100 img-certificate" src="../assets/education/certificates/laravel-vue.jpg" alt="Sixth slide">
                         <div>
                             <h5 class="text-muted text-center"><a href="https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/" target="_blank" rel="noopener noreferrer">{{$t('education.find-out-more')}}</a></h5>
                         </div>
                     </div>
                     <div class="carousel-item">
-                      <img class="d-block w-100" src="../assets/education/certificates/git&Github.jpg" alt="Sixth slide">
+                      <img class="d-block w-100 img-certificate" src="../assets/education/certificates/git&Github.jpg" alt="Sixth slide">
                         <div>
                             <h5 class="text-muted text-center"><a href="https://www.udemy.com/course/git-and-github-masterclass/" target="_blank" rel="noopener noreferrer">{{$t('education.find-out-more')}}</a></h5>
                         </div>

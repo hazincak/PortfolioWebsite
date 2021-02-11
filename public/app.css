@@ -7292,6 +7292,10 @@ nav {
   width: 13%;
   border-radius: 50%; }
 
+.img-certificate {
+  max-width: 80%;
+  margin: auto; }
+
 .img-tech-brand-badge {
   height: 30px; }
 
@@ -7304,4 +7308,8 @@ nav {
       color: #f05454; }
   .btn--mySecondary {
     background-color: #fff;
-    border-color: #30475e; }
+    color: #222831;
+    border-color: #222831; }
+    .btn--mySecondary:hover {
+      color: #fff;
+      background-color: #222831; }

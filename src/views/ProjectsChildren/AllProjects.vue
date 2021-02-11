@@ -27,7 +27,7 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-8">
+                        <div class="col-md-9">
                             <div class="d-flex justify-content-center align-items-center">
                                 <div class="p-2">
                                     <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">

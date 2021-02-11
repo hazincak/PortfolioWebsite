@@ -9,7 +9,12 @@
     }
     &--mySecondary{
         background-color: $my-color-white;
-        border-color: $my-color-3;
+        color: $my-color-2;
+        border-color: $my-color-2;
+        &:hover{
+            color: $my-color-white;
+            background-color: $my-color-2;
+        }
     }
  
 }

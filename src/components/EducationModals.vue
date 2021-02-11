@@ -73,7 +73,7 @@
                         </table>
                       </div>
                       <div class="modal-footer">
-                        <button type="button" class="btn btn-block btn-secondary" data-dismiss="modal">{{$t('close')}}</button>
+                        <button type="button" class="btn btn--mySecondary btn-block" data-dismiss="modal">{{$t('close')}}</button>
                       </div>
                     </div>
                   </div>
