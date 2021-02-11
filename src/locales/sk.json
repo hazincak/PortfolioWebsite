@@ -98,7 +98,8 @@
 
   "weather-app":{
     "title": "Mobilná aplikácia na počasie",
-    "description": "Mobilná aplikácia vypracovaná ako záverečná práca predmetu na GMIT.",
+    "description": "Záverečná práca predmetu Vývoj mobilných aplikácií na GMIT.",
+    "description-detail": "Záverečná práca predmetu Vývoj mobilných aplikácií na GMIT vo forme Ionic mobilnej aplikácia zobrazujúca počasie a aktuality zo zvolenej oblasti.",
     "bookmarks": "Záložky článkov",
     "bookmarks-detail": "Užívateľ aplikácie môže pridať ľubovoľný článok do záložiek. Ten je potom uloženy do Ionic úložiska. Článok môže byť neskôr prečítaný alebo zmazaný.",
     "bookmarks-badge": "Informative CSS badge",
@@ -111,7 +112,16 @@
   },
 
   "laptopmania":{
-    "description": "Internetová stránka vypracovaná ako záverečná práca predmetu na GMIT."
+    "title": "Laptopmania",
+    "description": "Internetová stránka vypracovaná ako záverečná práca predmetu Vývoj webových aplikácií na GMIT.",
+    "description-detail": "Internetová stránka vypracovaná ako záverečná práca predmetu Vývoj webových aplikácií na GMIT, ktorej hlavnou úlohou bolo vyvinúť e-commerce stránku s použitím technológií učenom v tomto module - HTML5, CSS3, Bootstrap 4, Javascript a PHP. Pod slovom 'nákup' sa v tomto projekte rozumelo, povoliť užívateľovi sa zaregistrovať, prihlásiť a následne použiť svoje dáta na skompletizovanie nákupu bez nutnosti integrovania platobných brán.",
+    "shopping-cart": "Nákupný košík",
+    "shopping-cart-detail": "Produkty pridané do nákupného košíka sú dostupné naprieč všetkými stránkami e-shopu. Rovnako sú uložené v HTML5 webovom uložisku bez expiračnej doby. To zaručuje, že obsah nákupného košíka je dostupný aj po znovu načítání webovej stránky.",
+    "price-calculation": "Výpočet ceny",
+    "price-calculation-detail": "NakupTotal price of the basket is calculated any time user alter content of the basket. ",
+    "user-authentification": "Autentifikácia užívateľa",
+    "user-authentification-detail": "Užívateľ môže dokončiť svoj nákup ako registrovaný užívateľ a aj ako hosť."
+  
   },
 
   "sap-concur":{
@@ -119,7 +129,9 @@
   },
 
   "blog-system":{
-    "description": "Internetová stránka vo forme blogu s vlastným redakčným systémom obsahujúca funkcie s oprávneniami správcu a používateľa."
+    "description": "Internetová stránka vo forme blogu s vlastným redakčným systémom obsahujúca funkcie s oprávneniami správcu a používateľa.",
+    "description-detail": "Internetová stránka vo forme blogu s vlastným redakčným systémom obsahujúca funkcie s oprávneniami správcu a používateľa."
+    
   },
 
   "movie-fight":{
@@ -131,6 +143,20 @@
     "description": "Java projekty vypracované ako záverečné práce predmetov na GMIT."
   },
 
+  "java-projects":{
+    "cypher-title": "Polybiov štvorec projekt",
+    "cypher-description": "Java aplikácia umožňujúca zašifrovať a dešifrovať krátku správu s použitím ADFGVX šifry.",
+    "cypher-about": "Zistiť viac o šifre",
+
+    "simplifier-title": "Kompilátor anglického textu",
+    "simplifier-description": "Java aplikácia zjednodušujúca anglicky text zamieňaním anglickych slov za ich synonymá z Google zoznamu 1000 najviac používaných slov v angličtine.",
+
+    "benchmark-title": "Porovnávací test triediacich algoritmov",
+    "benchmark-description": "Java aplikácia analyzujúca rýchlosť triediacich algoritmov.",
+    "benchmark-algo": "Analyzované triediace algoritmy: ",
+    "report-download": "Stiahnuť report"
+  },
+
   "education": {
     "education": "Vzdelanie",
     "page-intro": "Zoznam absolvovaných vzdelávacích inštitúcií a ostatných dosiahnutých certifikátov z oblasti programovania.",
@@ -139,7 +165,7 @@
     "university": "Akadémia policajného zboru v Bratislave",
     "university-description": "Bakalár v odbore Bezpečnostnoprávna ochrana osôb a majetku",
     "gmit": "Galway-Mayo Institute of Technology",
-    "gmit-description":"Higher Diploma in Conputing - Software Development",
+    "gmit-description":"Higher Diploma in Computing - Software Development",
     "udemy-certificates": "Udemy certifikáty",
     "udemy-certificates-intro": "Udemy certifikáty z programovania.",
     "taught-modules": "Moduly kurzu",

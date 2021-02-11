@@ -56,7 +56,7 @@
                             </tr>
                             <tr>
                               <td>{{$t('gmit.amd-subject')}}</td>
-                              <td class="text-center">90%</td>
+                              <td class="text-center">93%</td>
                               <td class="text-center">A</td>
                             </tr>
                             <tr>

@@ -4,7 +4,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-md-8 text-center">
                     <h1>{{$t('weather-app.title')}}</h1>
-                    <p class="lead">{{$t('weather-app.description')}}</p>
+                    <p class="lead">{{$t('weather-app.description-detail')}}</p>
                 </div>
             </div>
         </div>
@@ -33,10 +33,6 @@
                             <h4><span>{{$t('project-features')}}</span></h4>   
                             <h5><span>{{$t('weather-app.bookmarks')}}</span></h5>
                             <p>{{$t('weather-app.bookmarks-detail')}}</p>
-
-                            <hr class="divider--partial">
-                            <h5><span>{{$t('weather-app.bookmarks')}}</span></h5>
-                            <p>{{$t('weather-app.bookmarks-detail')}}</p>
                             <hr class="divider--partial">
                             <h5><span>{{$t('weather-app.bookmarks-badge')}}</span></h5>
                             <p>{{$t('weather-app.bookmarks-badge-detail')}}</p>
@@ -54,7 +50,7 @@
                         <div class="col-md-12 ">
                                          <div class="embed-responsive embed-responsive-16by9">
                                              <video class="embed-responsive-item" controls>
-                                                 <source src='../../assets/projectsVideos/WeatherApp/IonicApp.mp4' type="video/mp4">
+                                                 <source src='../../assets/projectsVideos/IonicApp.mp4' type="video/mp4">
                                              </video>
                                          </div>
                         </div>

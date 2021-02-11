@@ -98,8 +98,9 @@
   },
 
   "weather-app":{
-    "title": "Weather and News mobile application",
-    "description": "Mobile application created as final project of Mobile Applications Development module at GMIT.",
+    "title": "Ionic Weather & News Reader",
+    "description": "Final project of Mobile Applications Development module at GMIT.",
+    "description-detail":  "Final project of Mobile Applications Development module at GMIT. Ionic mobile application that reads weather and news stories from internet resources. (OpenWeather.org and Newsapi.org) ",
     "bookmarks": "Bookmarks",
     "bookmarks-detail": "User of the application can bookmark any arcitle. This arcitle is then stored persistently in the Ionic Storage. Bookmarks can be then revisited or deleted from the Bookmarks page.",
     "bookmarks-badge": "Informative CSS badge",
@@ -111,7 +112,15 @@
   },
 
   "laptopmania":{
-    "description": "Website created as final project of Web Application Development module at GMIT."
+    "title": "Laptopmania",
+    "description": "Website created as final assessment of Web Application Development module at GMIT.",
+    "description-detail": "Website created as final assessment of Web Application Development module at GMIT. Main requirement was to develop a e-commerce website using techologies taught in this module - basics of HTML3, CSS3, Javascript, Bootstrap 4 and PHP. For this assignment, 'purchase' meant that the user is presented with the possibility to chose a product or item, and if the purchased button is clicked, they will be presented with a total cost.",
+    "shopping-cart": "Shopping cart",
+    "shopping-cart-detail": "Products added to the basket are stored with no expiration date in the HTML5 web storage (localStorage) therefore they are available on the page refresh and even after the webpage is left and revisited. Items can be deleted from the basket.",
+    "price-calculation": "Price calculation",
+    "price-calculation-detail": "Total price of the basket is calculated any time user alter content of the basket. ",
+    "user-authentification": "User authentification",
+    "user-authentification-detail": "User authentification detail"
   },
 
   "sap-concur":{
@@ -119,7 +128,10 @@
   },
 
   "blog-system":{
-    "description": "Blog website with its own content management system represented by protected admin and user areas."
+  
+    "description": "Blog website with its own content management system represented by protected admin and user areas.",
+    "description-detail": "Blog website with its own content management system represented by protected admin and user areas."
+  
   },
 
   "movie-fight":{
@@ -129,6 +141,23 @@
   "java":{
     "title": "Java projects",
     "description": "Java projects completed as GMIT's modules final projects."
+  },
+
+  "java-projects":{
+    "cypher-title": "Polybius Square Cypher",
+    "cypher-description": "Java application capable of encrypting and decrypting a short message using an ADFGVX cypher.",
+    "cypher-about": "Find out more about cypher.",
+
+    "simplifier-title": "A Text Simplifier API",
+    "simplifier-description": "Java text simplifier API that only allows the 1 000 most common words in English. The application allows the user to enter text into a console and dynamically swaps every word for its synonym from the Google list of 1 000 most common words in English.",
+
+    "benchmark-title": "Benchmarking Sorting algorithms",
+    "benchmark-description": "Java application benchmarking five different sorting algorithms.",
+    "benchmark-algo": "Benchmarked algorithms:",
+    "report-download": "Download full report"
+
+    
+    
   },
 
   "education": {

@@ -1,5 +1,93 @@
 <template>
     <div>
-        <h1>Java Projects</h1>
+        <div class="container-fluid section_banner">
+            <div class="row justify-content-center align-items-center">
+                <div class="col-md-6 text-center">
+                    <h1><span class="heading--main">{{$t('java.title')}}</span></h1>
+                    <p class="lead">{{$t('java.description')}}</p>
+                </div>        
+            </div>
+        </div>
+        <div class="section_body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="m-5">
+                            <div class="row align-items-center">
+                                <div class="col-md-3 text-center">
+                                    <img class="img-fluid"  src="../../assets/techBrandsBadges/java_title.png">
+                                </div>
+                                <div class="col-md-9 text-center">
+                                    <h4><span>{{$t('java-projects.cypher-title')}}</span></h4>
+                                    <p>{{$t('java-projects.cypher-description')}}</p>
+                                    <a href="https://en.wikipedia.org/wiki/ADFGVX_cipher" target="_blank" rel="noopener noreferrer">{{$t('java-projects.cypher-about')}}</a>
+                                    <hr>
+                                    <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr class="divider--full">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="m-5">
+                            <div class="row align-items-center">
+                                <div class="col-md-3 text-center">
+                                    <img class="img-fluid"  src="../../assets/techBrandsBadges/java_title.png">
+                                </div>
+                                <div class="col-md-9 text-center">
+                                    <h4><span>{{$t('java-projects.simplifier-title')}}</span></h4>
+                                    <p>{{$t('java-projects.simplifier-description')}}</p>
+                                    
+                                    <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr class="divider--full">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="m-5">
+                            <div class="row align-items-center">
+                                <div class="col-md-3 text-center">
+                                    <img class="img-fluid"  src="../../assets/techBrandsBadges/java_title.png">
+                                </div>
+                                <div class="col-md-9 text-center">
+                                    <h4><span>{{$t('java-projects.benchmark-title')}}</span></h4>
+                                    <p>{{$t('java-projects.benchmark-description')}}</p>
+                                    <div class="row justify-content-center">
+                                        <div class="col-4 text-center">
+                                            <h6>{{$t('java-projects.benchmark-algo')}}</h6>
+                                             <ol>
+                                                <li>Bubble sort</li>
+                                                <li>Selection sort</li>
+                                                <li>Merge sort</li>
+                                                <li>Quick sort</li>
+                                                <li>Counting sort</li>
+                                            </ol>
+                                        </div>
+                                    </div>
+                                    <a :href="reportDownload" download="Report">{{$t('java-projects.report-download')}}</a>
+                                    <hr>
+                                    <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </template>
+
+<script>
+export default {
+    data () {
+        return {
+         reportDownload: require("@/assets/downloadable/AlgoReport.pdf"),
+        }
+}
+}
+</script>
