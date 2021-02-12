@@ -69,7 +69,8 @@
                                             </ol>
                                         </div>
                                     </div>
-                                    <a :href="reportDownload" download="Report">{{$t('java-projects.report-download')}}</a>
+                                    
+                                    <a :href="link" download="report.pdf" >{{$t('java-projects.report-download')}}</a>
                                     <hr>
                                     <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
                                 </div>
@@ -84,10 +85,10 @@
 
 <script>
 export default {
-    data () {
-        return {
-         reportDownload: require("@/assets/downloadable/AlgoReport.pdf"),
+    data(){
+        return{
+            link: require('@/assets/downloadable/AlgoReport.pdf')
         }
-}
+    }
 }
 </script>

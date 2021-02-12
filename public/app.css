@@ -7226,6 +7226,7 @@ h1, h2, h3, h5, h6 {
   font-family: "Rubik"; }
 
 h4 {
+  margin-top: 1rem;
   color: #f05454; }
 
 a {
@@ -7298,6 +7299,10 @@ nav {
 
 .img-tech-brand-badge {
   height: 30px; }
+
+.img-logo {
+  max-width: 250px;
+  max-height: 150px; }
 
 .btn {
   font-weight: bold; }

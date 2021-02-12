@@ -102,7 +102,7 @@
     "description": "Final project of Mobile Applications Development module at GMIT.",
     "description-detail":  "Final project of Mobile Applications Development module at GMIT. Ionic mobile application that reads weather and news stories from internet resources. (OpenWeather.org and Newsapi.org) ",
     "bookmarks": "Bookmarks",
-    "bookmarks-detail": "User of the application can bookmark any arcitle. This arcitle is then stored persistently in the Ionic Storage. Bookmarks can be then revisited or deleted from the Bookmarks page.",
+    "bookmarks-detail": "User of the application can bookmark any article. This arcitle is then stored persistently in the Ionic Storage. Bookmarks can be then revisited or deleted from the Bookmarks page.",
     "bookmarks-badge": "Informative CSS badge",
     "bookmarks-badge-detail": "Rounded badge showing number of bookmarked articles in the Ionic storage",
     "ionic-searchbar": "Ionic searchbar",

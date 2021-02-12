@@ -47,7 +47,7 @@
                 <hr class="divider--full">
                 <div class="row justify-content-center">
                         <h4><span>{{$t('project-demo-singular')}}</span></h4>
-                        <div class="col-md-12 ">
+                        <div class="col-md-10 ">
                                          <div class="embed-responsive embed-responsive-16by9">
                                              <video class="embed-responsive-item" controls>
                                                  <source src='../../assets/projectsVideos/IonicApp.mp4' type="video/mp4">
