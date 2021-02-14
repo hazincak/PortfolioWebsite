@@ -19,6 +19,7 @@
   "experience-with": "Skúsenosti s",
   "close": "Zatvoriť",
   "authentification": "autentifikácia",
+  "click-for-zoom-in": "Kliknite na obrázok pre zväčšenie.",
 
   "application-state": "Aplikačný stav",
   
@@ -65,7 +66,8 @@
     "admin-section-detail": "Obsah je spravovateľný z admin sekcie, ku ktorej prístup je chránený jednak na frontende (VueJS Navigation Guards) a na backende (Laravel Gates).",
     "email-notification-detail": "Zakaznik e-shopu je upozornený po úspěšnej objednávke a takisto ak je jeho objednávka potvrdená",
     "responsiveness-detail": "Responzívny dizajn je dosiahnutý najmä Bootsrapom. Všetky ostatné elementy ako napríklad veľkosť textu su dynamicky modifikované Sass mixin funkciou, ktorá reaguje na definované zlomy.",
-    "shopping-cart-details": "Produkty pridané do nákupného košíka sú dostupné naprieč všetkými stránkami e-shopu. Rovnako sú uložené v HTML5 webovom uložisku bez expiračnej doby. To zaručuje, že obsah nákupného košíka je dostupný aj po znovu načítání webovej stránky."
+    "shopping-cart-details": "Produkty pridané do nákupného košíka sú dostupné naprieč všetkými stránkami e-shopu. Rovnako sú uložené v HTML5 webovom uložisku bez expiračnej doby. To zaručuje, že obsah nákupného košíka je dostupný aj po znovu načítání webovej stránky.",
+    "diagram-title": "Diagram modelu databázy zobrazujúci vzťahy medzi kategóriami, značkami, modelmi a produktmi."
   
 
   }, 
@@ -149,12 +151,15 @@
     "cypher-about": "Zistiť viac o šifre",
 
     "simplifier-title": "Kompilátor anglického textu",
-    "simplifier-description": "Java aplikácia zjednodušujúca anglicky text zamieňaním anglickych slov za ich synonymá z Google zoznamu 1000 najviac používaných slov v angličtine.",
+    "simplifier-description": "Java aplikácia zjednodušujúca anglicky text zamieňaním anglických slov za ich synonymá z Google zoznamu 1000 najviac používaných slov v angličtine.",
 
     "benchmark-title": "Porovnávací test triediacich algoritmov",
     "benchmark-description": "Java aplikácia analyzujúca rýchlosť triediacich algoritmov.",
     "benchmark-algo": "Analyzované triediace algoritmy: ",
-    "report-download": "Stiahnuť report"
+    "report-download": "Stiahnuť report",
+
+    "chat-title": "Java chat aplikácia",
+    "chat-description": "Jednoduchá multithreded chat apliaplikácia využívajúca java Socke API. Táto aplikácia je rozdelená na dva Java projekty - ChatClient a ChatServer"
   },
 
   "education": {

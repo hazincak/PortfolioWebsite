@@ -61,8 +61,6 @@
                         <hr class="divider--partial">
                         <h5><span>{{$t('shopping-cart')}}</span></h5>
                         <p>{{$t('phone-cases-shop.shopping-cart-details')}}</p>
-                        <hr class="divider--partial">
-                        <h5>{{$t('payment-gateways')}}</h5>
                         </div>
                 </div>
                 <hr class="divider--full">
@@ -73,7 +71,7 @@
                 </div>
                 <div class="row justify-content-center">
                         <h4><span>{{$t('project-demo-plural')}}</span></h4>
-                        <div class="col-md-12 ">
+                        <div class="col-md-10 ">
                             <div id="carouselExampleControls" class="carousel slide" data-interval="false" data-touch="true" data-ride="carousel">
                          <div class="carousel-inner">
                                 <div class="carousel-item active">
@@ -204,8 +202,18 @@
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <h4><span>{{$t('database-design')}}</span></h4>
+                        <div class="row justify-content-center">
+                            <div class="col-md-10">
+                                <div class="images" v-viewer>
+                                    <img class="img-fluid" src="../../assets/dbDiagrams/category_brand_model_product.png">
+                                </div>
+                               <h5 class="text-center">{{$t('phone-cases-shop.diagram-title')}}</h5>
+                               <p>{{$t('click-for-zoom-in')}}</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
+                <hr class="divider--full"> 
                 <div class="row justify-content-center">
                     <div class="col-md-8 text-center">
                         <h4><span>{{$t('source-code')}}</span></h4>

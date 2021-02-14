@@ -5,6 +5,10 @@ import router from './router'
 import 'bootstrap'
 import i18n from './i18n'
 
+import 'viewerjs/dist/viewer.css'
+import Viewer from 'v-viewer'
+Vue.use(Viewer);
+
 
 import '@fortawesome/fontawesome-free/js/fontawesome'
 import '@fortawesome/fontawesome-free/js/solid'

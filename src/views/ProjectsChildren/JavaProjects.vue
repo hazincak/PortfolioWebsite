@@ -22,7 +22,11 @@
                                     <p>{{$t('java-projects.cypher-description')}}</p>
                                     <a href="https://en.wikipedia.org/wiki/ADFGVX_cipher" target="_blank" rel="noopener noreferrer">{{$t('java-projects.cypher-about')}}</a>
                                     <hr>
-                                    <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                                    <div class="row justify-content-center">
+                                        <div class="col-md-8 text-center">
+                                            <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -39,8 +43,11 @@
                                 <div class="col-md-9 text-center">
                                     <h4><span>{{$t('java-projects.simplifier-title')}}</span></h4>
                                     <p>{{$t('java-projects.simplifier-description')}}</p>
-                                    
-                                    <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                                   <div class="row justify-content-center">
+                                        <div class="col-md-8 text-center">
+                                            <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -72,7 +79,34 @@
                                     
                                     <a :href="link" download="report.pdf" >{{$t('java-projects.report-download')}}</a>
                                     <hr>
-                                    <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                                    <div class="row justify-content-center">
+                                        <div class="col-md-8 text-center">
+                                            <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr class="divider--full">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="m-5">
+                            <div class="row align-items-center">
+                                <div class="col-md-3 text-center">
+                                    <img class="img-fluid"  src="../../assets/techBrandsBadges/java_title.png">
+                                </div>
+                                <div class="col-md-9 text-center">
+                                    <h4><span>{{$t('java-projects.chat-title')}}</span></h4>
+                                    <p>{{$t('java-projects.chat-description')}}</p>
+                                    <div class="row justify-content-center">
+                                        <div class="col-md-8 text-center">
+                                        <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+
+                                        <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
