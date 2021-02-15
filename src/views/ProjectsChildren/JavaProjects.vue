@@ -102,9 +102,16 @@
                                     <p>{{$t('java-projects.chat-description')}}</p>
                                     <div class="row justify-content-center">
                                         <div class="col-md-8 text-center">
-                                        <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
 
-                                        <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                                            <div class="dropdown show">
+                                              <a class="btn btn--mySecondary btn-block dropdown-toggle" href="#" role="button" id="JavaGitHubProjects" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                <i class="fab fa-github"></i>&nbsp;GitHub
+                                              </a>
+                                              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="JavaGitHubProjects">
+                                                <a class="dropdown-item" href="#">ChatClient</a>
+                                                <a class="dropdown-item" href="#">ChatServer</a>
+                                              </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>

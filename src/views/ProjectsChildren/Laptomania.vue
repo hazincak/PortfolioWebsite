@@ -43,7 +43,7 @@
                 <hr class="divider--full">
                 <div class="row justify-content-center">
                         <h4><span>{{$t('project-demo-singular')}}</span></h4>
-                        <div class="col-md-12 ">
+                        <div class="col-md-10 ">
                                          <div class="embed-responsive embed-responsive-16by9">
                                              <video class="embed-responsive-item" controls>
                                                  <source src='../../assets/projectsVideos/IonicApp.mp4' type="video/mp4">
@@ -53,7 +53,20 @@
                         <!-- column -->
                 </div>
                    <!-- row -->
-                   <hr class="divider--full">
+                <hr class="divider--full">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h4><span>{{$t('database-design')}}</span></h4>
+                        <div class="row justify-content-center">
+                            <div class="col-md-10">
+                                <div class="images" v-viewer>
+                                    <img class="img-fluid" src="../../assets/dbDiagrams/laptopmania.png">
+                                </div>
+                               <p>{{$t('click-for-zoom-in')}}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="row justify-content-center">
                     <div class="col-md-8 text-center">
                         <h4><span>{{$t('source-code')}}</span></h4>

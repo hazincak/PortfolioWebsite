@@ -159,7 +159,7 @@
     "report-download": "Stiahnuť report",
 
     "chat-title": "Java chat aplikácia",
-    "chat-description": "Jednoduchá multithreded chat apliaplikácia využívajúca java Socke API. Táto aplikácia je rozdelená na dva Java projekty - ChatClient a ChatServer"
+    "chat-description": "Jednoduchá multithreded chat aplikácia využívajúca Java Socke API. Táto aplikácia je rozdelená na dva Java projekty - ChatClient a ChatServer"
   },
 
   "education": {
