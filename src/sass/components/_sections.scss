@@ -2,16 +2,53 @@
     &_banner{
         background: $my-color-2;
         background: linear-gradient(0deg, $my-color-3 0%, $my-color-2 100%);
+
+        
+ 
     }
     &_body{
         // background: $my-color-1;
         // background: radial-gradient(circle, $my-color-white 60%, $my-color-1 100%);
         background: rgb(255,255,255);
         background: linear-gradient(90deg, $my-color-1 0%, $my-color-white 18%, $my-color-white 82%, $my-color-1 100%);
+
+        @include respond(small-laptop) { 
+            background: rgb(255,255,255);
+            background: linear-gradient(90deg, $my-color-1 0%, $my-color-white 6%, $my-color-white 94%, $my-color-1 100%);
+        }
+        
+        @include respond(tab-land) { 
+            background: rgb(255,255,255);
+        }
+
+        @include respond(tab-port) { 
+            background: rgb(255,255,255);
+        }
+
+        @include respond(phone) { 
+            background: rgb(255,255,255);
+        }  
     }
     &_footer{
         background-color:$my-color-1;
-        background: $my-color-white;
+        background: rgb(255,255,255);
         background: linear-gradient(90deg, $my-color-1 0%, $my-color-white 18%, $my-color-white 82%, $my-color-1 100%);
+
+        @include respond(small-laptop) { 
+            background: rgb(255,255,255);
+            background: linear-gradient(90deg, $my-color-1 0%, $my-color-white 6%, $my-color-white 94%, $my-color-1 100%);
+        }
+        
+        @include respond(tab-land) { 
+            background: rgb(255,255,255);
+        }
+
+        @include respond(tab-port) { 
+            background: rgb(255,255,255);
+        }
+
+        @include respond(phone) { 
+            background: rgb(255,255,255);
+        }
     }
 }

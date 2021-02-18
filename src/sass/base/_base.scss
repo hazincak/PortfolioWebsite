@@ -1,13 +1,28 @@
 .container{
     min-height: 50vh;
     padding: 4rem 1rem;
+
+    @include respond(phone) { 
+        min-height: 70vh;
+    }
+  
+    @include respond(tab-port) { 
+        min-height: 60vh;
+    }
 }
 .container-fluid{
-    // padding: 2rem 0rem;
     min-height: 30.5vh;
 
     .row{
         min-height: inherit;
+    }
+
+    @include respond(phone) { 
+        min-height: 20.5vh;
+    }
+  
+    @include respond(tab-port) { 
+        min-height: 25.5vh;
     }
 }
 

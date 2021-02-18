@@ -7189,6 +7189,12 @@ a.text-dark:hover, a.text-dark:focus {
 .container {
   min-height: 50vh;
   padding: 4rem 1rem; }
+  @media (max-width: 600px) {
+    .container {
+      min-height: 70vh; } }
+  @media (max-width: 900px) {
+    .container {
+      min-height: 60vh; } }
 
 
 .container-fluid,
@@ -7199,6 +7205,22 @@ a.text-dark:hover, a.text-dark:focus {
   min-height: 30.5vh; }
   .container-fluid .row, .container-sm .row, .container-md .row, .container-lg .row, .container-xl .row {
     min-height: inherit; }
+  @media (max-width: 600px) {
+    
+    .container-fluid,
+    .container-sm,
+    .container-md,
+    .container-lg,
+    .container-xl {
+      min-height: 20.5vh; } }
+  @media (max-width: 900px) {
+    
+    .container-fluid,
+    .container-sm,
+    .container-md,
+    .container-lg,
+    .container-xl {
+      min-height: 25.5vh; } }
 
 .divider--full {
   height: 12px;
@@ -7215,7 +7237,14 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50; }
+  color: #2c3e50;
+  font-size: 18px; }
+  @media (max-width: 600px) {
+    html {
+      font-size: 56.25%; } }
+  @media (max-width: 900px) {
+    html {
+      font-size: 70%; } }
 
 body {
   font-family: 'Rubik', Helvetica, Arial, sans-serif;
@@ -7284,14 +7313,40 @@ nav {
 .section_body {
   background: white;
   background: linear-gradient(90deg, #cccccc 0%, #fff 18%, #fff 82%, #cccccc 100%); }
+  @media (max-width: 1700px) {
+    .section_body {
+      background: white;
+      background: linear-gradient(90deg, #cccccc 0%, #fff 6%, #fff 94%, #cccccc 100%); } }
+  @media (max-width: 1200px) {
+    .section_body {
+      background: white; } }
+  @media (max-width: 900px) {
+    .section_body {
+      background: white; } }
+  @media (max-width: 600px) {
+    .section_body {
+      background: white; } }
 
 .section_footer {
   background-color: #cccccc;
-  background: #fff;
+  background: white;
   background: linear-gradient(90deg, #cccccc 0%, #fff 18%, #fff 82%, #cccccc 100%); }
+  @media (max-width: 1700px) {
+    .section_footer {
+      background: white;
+      background: linear-gradient(90deg, #cccccc 0%, #fff 6%, #fff 94%, #cccccc 100%); } }
+  @media (max-width: 1200px) {
+    .section_footer {
+      background: white; } }
+  @media (max-width: 900px) {
+    .section_footer {
+      background: white; } }
+  @media (max-width: 600px) {
+    .section_footer {
+      background: white; } }
 
 .img-avatar {
-  width: 11%;
+  width: 14%;
   border-radius: 50%; }
 
 .img-certificate {

@@ -3,7 +3,7 @@
     <div class="container-fluid section_banner">
       <div class="row justify-content-center align-items-center">
         <div class="col-md-8 text-center">
-            <img alt="author" class="img-fluid img-avatar" src="../assets/me-avatar.jpg">
+            <img alt="author" class="img-fluid img-avatar mt-2" src="../assets/me-avatar.jpg">
             <h1><span>{{$t('my-name')}}</span></h1>
             <p class="lead">{{$t('home-page-intro')}}</p>
         </div>
