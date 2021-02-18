@@ -17,6 +17,7 @@
   "source-code": "Source code",
   "database-design": "Database design",
   "experience-with": "Experience with",
+  "used-software": "Other frequently used software",
   "close": "Close",
   "authentification": "authentification", 
   "click-for-zoom-in": "Click on image to view full size.",
@@ -25,11 +26,10 @@
 
 
 
-  "home-page-intro": "Hello, I am web developer enthusiast looking for my first job opportunity.",
-  
-  "about-me": "About me",
-  "about-me-detail":"After 7 years working in the hospitality industry I have decided to change my career and jump into programming world. It started with simple Hello World programs.",
-
+  "home-page-intro": "Hello, I am web developer enthusiast looking for my first job opportunity.",  
+  "about": "About",
+  "about-detail":"This website portfolio is a hand-picked showcase of projects I have created either as a student of the Higher Diploma in Software Development at Galway-Mayo Institute of Technology or as personal projects in my spare time. Although this 75 worth of credits educational programme covered comprehensive learning material, I primarily got interested in Web and Mobile Applications Development.",
+  "about-detail-2": "I really enjoy all aspects of creating dynamic and responsive websites from picking up colours and fonts to developing data models for the data to be stored in a database, therefore, I am excited about my first job opportunity where I can expand my knowledge in this tech industry field.",
   "contact": "Contact",
 
   "menu":{

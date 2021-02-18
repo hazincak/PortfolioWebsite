@@ -129,6 +129,41 @@
                                 </div>       
                             </div>
                         </div>
+                        <hr class="divider--full">
+                        <div>
+                            <h4>{{$t('used-software')}}</h4>
+                            <hr>
+                            <div class="d-flex justify-content-around align-items-baseline">
+                                <div class="p-2">
+                                    <img  class="img-fluid" src="../assets/techBrandsBadges/gitBash.png" alt="">
+                                    <p class="text-center mt-auto">Git Bash</p>
+                                </div>
+                                <div class="p-2">
+                                    <img  class="img-fluid" src="../assets/techBrandsBadges/gitHub.png" alt="">
+                                    <p class="text-center mt-auto">Git Hub</p>
+                                </div>
+                                <div class="p-2">
+                                    <img  class="img-fluid" src="../assets/techBrandsBadges/intelij.png" alt="">
+                                    <p class="text-center mt-auto">IntelliJ IDEA</p>
+                                </div>
+                                <div class="p-2 text-center">
+                                    <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/vsc.png" alt="">
+                                    <p class="text-center mt-auto">Visual Studio Code</p>
+                                </div>
+                                <div class="p-2">
+                                    <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/postman.png" alt="">
+                                    <p class="text-center mt-auto">Postman</p>
+                                </div>
+                                <div class="p-2">
+                                    <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/gimp.png" alt="">
+                                    <p class="text-center mt-auto">GIMP</p>
+                                </div>
+                                <div class="p-2 text-center">
+                                    <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/logoDesign.png" alt="">
+                                    <p class="text-center mt-auto">Logo Design Studio Pro</p>
+                                </div>        
+                            </div>
+                        </div>
 
                     </div>
                 </div>

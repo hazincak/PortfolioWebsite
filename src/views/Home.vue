@@ -2,7 +2,7 @@
   <div>
     <div class="container-fluid section_banner">
       <div class="row justify-content-center align-items-center">
-        <div class="col-md-6 text-center">
+        <div class="col-md-8 text-center">
             <img alt="author" class="img-fluid img-avatar" src="../assets/me-avatar.jpg">
             <h1><span>{{$t('my-name')}}</span></h1>
             <p class="lead">{{$t('home-page-intro')}}</p>
@@ -13,8 +13,9 @@
       <div class="container">
         <div class="row">
           <div class="col-md-7">
-            <h4><span>{{$t('about-me')}}</span></h4>
-            <p>{{$t('about-me-detail')}}</p>
+            <h4><span>{{$t('about')}}</span></h4>
+            <p>{{$t('about-detail')}}</p>
+            <p>{{$t('about-detail-2')}}</p>
           </div>
           <div class="col-md-5">
             <h4><span>{{$t('contact')}}</span></h4>

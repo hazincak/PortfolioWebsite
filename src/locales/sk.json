@@ -6,7 +6,7 @@
   "database": "Databáza",
   "databases": "Databázy",
   "my-projects": "Moje projekty",
-  "projects-page-intro": "Zoznam projektov školských a vlastných projektov.",
+  "projects-page-intro": "Zoznam školských a vlastných projektov.",
   "more-button": "Zobraziť podrobnosti",
   "used-technologies": "Použité technológie",
   "other-used-technologies": "Ostatné použité technológie",
@@ -17,6 +17,7 @@
   "source-code": "Zdrojový kód",
   "database-design": "Štruktúra databázy",
   "experience-with": "Skúsenosti s",
+  "used-software": "Na prácu používam",
   "close": "Zatvoriť",
   "authentification": "autentifikácia",
   "click-for-zoom-in": "Kliknite na obrázok pre zväčšenie.",
@@ -34,10 +35,11 @@
   "shopping-cart": "Nákupný košík",
   
  
-  "home-page-intro": "Ahoj, moje meno je Ján Hažinčák a hľadám si prácu na pozíciách Junior PHP alebo JavaScript developer",
+  "home-page-intro": "Ahoj, moje meno je Ján Hažinčák a hľadám si prácu na pozíciách Junior PHP alebo JavaScript developera.",
 
-  "about-me": "O mne",
-
+  "about": "O tejto web stránke",
+  "about-detail":"Táto webová stránka slúži ako portfólio prác, ktoré boli vypracované jednak ako školské projekty 75 kreditového vysokoškolského diplomu na Galway-Mayo Institute of Technology (GMIT) v odbore Software Developmentu, ako aj projekty vypracované vo voľnom čase.",
+  "about-detail-2": "Keďže zo všetkých učených predmetov tohto vzdelávacieho programu ma najviac zaujal vývoj webových a hybridných mobilných aplikácií, svoj voľný čas rád trávim zdokonaľovaním sa v už pomerne znalých a učením nových frontend a backend programovacích jazykov, frameworkov a trendov z oblasti vývoja webových a mobilných aplikácií a rád by som tieto znalosti využil na prvej pracovnej príležitosti v tejto oblasti.",
   "contact": "Kontakt",
 
   "menu":{

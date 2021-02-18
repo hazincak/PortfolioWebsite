@@ -7220,6 +7220,7 @@ html {
 body {
   font-family: 'Rubik', Helvetica, Arial, sans-serif;
   font-weight: 400;
+  line-height: 1.8;
   color: #30475e; }
 
 h1, h2, h3, h5, h6 {
@@ -7290,7 +7291,7 @@ nav {
   background: linear-gradient(90deg, #cccccc 0%, #fff 18%, #fff 82%, #cccccc 100%); }
 
 .img-avatar {
-  width: 13%;
+  width: 11%;
   border-radius: 50%; }
 
 .img-certificate {
