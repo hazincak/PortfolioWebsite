@@ -9,6 +9,11 @@ import 'viewerjs/dist/viewer.css'
 import Viewer from 'v-viewer'
 Vue.use(Viewer);
 
+import VueWaypoint from 'vue-waypoint'
+ 
+// Waypoint plugin
+Vue.use(VueWaypoint)
+
 
 import '@fortawesome/fontawesome-free/js/fontawesome'
 import '@fortawesome/fontawesome-free/js/solid'
