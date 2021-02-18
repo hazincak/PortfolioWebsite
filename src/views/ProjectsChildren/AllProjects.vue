@@ -10,7 +10,6 @@
         </div>
         <div class="section_body">
             <div v-waypoint="{ active: true, callback: onWaypoint, options: intersectionOptions }"></div>
-
             <div class="container">
             <div class="row">
                 <div class="col-12">

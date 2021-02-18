@@ -9,6 +9,7 @@
             </div>
         </div>
         <div class="section_body">
+            <div v-waypoint="{ active: true, callback: onWaypoint, options: intersectionOptions }"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -125,7 +126,9 @@
 </template>
 
 <script>
+import waypointsMixin from "./../../waypointsMixin";
 export default {
+    mixins: [waypointsMixin],
     data(){
         return{
             link: require('@/assets/downloadable/AlgoReport.pdf')
