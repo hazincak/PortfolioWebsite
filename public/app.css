@@ -7299,6 +7299,11 @@ nav a {
 .section_banner {
   color: #fff; }
 
+.nav-toggler-icon {
+  font-size: 2.2rem;
+  color: #f05454;
+  vertical-align: middle; }
+
 nav {
   background-color: #222831; }
 
@@ -7347,7 +7352,8 @@ nav {
 
 .img-avatar {
   width: 14%;
-  border-radius: 50%; }
+  border-radius: 50%;
+  max-width: 120px; }
 
 .img-certificate {
   max-width: 80%;
