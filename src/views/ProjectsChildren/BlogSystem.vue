@@ -20,7 +20,7 @@
                     <div class="col-md-10 text-center">
                          <h4><span>{{$t('used-technologies')}}</span></h4>
                             <h5><span>Frontend:</span></h5>
-                            <p>&nbsp;HTML5,&nbsp;CSS3,&nbsp;Bootstrap,&nbsp;Javascript</p>
+                            <p>&nbsp;HTML5,&nbsp;CSS3,&nbsp;jQuery,&nbsp;Bootstrap,&nbsp;Javascript</p>
                             <h5><span>Backend:</span></h5>
                             <p>PHP</p>
                             <h5><span>{{$t('database')}}</span></h5>
@@ -57,7 +57,7 @@
                         <div class="col-md-10 ">
                                          <div class="embed-responsive embed-responsive-16by9">
                                              <video class="embed-responsive-item" controls>
-                                                 <source src='../../assets/projectsVideos/IonicApp.mp4' type="video/mp4">
+                                                 <source src='../../assets/projectsVideos/cms--demo.webm' type="video/mp4">
                                              </video>
                                          </div>
                         </div>

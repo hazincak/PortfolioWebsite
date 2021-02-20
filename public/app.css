@@ -7304,8 +7304,11 @@ nav a {
   color: #f05454;
   vertical-align: middle; }
 
-nav {
+.navbar-default {
   background-color: #222831; }
+
+.navbar-sticky {
+  background-color: #30475e; }
 
 .footer {
   padding: 2rem 5rem;
