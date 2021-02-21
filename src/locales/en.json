@@ -20,16 +20,17 @@
   "used-software": "Working with",
   "close": "Close",
   "authentification": "authentification", 
-  "click-for-zoom-in": "Click on image to view full size.",
+  "click-for-zoom-in": "Click on the image to view full size.",
 
   "application-state": "Application state",
 
 
 
-  "home-page-intro": "Hello, I am web developer enthusiast looking for my first job opportunity.",  
+  "home-page-intro": "Hello, I am a web developer enthusiast looking for my first job opportunity.",  
   "about": "About",
-  "about-detail":"This website portfolio is a hand-picked showcase of projects I have created either as a student of the Higher Diploma in Software Development at Galway-Mayo Institute of Technology or as personal projects in my spare time. Although this 75 worth of credits educational programme covered comprehensive learning material, I primarily got interested in Web and Mobile Applications Development.",
-  "about-detail-2": "I really enjoy all aspects of creating dynamic and responsive websites from picking up colours and fonts to developing data models for the data to be stored in a database, therefore, I am excited about my first job opportunity where I can expand my knowledge in this tech industry field.",
+  "about-detail":"This website portfolio includes a hand-picked showcase of projects I have created as a student of the Higher Diploma in Software Development at Galway-Mayo Institute of Technology as well as a few personal projects I created in my spare time. Although this 75-worth-of-credits educational programme covered comprehensive learning material, I was primarily interested in web and mobile applications development.",
+  "about-detail-2": "This website portfolio includes a hand-picked showcase of projects I have created as a student of the Higher Diploma in Software Development at Galway-Mayo Institute of Technology as well as a few personal projects I created in my spare time. Although this 75-worth-of-credits educational programme covered comprehensive learning material, I was primarily interested in web and mobile applications development.",
+  "about-detail-3": "I am really excited to start my first job opportunity where I can expand my knowledge in this tech industry field.",
   "contact": "Contact",
 
   "menu":{
@@ -42,7 +43,7 @@
   
   
   "dynamic-content": "Dynamic content",
-  "dynamic-content-detail":"Application content can be dynamically created, updated and deleted from the admin section.",
+  "dynamic-content-detail":"The application content can be dynamically created, updated and deleted from the admin section.",
   "manageable-content": "Manageable content:",
   
 
@@ -57,21 +58,21 @@
 
   "phone-cases-shop":{
     "title": "E-commerce website",
-    "description": "Full e-commerce solution for phone accessories with its own content management system and integrated payment gateways.",
-    "description-detail":"This e-commerce website was created as a project for my portfolio and to enhance my skills with Javascript and PHP frameworks (Vuejs and Laravel) in realistic project. It implements basic features of both - modern website and e-commerce solution. ",
+    "description": "A full e-commerce solution for phone accessories with its own content management system (CMS) and integrated payment gateways.",
+    "description-detail":"This e-commerce website was created to enhance my skills with JavaScript and PHP frameworks (Vuejs and Laravel) and create a realistic project. It implements the basic features of both – a modern website and an e-commerce solution.",
 
     "manageable-content-items": {
-      "carousel": "Products displayed in products carousel on the home page",
-      "products-features": "Products categories, brands, models, colors and materials",
-      "products": "Creating, updating and deleting products",
-      "other-pages":"Content of Return & Refund policies, Trading terms and GRPR pages"
+      "carousel": "1. Products displayed in products carousel on the home page.",
+      "products-features": "2. Products displayed in products carousel on the home page.",
+      "products": "3. Products CRUD (create, read update and delete).",
+      "other-pages":"4. Content of Return & Refund policies, Trading terms and GRPR pages"
     },
 
-    "admin-section-detail": "Content can be managed from the admin section. Admin routes are protected both on client (VueJS Navigation Guards) and server side (Laravel Gates). ",
-    "email-notification-detail": "Customer is notified by email about successful checkout and after his order is confirmed.",
-    "responsiveness-detail": "Responsiveness is achieved mostly by Bootstrap grid system. All others elements requiered action were modified by Sass mixins. ",
-    "shopping-cart-details": "Products added to the basket are stored with no expiration date in the HTML5 web storage (localStorage) therefore they are available on the page refresh and even after the webpage is left and revisited. Items can be deleted from the basket within the basket page and from the shop menu. ",
-    "diagram-title": "Entity relationship diagram (ERD) displaying the relationships between categories, brands, models and products."
+    "admin-section-detail": "The content can be managed from the admin section. The admin routes are protected both on the client (VueJS Navigation Guards) and server side (Laravel Gates).",
+    "email-notification-detail": "A customer is notified by email about successful checkout and after their order is confirmed.",
+    "responsiveness-detail": "Responsiveness is achieved mostly by the Bootstrap grid system. All other elements requiring action are modified with Sass mixins. ",
+    "shopping-cart-details": "The products added to the basket are stored with no expiration date in the HTML5 web storage (localStorage). Therefore, they are available on the page refresh even after one revisits the webpage after closing it. The items can be deleted from the basket within the basket page and the shop menu.",
+    "diagram-title": "The entity relationship diagram (ERD) displays the relationships between categories, brands, models and products."
   },
   "phone-cases-shop-videos":{
     "categoryCRUD":"Creating, updating and deleting category",
@@ -92,7 +93,7 @@
     "placing-order-paypal": "Placing order with PayPal",
 
     "managing-policies": "Managing dynamic GDPR, rules of return and trading rules pages",
-    "managing-policies-detail": "Content of the return & refund policies, trading terms and GDPR pages are highly customizable with the WYSIWYG (What You See Is What You Get) editor which is wrapping the text in HTML tags.",
+    "managing-policies-detail": "Content of the return and refund policies, trading terms and GDPR pages are highly customizable with the WYSIWYG (What You See Is What You Get) editor which wraps the text in HTML tags.",
 
     "managing-carousel": "Managing dynamic carousel",
     "protecting-routes": "Protecting routes"
@@ -100,39 +101,58 @@
 
   "weather-app":{
     "title": "Ionic Weather & News Reader",
-    "description": "Final project of Mobile Applications Development module at GMIT.",
-    "description-detail":  "Final project of Mobile Applications Development module at GMIT. Ionic mobile application that reads weather and news stories from internet resources. (OpenWeather.org and Newsapi.org) ",
+    "description": "The final project of the Mobile Applications Development module at GMIT.",
+    "description-detail":  "The final project of Mobile Applications Development module at GMIT. An Ionic mobile application that reads weather and news stories from internet resources (OpenWeather.org and Newsapi.org).",
     "bookmarks": "Bookmarks",
-    "bookmarks-detail": "User of the application can bookmark any article. This arcitle is then stored persistently in the Ionic Storage. Bookmarks can be then revisited or deleted from the Bookmarks page.",
+    "bookmarks-detail": "Users of the application can bookmark any article. This article is then stored persistently in the Ionic Storage. Bookmarks can be then revisited or deleted from the Bookmarks page.",
     "bookmarks-badge": "Informative CSS badge",
-    "bookmarks-badge-detail": "Rounded badge showing number of bookmarked articles in the Ionic storage",
+    "bookmarks-badge-detail": "A rounded badge showing the number of bookmarked articles in the Ionic storage.",
     "ionic-searchbar": "Ionic searchbar",
-    "ionic-searchbar-detail": "User can find any location by using the Ionic Searchbar implemented in settings. List of all found cities is generated by OpenWeather Geocoding API which is already included in free plan of Current Weather Data API. Request is being sent as soon as the user makes pause while typing the city name.",
+    "ionic-searchbar-detail": "Users can find any location by using the Ionic Searchbar included on the settings page. The list of all found cities is generated by OpenWeather Geocoding API, which is already included in the free plan of Current Weather Data API. The HTTP request is sent as soon as the user pauses while typing the city name.",
     "rotating-icon": "Rotating icon and wind cardinal direction",
-    "rotating-icon-detail": "Icon is rotating on wind degree data coming from the OpenWeather API. Cardinal directions are also set by this deg value."
+    "rotating-icon-detail": "The icon rotates based on wind degree data derived from the OpenWeather API. The cardinal directions are also set by this deg value."
   },
 
   "laptopmania":{
     "title": "Laptopmania",
-    "description": "Website created as final assessment of Web Application Development module at GMIT.",
-    "description-detail": "Website created as final assessment of Web Application Development module at GMIT. Main requirement was to develop a e-commerce website using techologies taught in this module - basics of HTML3, CSS3, Javascript, Bootstrap 4 and PHP. For this assignment, 'purchase' meant that the user is presented with the possibility to chose a product or item, and if the purchased button is clicked, they will be presented with a total cost.",
+    "description": "Website created for the final assessment of Web Application Development module at GMIT.",
+    "description-detail": "Website created for the final assessment of Web Application Development module at GMIT. The main requirement was to develop an e-commerce website using technologies taught in this module: basics of HTML5, CSS3, JavaScript, Bootstrap 4 and PHP. For this assignment, 'purchase' meant that the user is presented with the possibility to choose a product or item, and if the purchased button is clicked, they are presented with a total cost.",
     "shopping-cart": "Shopping cart",
-    "shopping-cart-detail": "Products added to the basket are stored with no expiration date in the HTML5 web storage (localStorage) therefore they are available on the page refresh and even after the webpage is left and revisited. Items can be deleted from the basket.",
+    "shopping-cart-detail": "The products added to the basket are stored with no expiration date in the HTML5 web storage (localStorage). Therefore, they are available on the page refresh even after one revisits the webpage after closing it. The items can be deleted from the basket.",
     "price-calculation": "Price calculation",
-    "price-calculation-detail": "Total price of the basket is calculated any time user alter content of the basket. ",
+    "price-calculation-detail": "The total price of the basket is calculated any time the user alters the content of the basket.",
     "user-authentification": "User authentification",
     "user-authentification-detail": "User authentification detail"
   },
 
   "sap-concur":{
-    "description": "Wordpress website created as school project hosted on an AWS cloud-based LAMP server."
+    "description": "WordPress hosted on an AWS cloud-based LAMP server created as a school project."
   },
 
   "blog-system":{
   
-    "description": "Blog website with its own content management system represented by protected admin and user areas.",
-    "description-detail": "Blog website with its own content management system represented by protected admin and user areas."
-  
+    "description": "A blog website with its own content management system represented by protected admin and user areas.",
+    "description-detail": "A blog website with its own content management system represented by protected admin and user areas.This blog website is built on top of the PHP CMS that was created while completing the “PHP for Beginners with E. Diaz” course on Udemy.com.",
+
+    "sections": "Admin and public sections",
+    "sections-detail": "This application is divided into admin and public parts. The website administrator can manipulate all manageable content from there. Non-admin registered users can manage only their own posts from the public area.",
+    
+    "users-online": "Users online",
+    "users-online-detail": "This function returns all online users based on their session_id.",
+
+    "searchbar": "Searchbar",
+    "searchbar-detail": "Using the searchbar, the users can search for posts based on their tags.",
+    
+    "editor": "WYSIWYG editors",
+    "editor-detail": "The WYSIWYG editors implemented in public and admin sections allow users and admin to insert rich multimedia content.",
+
+    "manageable-content": {
+      "products": "1. All posts with their data (title, content, images and other post information)",
+      "categories": "2. Post categories",
+      "profile": "3. Admin & User profile (Full name, username, email and password)",
+      "comments":"4. Post comments"
+    }
+    
   },
 
   "movie-fight":{
@@ -141,24 +161,24 @@
 
   "java":{
     "title": "Java projects",
-    "description": "Java projects completed as GMIT's modules final projects."
+    "description": "Java projects completed as GMIT modules’ final projects."
   },
 
   "java-projects":{
     "cypher-title": "Polybius Square Cypher",
-    "cypher-description": "Java application capable of encrypting and decrypting a short message using an ADFGVX cypher.",
+    "cypher-description": "A java application capable of encrypting and decrypting a short message using an ADFGVX cypher.",
     "cypher-about": "Find out more about cypher.",
 
     "simplifier-title": "A Text Simplifier API",
-    "simplifier-description": "Java text simplifier API. The application allows the user to enter text into a console and dynamically swaps every word for its synonym from the Google list of 1 000 most common words in English.",
+    "simplifier-description": "Java text simplifier API. The application allows the user to enter text into a console that dynamically swaps every word for its synonym from the Google list of 1 000 most common words in English.",
 
     "benchmark-title": "Benchmarking Sorting algorithms",
-    "benchmark-description": "Java application benchmarking five different sorting algorithms.",
+    "benchmark-description": "A java application that benchmarks five different sorting algorithms.",
     "benchmark-algo": "Benchmarked algorithms:",
     "report-download": "Download full report",
 
     "chat-title": "Network-based chat application",
-    "chat-description": "A simple network-based multithreaded chat application written in Java, using the Java Socket API. This application is splitted into two Java projects - ChatClient and ChatServer"
+    "chat-description": "A simple network-based multithreaded chat application written in Java, using the Java Socket API. This application is split into two Java projects: ChatClient and ChatServer."
 
     
 

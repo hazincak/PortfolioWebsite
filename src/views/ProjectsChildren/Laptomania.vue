@@ -43,16 +43,47 @@
                 </div>
                 <hr class="divider--full">
                 <div class="row justify-content-center">
-                        <h4><span>{{$t('project-demo-singular')}}</span></h4>
+                        <h4><span>{{$t('project-demo-plural')}}</span></h4>
                         <div class="col-md-10 ">
+                            <div id="carouselExampleControls" class="carousel slide" data-interval="false" data-touch="true" data-ride="carousel">
+                         <div class="carousel-inner">
+                                <div class="carousel-item active">
                                          <div class="embed-responsive embed-responsive-16by9">
                                              <video class="embed-responsive-item" controls>
-                                                 <source src='../../assets/projectsVideos/IonicApp.mp4' type="video/mp4">
+                                                 <source src='../../assets/projectsVideos/laptomania-guest.webm' type="video/mp4">
                                              </video>
                                          </div>
+                                         <div>
+                                             <h5 class="text-center">{{$t('phone-cases-shop-videos.categoryCRUD')}}</h5>
+                                             <p class="text-center">{{$t('phone-cases-shop-videos.categoryCRUD-detail')}}</p>
+                                         </div>
+                                </div>
+                                <div class="carousel-item">
+                                         <div class="embed-responsive embed-responsive-16by9">
+                                             <video class="embed-responsive-item" controls>
+                                                 <source src='../../assets/projectsVideos/laptopmania-registered.webm' type="video/mp4">
+                                             </video>
+                                         </div>
+                                         <div>
+                                             <h5 class="text-center">{{$t('phone-cases-shop-videos.creating-model')}}</h5>
+                                             <p class="text-center">{{$t('phone-cases-shop-videos.creating-model-detail')}}</p>
+                                         </div>
+                                </div>
+                                
+                         </div>
+                         <!-- carousel-inner -->
+                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
                         </div>
-                        <!-- column -->
-                </div>
+                        <!-- carousel -->
+                        </div>
+                </div>  
                    <!-- row -->
                 <hr class="divider--full">
                 <div class="row">

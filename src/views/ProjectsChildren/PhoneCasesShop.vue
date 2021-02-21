@@ -40,14 +40,14 @@
                         <h5><span>{{$t('dynamic-content')}}</span></h5>
                         <p>{{$t('dynamic-content-detail')}}</p>
                         <div class="row justify-content-center">
-                            <div class="col-6">
+                            <div class="col-10">
                             <h6><span>{{$t('manageable-content')}}</span></h6>
-                                <ol>
+                                <ul style="list-style: none;">
                                     <li>{{$t('phone-cases-shop.manageable-content-items.carousel')}}</li>
                                     <li>{{$t('phone-cases-shop.manageable-content-items.products-features')}}</li>
                                     <li>{{$t('phone-cases-shop.manageable-content-items.products')}}</li>
                                     <li>{{$t('phone-cases-shop.manageable-content-items.other-pages')}}</li>
-                                </ol>
+                                </ul>
                             </div>
                         </div>
                         <hr class="divider--partial">

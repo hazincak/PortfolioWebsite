@@ -35,19 +35,30 @@
                             <h5><span>{{$t('dynamic-content')}}</span></h5>
                             <p>{{$t('dynamic-content-detail')}}</p>
                             <div class="row justify-content-center">
-                            <div class="col-6">
+                            <div class="col-10">
                             <h6><span>{{$t('manageable-content')}}</span></h6>
-                                <ol>
-                                    <li>hello</li>
-                                    <li>hello</li>
-                                    <li>hello</li>
-                                    <li>hello</li>
-                                    <li>hello</li>
-                                </ol>
+                                <ul style="list-style: none;">
+                                    <li>{{$t('blog-system.manageable-content.products')}}</li>
+                                    <li>{{$t('blog-system.manageable-content.categories')}}</li>
+                                    <li>{{$t('blog-system.manageable-content.profile')}}</li>
+                                    <li>{{$t('blog-system.manageable-content.comments')}}</li>
+                                </ul>
                             </div>
                         </div>
                             <h5><span>{{$t('laptopmania.user-authentification')}}</span></h5>
                             <p>{{$t('laptopmania.user-authentification-detail')}}</p>
+                            <hr class="divider--partial">
+                            <h5><span>{{$t('blog-system.sections')}}</span></h5>
+                            <p>{{$t('blog-system.sections-detail')}}</p>
+                            <hr class="divider--partial">
+                            <h5><span>{{$t('blog-system.users-online')}}</span></h5>
+                            <p>{{$t('blog-system.users-online-detail')}}</p>
+                            <hr class="divider--partial">
+                            <h5><span>{{$t('blog-system.searchbar')}}</span></h5>
+                            <p>{{$t('blog-system.searchbar-detail')}}</p>
+                            <hr class="divider--partial">
+                            <h5><span>{{$t('blog-system.editor')}}</span></h5>
+                            <p>{{$t('blog-system.editor-detail')}}</p>
                             <hr class="divider--partial">
                         </div>
                 </div>

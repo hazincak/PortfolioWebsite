@@ -66,15 +66,15 @@
                                     <h4><span>{{$t('java-projects.benchmark-title')}}</span></h4>
                                     <p>{{$t('java-projects.benchmark-description')}}</p>
                                     <div class="row justify-content-center">
-                                        <div class="col-4 text-center">
+                                        <div class="col-8 text-center">
                                             <h6>{{$t('java-projects.benchmark-algo')}}</h6>
-                                             <ol>
+                                             <ul style="list-style: none;">
                                                 <li>Bubble sort</li>
                                                 <li>Selection sort</li>
                                                 <li>Merge sort</li>
                                                 <li>Quick sort</li>
                                                 <li>Counting sort</li>
-                                            </ol>
+                                            </ul>
                                         </div>
                                     </div>
                                     
