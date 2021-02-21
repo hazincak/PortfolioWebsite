@@ -188,7 +188,7 @@
                         <div class="col-md-6 text-center">
                             <h4><span>SAP Concur</span></h4>
                             <p>{{$t('sap-concur.description')}}</p>
-                            <router-link :to="{name: 'SapConcurProject'}" class="btn btn--myPrimary btn-block">{{$t('more-button')}}</router-link>
+                            <a href="http://janhazincak.tk" target="_blank" rel="noopener noreferrer" class="btn btn--myPrimary btn-block">{{$t('more-button')}}</a>
                         </div>
                     </div>
                     <div class="row justify-content-center">
@@ -239,6 +239,41 @@
                     </div>
                 </div>
                 <hr class="divider--full">
+                <div class="m-5"> 
+                    <div class="row align-items-center">
+                        <div class="col-md-6">
+                            <img class="img-fluid rounded img-thumbnail"  src="../../assets/portfolio.jpg">
+                        </div>
+                        <div class="col-md-6 text-center">
+                            <h4><span>Portfolio website</span></h4>
+                            <p>{{$t('weather-app.description')}}</p>
+                            <a href="" target="_blank" rel="noopener noreferrer" class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</a>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-md-6">
+                            <div class="d-flex justify-content-center align-items-center">
+                                <div class="p-2">
+                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
+                                </div>
+                                <div class="p-2">
+                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
+                                </div>
+                                <div class="p-2">
+                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
+                                </div>
+                                <div class="p-2">
+                                     <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">
+                                </div>
+                                <div class="p-2">
+                                    <img class="img-fluid" src="../../assets/techBrands/vuejs.png" alt="html-logo">
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <hr class="divider--full">
                 <div class="m-5">   
                     <div class="row align-items-center">
                         <div class="col-md-6">
@@ -251,6 +286,7 @@
                         </div>
                     </div>
                 </div>
+                
             </div>
             </div>
         </div>

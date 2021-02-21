@@ -102,7 +102,7 @@
                 <div class="row justify-content-center">
                     <div class="col-md-8 text-center">
                         <h4><span>{{$t('source-code')}}</span></h4>
-                        <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                        <a href="https://github.com/hazincak/laptopmania" target="_blank" rel="noopener noreferrer" class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</a>
                     </div>
                 </div>
             </div>

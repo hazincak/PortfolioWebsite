@@ -7369,6 +7369,9 @@ nav a {
   max-width: 250px;
   max-height: 150px; }
 
+.img-java {
+  max-width: 60%; }
+
 .btn {
   font-weight: bold; }
   .btn--myPrimary {

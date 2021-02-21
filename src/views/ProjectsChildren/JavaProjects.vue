@@ -16,7 +16,7 @@
                         <div class="m-5">
                             <div class="row align-items-center">
                                 <div class="col-md-3 text-center">
-                                    <img class="img-fluid"  src="../../assets/techBrandsBadges/java_title.png">
+                                    <img class="img-fluid img-java"  src="../../assets/techBrandsBadges/java_title.png">
                                 </div>
                                 <div class="col-md-9 text-center">
                                     <h4><span>{{$t('java-projects.cypher-title')}}</span></h4>
@@ -25,7 +25,7 @@
                                     <hr>
                                     <div class="row justify-content-center">
                                         <div class="col-md-8 text-center">
-                                            <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                                            <a href="https://github.com/hazincak/PolybiusProject" target="_blank" rel="noopener noreferrer" class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</a>
                                         </div>
                                     </div>
                                 </div>
@@ -39,14 +39,14 @@
                         <div class="m-5">
                             <div class="row align-items-center">
                                 <div class="col-md-3 text-center">
-                                    <img class="img-fluid"  src="../../assets/techBrandsBadges/java_title.png">
+                                    <img class="img-fluid img-java"  src="../../assets/techBrandsBadges/java_title.png">
                                 </div>
                                 <div class="col-md-9 text-center">
                                     <h4><span>{{$t('java-projects.simplifier-title')}}</span></h4>
                                     <p>{{$t('java-projects.simplifier-description')}}</p>
                                    <div class="row justify-content-center">
                                         <div class="col-md-8 text-center">
-                                            <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                                            <a href="https://github.com/hazincak/TextSimplifier" target="_blank" rel="noopener noreferrer" class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</a>
                                         </div>
                                     </div>
                                 </div>
@@ -60,7 +60,7 @@
                         <div class="m-5">
                             <div class="row align-items-center">
                                 <div class="col-md-3 text-center">
-                                    <img class="img-fluid"  src="../../assets/techBrandsBadges/java_title.png">
+                                    <img class="img-fluid img-java"  src="../../assets/techBrandsBadges/java_title.png">
                                 </div>
                                 <div class="col-md-9 text-center">
                                     <h4><span>{{$t('java-projects.benchmark-title')}}</span></h4>
@@ -82,7 +82,7 @@
                                     <hr>
                                     <div class="row justify-content-center">
                                         <div class="col-md-8 text-center">
-                                            <button class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</button>
+                                            <a href="https://github.com/hazincak/CTA_SortBenchmark" target="_blank" rel="noopener noreferrer" class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</a>
                                         </div>
                                     </div>
                                 </div>
@@ -96,7 +96,7 @@
                         <div class="m-5">
                             <div class="row align-items-center">
                                 <div class="col-md-3 text-center">
-                                    <img class="img-fluid"  src="../../assets/techBrandsBadges/java_title.png">
+                                    <img class="img-fluid img-java"  src="../../assets/techBrandsBadges/java_title.png">
                                 </div>
                                 <div class="col-md-9 text-center">
                                     <h4><span>{{$t('java-projects.chat-title')}}</span></h4>
@@ -109,8 +109,8 @@
                                                 <i class="fab fa-github"></i>&nbsp;GitHub
                                               </a>
                                               <div class="dropdown-menu dropdown-menu-right" aria-labelledby="JavaGitHubProjects">
-                                                <a class="dropdown-item" href="#">ChatClient</a>
-                                                <a class="dropdown-item" href="#">ChatServer</a>
+                                                <a class="dropdown-item" href="https://github.com/hazincak/NetworkProgramming-ChatClient" target="_blank" rel="noopener noreferrer">ChatClient</a>
+                                                <a class="dropdown-item" href="https://github.com/hazincak/NetworkProgramming-ChatServer" target="_blank" rel="noopener noreferrer">ChatServer</a>
                                               </div>
                                             </div>
                                         </div>
