@@ -37,14 +37,15 @@
                             <div class="row justify-content-center">
                             <div class="col-10">
                             <h6><span>{{$t('manageable-content')}}</span></h6>
-                                <ul style="list-style: none;">
-                                    <li>{{$t('blog-system.manageable-content.products')}}</li>
-                                    <li>{{$t('blog-system.manageable-content.categories')}}</li>
-                                    <li>{{$t('blog-system.manageable-content.profile')}}</li>
-                                    <li>{{$t('blog-system.manageable-content.comments')}}</li>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">{{$t('blog-system.manageable-content.products')}}</li>
+                                    <li class="list-group-item">{{$t('blog-system.manageable-content.categories')}}</li>
+                                    <li class="list-group-item">{{$t('blog-system.manageable-content.profile')}}</li>
+                                    <li class="list-group-item">{{$t('blog-system.manageable-content.comments')}}</li>
                                 </ul>
                             </div>
                         </div>
+                        <hr>
                             <h5><span>{{$t('laptopmania.user-authentification')}}</span></h5>
                             <p>{{$t('laptopmania.user-authentification-detail')}}</p>
                             <hr class="divider--partial">

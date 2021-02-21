@@ -4,6 +4,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-md-6 text-center">
                     <h1><span class="heading--main">{{$t('my-projects')}}</span></h1>
+                     <p class="lead">{{$t('projects-page-intro')}}</p>
                 </div>        
             </div>
         </div>
@@ -27,16 +28,16 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-9">
-                            <div class="d-flex justify-content-center align-items-center">
+                        <div class="col-md-12 ">
+                            <div class="d-flex justify-content-around align-items-center">
                                 <div class="p-2">
-                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
+                                    <img class="img-fluid" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                 </div>
                                 <div class="p-2">
-                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
+                                    <img class="img-fluid" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
                                 </div>
                                 <div class="p-2">
-                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
+                                    <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
                                 </div>
                                 <div class="p-2">
                                     <img class="img-fluid" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
@@ -71,16 +72,16 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-6">
-                            <div class="d-flex justify-content-center align-items-center">
+                        <div class="col-md-8">
+                            <div class="d-flex justify-content-around align-items-center">
                                 <div class="p-2">
-                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
+                                    <img class="img-fluid" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                 </div>
                                 <div class="p-2">
-                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
+                                    <img class="img-fluid" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
                                 </div>
                                 <div class="p-2">
-                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
+                                    <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
                                 </div>
                                 <div class="p-2">
                                      <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">
@@ -109,16 +110,16 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-6">
-                                <div class="d-flex justify-content-center align-items-center">
+                        <div class="col-md-10">
+                                <div class="d-flex justify-content-around align-items-center">
                                    <div class="p-2">
-                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
+                                    <img class="img-fluid" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                     </div>
                                     <div class="p-2">
-                                        <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
+                                        <img class="img-fluid" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
                                     </div>
                                     <div class="p-2">
-                                        <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
+                                        <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
                                     </div>    
                                     <div class="p-2">
                                         <img class="img-fluid" src="../../assets/techBrands/jquery.png" alt="jquery-logo">
@@ -149,16 +150,16 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-8">
-                                <div class="d-flex justify-content-center align-items-center">
+                        <div class="col-md-11">
+                                <div class="d-flex justify-content-around align-items-center">
                                     <div class="p-2">
-                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
+                                    <img class="img-fluid" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                     </div>
                                     <div class="p-2">
-                                        <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
+                                        <img class="img-fluid" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
                                     </div>
                                     <div class="p-2">
-                                        <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
+                                        <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
                                     </div>   
                                     <div class="p-2">
                                         <img class="img-fluid" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
@@ -192,8 +193,8 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-5">
-                                <div class="d-flex justify-content-center align-items-center">
+                        <div class="col-md-6">
+                                <div class="d-flex justify-content-around align-items-center">
                                     <div class="p-2">
                                         <img class="img-fluid" src="../../assets/techBrands/wordpress.png" alt="wordpress-logo">
                                     </div>
@@ -220,16 +221,16 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-4">
-                                <div class="d-flex justify-content-center align-items-center">
+                        <div class="col-md-5">
+                                <div class="d-flex justify-content-around align-items-center">
                                     <div class="p-2">
-                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
+                                    <img class="img-fluid" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                     </div>
                                     <div class="p-2">
-                                        <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
+                                        <img class="img-fluid" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
                                     </div>
                                     <div class="p-2">
-                                        <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
+                                        <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
                                     </div>    
                                     <div class="p-2">
                                         <img class="img-fluid" src="../../assets/techBrands/bulma.png" alt="bulma-logo">
@@ -245,22 +246,21 @@
                             <img class="img-fluid rounded img-thumbnail"  src="../../assets/portfolio.jpg">
                         </div>
                         <div class="col-md-6 text-center">
-                            <h4><span>Portfolio website</span></h4>
-                            <p>{{$t('weather-app.description')}}</p>
-                            <a href="" target="_blank" rel="noopener noreferrer" class="btn btn--mySecondary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</a>
+                            <h4><span>{{$t('portfolio')}} website</span></h4>
+                            <a href="https://github.com/hazincak/PortfolioWebsite" target="_blank" rel="noopener noreferrer" class="btn btn--myPrimary btn-block"><i class="fab fa-github"></i>&nbsp;GitHub</a>
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-6">
-                            <div class="d-flex justify-content-center align-items-center">
+                        <div class="col-md-5">
+                            <div class="d-flex justify-content-around align-items-center">
                                 <div class="p-2">
-                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
+                                    <img class="img-fluid" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                 </div>
                                 <div class="p-2">
-                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
+                                    <img class="img-fluid" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
                                 </div>
                                 <div class="p-2">
-                                    <img class="img-fluid img-badge" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
+                                    <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
                                 </div>
                                 <div class="p-2">
                                      <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">

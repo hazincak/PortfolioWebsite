@@ -35,18 +35,18 @@
                 </div>
                 <hr class="divider--full">
                 <div class="row justify-content-center">
-                        <div class="col-10 text-center">
+                        <div class="col-md-10 text-center">
                         <h4><span>{{$t('project-features')}}</span></h4>   
                         <h5><span>{{$t('dynamic-content')}}</span></h5>
                         <p>{{$t('dynamic-content-detail')}}</p>
                         <div class="row justify-content-center">
-                            <div class="col-10">
-                            <h6><span>{{$t('manageable-content')}}</span></h6>
-                                <ul style="list-style: none;">
-                                    <li>{{$t('phone-cases-shop.manageable-content-items.carousel')}}</li>
-                                    <li>{{$t('phone-cases-shop.manageable-content-items.products-features')}}</li>
-                                    <li>{{$t('phone-cases-shop.manageable-content-items.products')}}</li>
-                                    <li>{{$t('phone-cases-shop.manageable-content-items.other-pages')}}</li>
+                            <div class="col-10"> 
+                                <h6><span>{{$t('manageable-content')}}</span></h6>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">{{$t('phone-cases-shop.manageable-content-items.carousel')}}</li>
+                                    <li class="list-group-item">{{$t('phone-cases-shop.manageable-content-items.products-features')}}</li>
+                                    <li class="list-group-item">{{$t('phone-cases-shop.manageable-content-items.products')}}</li>
+                                    <li class="list-group-item">{{$t('phone-cases-shop.manageable-content-items.other-pages')}}</li>
                                 </ul>
                             </div>
                         </div>

@@ -22,9 +22,9 @@
       <li class="m-2">
         <router-link to="/education">{{ $t('menu.education') }}</router-link>
       </li>
-      <li class="m-2">
+      <!-- <li class="m-2">
         <router-link to="/resume">Resume</router-link>
-      </li>
+      </li> -->
     </ul>
     
   </div>

@@ -6,7 +6,7 @@
   "database": "Database",
   "databases": "Databases",
   "my-projects": "My projects",
-  "projects-page-intro": "List of projects created either as school or free-time projects.",
+  "projects-page-intro": "List of school and personal projects.",
   "more-button":"Find out more",
   "used-technologies": "Used technologies",
   "other-used-technologies": "Other used technologies",
@@ -28,8 +28,8 @@
 
   "home-page-intro": "Hello, I am a web developer enthusiast looking for my first job opportunity.",  
   "about": "About",
-  "about-detail":"This website portfolio includes a hand-picked showcase of projects I have created as a student of the Higher Diploma in Software Development at Galway-Mayo Institute of Technology as well as a few personal projects I created in my spare time. Although this 75-worth-of-credits educational programme covered comprehensive learning material, I was primarily interested in web and mobile applications development.",
-  "about-detail-2": "This website portfolio includes a hand-picked showcase of projects I have created as a student of the Higher Diploma in Software Development at Galway-Mayo Institute of Technology as well as a few personal projects I created in my spare time. Although this 75-worth-of-credits educational programme covered comprehensive learning material, I was primarily interested in web and mobile applications development.",
+  "about-detail":"This website portfolio includes a hand-picked showcase of projects I have created as a student of the Higher Diploma in Software Development at Galway-Mayo Institute of Technology as well as a few personal projects I created in my spare time. Although this 75-worth-of-credits educational programme covered comprehensive learning material, I became primarily interested in web and mobile applications development.",
+  "about-detail-2": "I greatly enjoy all aspects of creating dynamic and responsive websites, from choosing colours and fonts to developing data models for the data to be stored in a database.",
   "about-detail-3": "I am really excited to start my first job opportunity where I can expand my knowledge in this tech industry field.",
   "contact": "Contact",
 
@@ -132,7 +132,7 @@
   "blog-system":{
   
     "description": "A blog website with its own content management system represented by protected admin and user areas.",
-    "description-detail": "A blog website with its own content management system represented by protected admin and user areas.This blog website is built on top of the PHP CMS that was created while completing the “PHP for Beginners with E. Diaz” course on Udemy.com.",
+    "description-detail": "A blog website with its own content management system represented by protected admin and user areas. This blog website is built on top of the PHP CMS that was created while completing the “PHP for Beginners with E. Diaz” course on Udemy.com.",
 
     "sections": "Admin and public sections",
     "sections-detail": "This application is divided into admin and public parts. The website administrator can manipulate all manageable content from there. Non-admin registered users can manage only their own posts from the public area.",
@@ -147,16 +147,17 @@
     "editor-detail": "The WYSIWYG editors implemented in public and admin sections allow users and admin to insert rich multimedia content.",
 
     "manageable-content": {
-      "products": "1. All posts with their data (title, content, images and other post information)",
-      "categories": "2. Post categories",
-      "profile": "3. Admin & User profile (Full name, username, email and password)",
-      "comments":"4. Post comments"
+      "products": "1. All posts with their data (title, content, images and other post information).",
+      "categories": "2. Post categories.",
+      "profile": "3. Admin & User profile (Full name, username, email and password).",
+      "comments":"4. Post comments."
     }
     
   },
 
   "movie-fight":{
-    "description": "Javascript application for comparing movies."
+    "description": "Javascript application for comparing movies.",
+    "description-detail":  "An Javascript application that reads and compare movie data from internet resource (omdbapi.org). It was created while completing the “Modern Javascript Bootcamp Course with C. Steele” course on Udemy.com."
   },
 
   "java":{
@@ -180,10 +181,6 @@
     "chat-title": "Network-based chat application",
     "chat-description": "A simple network-based multithreaded chat application written in Java, using the Java Socket API. This application is split into two Java projects: ChatClient and ChatServer."
 
-    
-
-    
-    
   },
 
   "education": {

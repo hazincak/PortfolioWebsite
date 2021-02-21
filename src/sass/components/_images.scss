@@ -2,6 +2,14 @@
     width: 14%;
     border-radius: 50%;
     max-width: 120px;
+
+    @include respond(phone) { 
+        width: 18%;
+    }
+
+    @include respond(tab-port) { 
+        width: 20%;
+    }
 }
 
 .img-certificate{
@@ -20,4 +28,18 @@
 
 .img-java{
     max-width: 60%;
+}
+
+.img-badge{
+    @include respond(phone) { 
+        width: 50px;
+        height: 55px;
+    }
+}
+
+.img-sass{
+    @include respond(phone) { 
+        width: 80px;
+        height: 60px;
+    }
 }

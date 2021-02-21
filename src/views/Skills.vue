@@ -17,23 +17,23 @@
                             <hr class="full">
                             <div class="d-flex justify-content-around align-items-end">
                                 <div class="p-2 ">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/html5-badge.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/html5-badge.png" alt="">
                                     <p class="text-center mb-0">HTML5</p>
                                 </div>
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/css3-badge.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/css3-badge.png" alt="">
                                     <p class="text-center mb-0">CSS3</p>
                                 </div>
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/bootstrap.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/bootstrap.png" alt="">
                                     <p class="text-center mb-0">Bootstrap</p>
                                 </div>
-                                <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/bootstrap-vue-badge.png" alt="">
+                                <div class="p-2 text-center">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/bootstrap-vue-badge.png" alt="">
                                     <p class="text-center mb-0">BootstrapVue</p>
                                 </div>
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrands/sass.png" alt="">
+                                    <img  class="img-fluid img-sass" src="../assets/techBrands/sass.png" alt="">
                                     <p class="text-center mb-0">Sass</p>
                                 </div>
                             </div>
@@ -44,27 +44,27 @@
                             <hr>
                             <div class="d-flex justify-content-around align-items-end">
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/javascript-badge.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/javascript-badge.png" alt="">
                                     <p class="text-center">Javascript</p>
                                 </div>
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/typescript.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/typescript.png" alt="">
                                     <p class="text-center">Typescript</p>
                                 </div>
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/jquery-badge.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/jquery-badge.png" alt="">
                                     <p class="text-center">jQuery</p>
                                 </div>
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/vue-badge.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/vue-badge.png" alt="">
                                     <p class="text-center">Vuejs</p>
                                 </div>
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/angular.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/angular.png" alt="">
                                     <p class="text-center">Angular</p>
                                 </div>
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/ionic-badge.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/ionic-badge.png" alt="">
                                     <p class="text-center">Ionic</p>
                                 </div>
                             </div>
@@ -75,15 +75,15 @@
                             <hr>
                             <div class="d-flex justify-content-around align-items-end">
                                 <div class="p-2">
-                                    <img  class="img-fluid"  src="../assets/techBrandsBadges/php.png" alt="">
+                                    <img  class="img-fluid img-badge"  src="../assets/techBrandsBadges/php.png" alt="">
                                     <p class="text-center">PHP</p>
                                 </div>
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/laravel-badge.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/laravel-badge.png" alt="">
                                     <p class="text-center">Laravel</p>
                                 </div>
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/mysql.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/mysql.png" alt="">
                                     <p class="text-center">MySQL</p>
                                 </div>
                             </div>
@@ -94,11 +94,11 @@
                             <hr>
                             <div class="d-flex justify-content-around align-items-end">
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/npm.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/npm.png" alt="">
                                     <p class="text-center">NPM</p>
                                 </div>
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/conposer.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/conposer.png" alt="">
                                     <p class="text-center">Composer</p>
                                 </div>
                             </div>
@@ -109,23 +109,23 @@
                             <hr>
                             <div class="d-flex justify-content-around align-items-end">
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/Java.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/Java.png" alt="">
                                     <p class="text-center">Java</p>
                                 </div>
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/wordpress.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/wordpress.png" alt="">
                                     <p class="text-center">Wordpress</p>
                                 </div>
                                 <div class="p-2">
-                                    <img  class="img-fluid" src="../assets/techBrandsBadges/firebase.png" alt="">
+                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/firebase.png" alt="">
                                     <p class="text-center">Firebase</p>
                                 </div>
                                 <div class="p-2">
-                                    <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/PostgreSQL.png" alt="">
+                                    <img id="img-postgreSQL" class="img-fluid img-badge" src="../assets/techBrandsBadges/PostgreSQL.png" alt="">
                                     <p class="text-center">PostgreSQL</p>
                                 </div>
                                 <div class="p-2">
-                                    <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/bulma.png" alt="">
+                                    <img id="img-postgreSQL" class="img-fluid img-badge" src="../assets/techBrandsBadges/bulma.png" alt="">
                                     <p class="text-center">Bulma</p>
                                 </div>       
                             </div>

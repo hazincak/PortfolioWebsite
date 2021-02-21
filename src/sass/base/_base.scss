@@ -1,6 +1,6 @@
 .container{
     min-height: 50vh;
-    padding: 4rem 1rem;
+    padding-top: 1rem;
 
     @include respond(phone) { 
         min-height: 70vh;
