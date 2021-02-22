@@ -12,8 +12,7 @@
             <div v-waypoint="{ active: true, callback: onWaypoint, options: intersectionOptions }"></div>
             <div class="container">
             <div class="row">
-                <div class="col-12">
-                    <div class="d-flex flex-row justify-content-center">
+                <div class="col-12 text-center">
                         <div class="p-2 align-self-center">
                             <img class="img-fluid"  src="../assets/education/gagls.jpg">
                         </div>
@@ -22,9 +21,8 @@
                             <h5>2010-2014</h5>
                             <h6>{{$t('education.institution-website')}}: <a href="https://gaglshe.edupage.org/" target="_blank" rel="noopener noreferrer">https://gaglshe.edupage.org/</a></h6>
                         </div>
-                    </div>
+                    
                     <hr class="divider--full">
-                    <div class="d-flex flex-row justify-content-center">
                         <div class="p-2 align-self-center">
                             <img class="img-fluid" src="../assets/education/APZ.png">
                         </div>
@@ -34,9 +32,8 @@
                             <p>{{$t('education.university-description')}}</p>
                             <h6>{{$t('education.institution-website')}}: <a href="https://www.akademiapz.sk/" target="_blank" rel="noopener noreferrer">https://www.akademiapz.sk/</a></h6>
                         </div>
-                    </div>
+                   
                     <hr class="divider--full">
-                    <div class="d-flex flex-row justify-content-center">
                         <div class="p-2 align-self-center">
                             <img class="img-fluid"  src="../assets/education/GMIT.png">
                         </div>
@@ -45,11 +42,14 @@
                             <h5>2019-2021</h5>
                             <p>{{$t('education.gmit-description')}}</p>
                             <h6>{{$t('education.institution-website')}}: <a href="https://www.gmit.ie/" target="_blank" rel="noopener noreferrer">https://www.gmit.ie/</a></h6>
-                            <button type="button" class="btn btn--myPrimary btn-block" data-toggle="modal" data-target="#gmitModules">
-                                {{$t('gmit.completed-modules')}}
-                            </button>
+                            <div class="row justify-content-center">
+                                <div class="col-md-6 text-center">
+                                       <button type="button" class="btn btn--myPrimary btn-block" data-toggle="modal" data-target="#gmitModules">
+                                        {{$t('gmit.completed-modules')}}
+                                    </button>
+                                </div>
+                            </div>
                         </div>
-                    </div>
                 </div>
             </div>
             <hr class="divider--full">
