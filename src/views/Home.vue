@@ -1,6 +1,7 @@
 <template>
   <div>
     <div class="container-fluid section_banner">
+      <div v-waypoint="{ active: true, callback: onWaypoint, options: intersectionOptions }"></div>
       <div class="row justify-content-center align-items-center">
         <div class="col-md-8 text-center">
             <img alt="author" class="img-fluid img-avatar mt-2" src="../assets/me-avatar.jpg">
@@ -10,7 +11,7 @@
       </div>  
     </div>
     <div class="section_body">
-      <div v-waypoint="{ active: true, callback: onWaypoint, options: intersectionOptions }"></div>
+      <!-- <div v-waypoint="{ active: true, callback: onWaypoint, options: intersectionOptions }"></div> -->
       <div class="container">
         <div class="row">
           <div class="col-md-7">

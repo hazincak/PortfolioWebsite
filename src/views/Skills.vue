@@ -56,8 +56,8 @@
                                     <p class="text-center text-muted">jQuery</p>
                                 </div>
                                 <div class="p-2">
-                                    <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/vue-badge.png" alt="">
-                                    <p class="text-center text-muted">Vuejs</p>
+                                    <img  class="img-fluid img-badge pt-2 pt-md-0" src="../assets/techBrandsBadges/vue-badge.png" alt="">
+                                    <p class="text-center text-muted ">Vuejs</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/angular.png" alt="">

@@ -81,7 +81,7 @@
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
                                 </div>
                                 <div class="p-1 p-md-2">
-                                    <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
+                                    <img class="img-fluid" src="../../assets/techBrandsBadges/typescript.png" alt="ts-badge">
                                 </div>
                                 <div class="p-1 p-md-2">
                                      <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">

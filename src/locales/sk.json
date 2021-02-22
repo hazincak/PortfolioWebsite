@@ -25,7 +25,7 @@
   "application-state": "Aplikačný stav",
   
   "dynamic-content": "Dynamický obsah",
-  "dynamic-content-detail":"Obsah tohto e-shopu môže byť vytvorený, upravený alebo vymazaný z admin sekcie.",
+  "dynamic-content-detail":"Obsah tejto aplikácie môže byť vytvorený, upravený alebo vymazaný z admin sekcie.",
   "manageable-content": "Spravovateľný obsah:",
   
   
@@ -35,12 +35,12 @@
   "shopping-cart": "Nákupný košík",
   
  
-  "home-page-intro": "Ahoj, moje meno je Ján Hažinčák a hľadám si prácu na pozíciách Junior PHP alebo JavaScript developer.",
+  "home-page-intro": "Moje meno je Ján Hažinčák a hľadám si prácu na pozíciách Junior PHP alebo JavaScript developer.",
 
   "about": "O tejto web stránke",
   "about-detail":"Táto webová stránka slúži ako portfólio prác, ktoré boli vypracované jednak ako školské projekty 75 kreditového vysokoškolského diplomu na Galway-Mayo Institute of Technology (GMIT) v odbore Software Developmentu, ako aj projekty vypracované vo voľnom čase.",
-  "about-detail-2": "Keďže zo všetkých učených predmetov tohto vzdelávacieho programu ma najviac zaujal vývoj webových a hybridných mobilných aplikácií, svoj voľný čas rád trávim zdokonaľovaním sa v už pomerne znalých a učením nových frontend a backend programovacích jazykov, frameworkov a trendov z oblasti vývoja webových a mobilných aplikácií.",
-  "about-detail-3": "Rád by som tieto znalosti využil na prvej pracovnej pozícií v tejto oblasti.",
+  "about-detail-2": "Keďže zo všetkých učených predmetov tohto vzdelávacieho programu ma najviac zaujal vývoj webových a hybridných mobilných aplikácií, svoj voľný čas rád trávim zdokonaľovaním sa v už pomerne znalých a učením nových frontend a backend programovacích jazykov, frameworkov a trendov z tejto oblasti.",
+  "about-detail-3": "Rád by som tieto skúsenosti a znalosti využil a prehlbil aj na prvej pracovnej pozícií Frontend alebo PHP Developera.",
   "contact": "Kontakt",
 
   "menu":{
@@ -66,9 +66,9 @@
       "other-pages": "Obsah pravidiel vrátenia tovaru, ochrany osobných údajov a obchodných pravdiel"
     },
 
-    "admin-section-detail": "Obsah je spravovateľný z admin sekcie, ku ktorej prístup je chránený jednak na frontende (VueJS Navigation Guards) a na backende (Laravel Gates).",
+    "admin-section-detail": "Obsah je spravovateľný z admin sekcie, ku ktorej prístup je chránený na frontende (VueJS Navigation Guards), ako aj na backende (Laravel Gates).",
     "email-notification-detail": "Zakaznik e-shopu je upozornený po úspěšnej objednávke a takisto ak je jeho objednávka potvrdená",
-    "responsiveness-detail": "Responzívny dizajn je dosiahnutý najmä Bootsrapom. Všetky ostatné elementy ako napríklad veľkosť textu su dynamicky modifikované Sass mixin funkciou, ktorá reaguje na definované zlomy.",
+    "responsiveness-detail": "Responzívny dizajn je dosiahnutý najmä Bootsrap grid systémom. Všetky ostatné elementy ako napríklad veľkosť textu su dynamicky modifikované Sass mixin funkciou, ktorá reaguje na definované zlomy.",
     "shopping-cart-details": "Produkty pridané do nákupného košíka sú dostupné naprieč všetkými stránkami e-shopu. Rovnako sú uložené v HTML5 webovom uložisku bez expiračnej doby. To zaručuje, že obsah nákupného košíka je dostupný aj po znovu načítání webovej stránky.",
     "diagram-title": "Diagram modelu databázy zobrazujúci vzťahy medzi kategóriami, značkami, modelmi a produktmi."
   
@@ -110,20 +110,21 @@
     "bookmarks-badge": "Zobrazenie počtu záložiek",
     "bookmarks-badge-detail": "Počet uložených záložiek je stále aktualizovaný po ich pridaní alebo odstránení z Ionic úložiska.",
     "ionic-searchbar": "Ionic vyhľadávacie pole",
-    "ionic-searchbar-detail": "Užívateľ aplikácie vyhľadáva svoju lokáciu pomocou Ionic vyhľadávacieho okna. Zoznam nájdených lokalít ziskany vysláním HTTP požiadavky do OpenWeather Geocoding API, ktorý je súčasťou Current Weather Data API. HTTP požiadavka klienta je vyslaná potom ako užívateľ prestane písať názov obce.",
+    "ionic-searchbar-detail": "Užívateľ aplikácie vyhľadáva svoju lokáciu pomocou Ionic vyhľadávacieho okna. Zoznam nájdených lokalít je ziskany vysláním HTTP požiadavky do OpenWeather Geocoding API, ktorý je súčasťou Current Weather Data API. HTTP požiadavka klienta je vyslaná potom ako užívateľ prestane písať názov obce.",
     "rotating-icon": "Zobrazenie smeru vetra",
-    "rotating-icon-detail": "Rotujúca ikona v tvare šipky a svetové strany zobzobrazujúce hodnoty na základe uhlu vetra."
-
+    "rotating-icon-detail": "Rotujúca ikona v tvare šipky a svetové strany zobrazujúce hodnoty na základe uhlu vetra.",
+    "temperature-select": "Možnosť výberu jednotiek teploty a rýchlosti",
+    "temperature-select-detail": "Užívateľ aplikácie si môže zvoliť sústavu základných fyzikálnych jednotiek teploty a rýchlosti."
   },
 
   "laptopmania":{
     "title": "Laptopmania",
     "description": "Internetová stránka vypracovaná ako záverečná práca predmetu Vývoj webových aplikácií na GMIT.",
-    "description-detail": "Internetová stránka vypracovaná ako záverečná práca predmetu Vývoj webových aplikácií na GMIT, ktorej hlavnou úlohou bolo vyvinúť e-commerce stránku s použitím technológií učenom v tomto module - HTML5, CSS3, Bootstrap 4, Javascript a PHP. Pod slovom 'nákup' sa v tomto projekte rozumelo, povoliť užívateľovi sa zaregistrovať, prihlásiť a následne použiť svoje dáta na skompletizovanie nákupu bez nutnosti integrovania platobných brán.",
+    "description-detail": "Internetová stránka vypracovaná ako záverečná práca predmetu Vývoj webových aplikácií na GMIT. Hlavnou úlohou tejto práce bolo vyvinúť e-commerce stránku s použitím technológií učenom na tomto predmete - HTML5, CSS3, Bootstrap 4, Javascript a PHP. Pod slovom 'nákup' sa v tomto projekte rozumelo, povoliť užívateľovi sa zaregistrovať, prihlásiť a následne použiť svoje dáta na skompletizovanie nákupu bez nutnosti integrovania platobných brán.",
     "shopping-cart": "Nákupný košík",
     "shopping-cart-detail": "Produkty pridané do nákupného košíka sú dostupné naprieč všetkými stránkami e-shopu. Rovnako sú uložené v HTML5 webovom uložisku bez expiračnej doby. To zaručuje, že obsah nákupného košíka je dostupný aj po znovu načítání webovej stránky.",
     "price-calculation": "Výpočet ceny",
-    "price-calculation-detail": "NakupTotal price of the basket is calculated any time user alter content of the basket. ",
+    "price-calculation-detail": "Výpočet ceny nákupného košíka je stále prepočítaný po pridaní alebo odstránení produktu.",
     "user-authentification": "Autentifikácia užívateľa",
     "user-authentification-detail": "Užívateľ môže dokončiť svoj nákup ako registrovaný užívateľ a aj ako hosť."
   
@@ -139,23 +140,23 @@
   },
 
   "blog-system":{
-    "description": "Internetová stránka vo forme blogu s vlastným redakčným systémom obsahujúca funkcie s oprávneniami správcu a používateľa.",
-    "description-detail": "Internetová stránka vo forme blogu s vlastným redakčným systémom obsahujúca funkcie s oprávneniami správcu a používateľa.",
+    "description": "Internetová stránka vo forme blogu s vlastným redakčným systémom obsahujúca funkcie s oprávneniami pre správcu a používateľa.",
+    "description-detail": "Internetová stránka vo forme blogu s vlastným redakčným systémom obsahujúca funkcie s oprávneniami pre správcu a používateľa.",
     
-    "sections": "Admin and public sections",
-    "sections-detail": "Táto aplikácia je rozdelená na admin This application is divided into admin and public parts. The website administrator can manipulate all manageable content from there. Non-admin registered users can manage only their own posts from the public area.",
+    "sections": "Rozdelenie aplikácie",
+    "sections-detail": "Táto aplikácia je rozdelená na sekciu pre admina, ako aj pre registrovaného užívateľa.",
     
-    "users-online": "Users online",
-    "users-online-detail": "This function returns all online users based on their session_id.",
+    "users-online": "Počet online užívateľov",
+    "users-online-detail": "Zobrazenie počtu online užívateľov v admin sekcii.",
 
-    "searchbar": "Searchbar",
-    "searchbar-detail": "Using the searchbar, the users can search for posts based on their tags.",
+    "searchbar": "Vyhľadávacie okno",
+    "searchbar-detail": "Užívatelia aplikácie môžu využiť vyhľadávacie okno, ktoré vyhľadáva recepty na základe ich značiek (tagov).",
     
     "editor": "WYSIWYG editory",
-    "editor-detail": "The WYSIWYG editors implemented in public and admin sections allow users and admin to insert rich multimedia content.",
+    "editor-detail": "Integrované WYSIWYG editory umožňujúce vložiť text spolu s HTML značkami.",
 
     "manageable-content": {
-      "products": "1. Všetky recepty s ich dátami (Kategórie, text, obrázky, ingrediencie, doba prípravy a varenia ). ",
+      "products": "1. Všetky recepty s ich dátami (Kategórie, text, obrázky, ingrediencie). ",
       "categories": "2. Kategórie receptov.",
       "profile": "3. Profil správcu a užívateľa (Meno, priezvisko, užívateľské meno, email a heslo).",
       "comments":"4. Komentáre receptov"

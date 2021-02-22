@@ -20,7 +20,7 @@
                     <div class="col-md-10 text-center">
                          <h4><span>{{$t('used-technologies')}}</span></h4>
                             <h5><span>Frontend:</span></h5>
-                            <p>&nbsp;HTML5,&nbsp;CSS3,&nbsp;Sass,&nbsp;Angular & Ionic&nbsp;(Javascript)</p>
+                            <p>&nbsp;HTML5,&nbsp;CSS3,&nbsp;Sass,&nbsp;Angular & Ionic&nbsp;(Typescript)</p>
                             
                             <h4><span>{{$t('other-used-technologies')}}</span></h4>
                             <h5><span>{{$t('application-state')}}:</span></h5>
@@ -31,7 +31,10 @@
                 <hr class="divider--full">
                 <div class="row justify-content-center">
                         <div class="col-10 text-center">
-                            <h4><span>{{$t('project-features')}}</span></h4>   
+                            <h4><span>{{$t('project-features')}}</span></h4>
+                            <h5><span>{{$t('weather-app.temperature-select')}}</span></h5>
+                            <p>{{$t('weather-app.temperature-select-detail')}}</p>
+                            <hr class="divider--partial">   
                             <h5><span>{{$t('weather-app.bookmarks')}}</span></h5>
                             <p>{{$t('weather-app.bookmarks-detail')}}</p>
                             <hr class="divider--partial">

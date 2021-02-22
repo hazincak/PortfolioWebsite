@@ -7187,7 +7187,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 .container {
-  min-height: 50vh;
+  min-height: 55vh;
   padding-top: 1rem; }
   @media (max-width: 600px) {
     .container {
