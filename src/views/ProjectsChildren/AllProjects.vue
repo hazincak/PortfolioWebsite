@@ -28,30 +28,30 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-12 ">
+                        <div class="col-12 col-md-10 ">
                             <div class="d-flex justify-content-around align-items-center">
-                                <div class="p-2">
+                                <div class="p-1 p-md-2  ">
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2 ">
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2 ">
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2 ">
                                     <img class="img-fluid" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2 ">
                                     <img class="img-fluid" src="../../assets/techBrands/vuejs.png" alt="vue-logo">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2 ">
                                     <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2 ">
                                     <img class="img-fluid" src="../../assets/techBrands/laravel.png" alt="laravel-logo">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2 ">
                                     <img class="img-fluid" src="../../assets/techBrands/mysql.png" alt="mysql-logo">
                                 </div>
                             </div>
@@ -72,24 +72,24 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-8">
+                        <div class="col-9 col-md-7">
                             <div class="d-flex justify-content-around align-items-center">
-                                <div class="p-2">
+                                <div class="p-1 p-md-2">
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2">
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2">
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2">
                                      <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2">
                                     <img class="img-fluid" src="../../assets/techBrands/angular.png" alt="html-logo">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2">
                                     <img class="img-fluid" src="../../assets/techBrands/ionic.png" alt="jquery-logo">
                                 </div>
                             </div>
@@ -110,27 +110,27 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-10">
+                        <div class="col-12 col-md-9">
                                 <div class="d-flex justify-content-around align-items-center">
-                                   <div class="p-2">
+                                   <div class="p-1 p-md-2">
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
                                     </div>    
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrands/jquery.png" alt="jquery-logo">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrands/php.png" alt="php-logo">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrands/mysql.png" alt="mysql-logo">
                                     </div>
                                 </div>
@@ -150,30 +150,30 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-11">
+                        <div class="col-12 col-md-10">
                                 <div class="d-flex justify-content-around align-items-center">
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
                                     </div>   
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrands/jquery.png" alt="jquery-logo">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrands/php.png" alt="php-logo">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrands/mysql.png" alt="mysql-logo">
                                     </div>
                             </div>
@@ -193,15 +193,15 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-6">
+                        <div class="col-9 col-md-5">
                                 <div class="d-flex justify-content-around align-items-center">
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrands/wordpress.png" alt="wordpress-logo">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrands/lamp.png" alt="lamp-logo">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrands/ec2.png" alt="ec2-logo">
                                     </div>
                                 </div>
@@ -221,18 +221,18 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-5">
+                        <div class="col-7 col-md-4">
                                 <div class="d-flex justify-content-around align-items-center">
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
                                     </div>
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
                                     </div>    
-                                    <div class="p-2">
+                                    <div class="p-1 p-md-2">
                                         <img class="img-fluid" src="../../assets/techBrands/bulma.png" alt="bulma-logo">
                                     </div>
                                 </div>
@@ -251,21 +251,21 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-5">
+                        <div class="col-8 col-md-4">
                             <div class="d-flex justify-content-around align-items-center">
-                                <div class="p-2">
+                                <div class="p-1 p-md-2">
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2">
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2">
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2">
                                      <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">
                                 </div>
-                                <div class="p-2">
+                                <div class="p-1 p-md-2">
                                     <img class="img-fluid" src="../../assets/techBrands/vuejs.png" alt="html-logo">
                                 </div>
                             </div>
