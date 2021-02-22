@@ -69,3 +69,13 @@
         </div>
     </div>
 </template>
+<script>
+export default {
+  created(){
+    this.$once('hook:destroyed', () => {
+      document.querySelector('body').classList.remove('modal-open');
+      document.querySelector('.modal-backdrop').remove();
+    })
+  }
+}
+</script>
