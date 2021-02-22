@@ -129,6 +129,11 @@
   
   },
 
+  "laptopmania-videos":{
+    "order-guest":"Objednávanie tovaru registrovaný užívateľ",
+    "order-registered": "Objednávanie tovaru návštevník stránky"
+  },
+
   "sap-concur":{
     "description": "Wordpress internetová stránka vypracovaná ako záverečná práca predmetu na GMIT. Stránka funguje na Linux, Apache, MySQL, PHP webovom serveri vytvorenom na AWS EC2 inštancii."
   },
@@ -159,7 +164,8 @@
   },
 
   "movie-fight":{
-    "description": "Javascript aplikácia na porovnanie filmov."
+    "description": "Javascript aplikácia na porovnanie filmov.",
+    "description-detail":  "Javascript aplikácia na porovnanie filmov (omdbapi.org)."
   },
 
   "java":{

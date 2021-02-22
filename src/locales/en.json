@@ -125,6 +125,11 @@
     "user-authentification-detail": "User authentification detail"
   },
 
+  "laptopmania-videos":{
+    "order-guest":"Placing an order as a guest",
+    "order-registered": "Placing an order as a registered user"
+  },
+
   "sap-concur":{
     "description": "WordPress hosted on an AWS cloud-based LAMP server created as a school project."
   },

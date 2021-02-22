@@ -125,9 +125,6 @@
                                                  <source src='../../assets/projectsVideos/PhoneCasesShop/updatingProduct.webm' type="video/mp4">
                                              </video>
                                          </div>
-                                         <div class="carousel-caption d-none d-md-block">
-                                             <h5>{{$t('phone-cases-shop-videos.updating-product')}}</h5>
-                                         </div>
                                          <div>
                                              <h5 class="text-center">{{$t('phone-cases-shop-videos.updating-product')}}</h5>
                                          </div>
@@ -236,20 +233,3 @@ export default {
 }
 </script>
 
-<style scoped>
-.carousel-control-prev{
-
-  height:0;
-  top:50%;
-}
-
-.carousel-control-next{
- 
- height:0;
-  top:50%;
-}
-.carousel-inner > .item > img, .carousel-inner > .item > a > img { width: 90%;}
-
-
-
-</style>

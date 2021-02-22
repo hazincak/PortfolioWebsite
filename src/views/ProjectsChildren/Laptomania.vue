@@ -54,8 +54,7 @@
                                              </video>
                                          </div>
                                          <div>
-                                             <h5 class="text-center">{{$t('phone-cases-shop-videos.categoryCRUD')}}</h5>
-                                             <p class="text-center">{{$t('phone-cases-shop-videos.categoryCRUD-detail')}}</p>
+                                             <h5 class="text-center">{{$t('laptopmania-videos.order-guest')}}</h5>
                                          </div>
                                 </div>
                                 <div class="carousel-item">
@@ -65,8 +64,7 @@
                                              </video>
                                          </div>
                                          <div>
-                                             <h5 class="text-center">{{$t('phone-cases-shop-videos.creating-model')}}</h5>
-                                             <p class="text-center">{{$t('phone-cases-shop-videos.creating-model-detail')}}</p>
+                                             <h5 class="text-center">{{$t('laptopmania-videos.order-registered')}}</h5>
                                          </div>
                                 </div>
                                 
