@@ -18,23 +18,23 @@
                             <div class="d-flex justify-content-around align-items-end">
                                 <div class="p-2 ">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/html5-badge.png" alt="">
-                                    <p class="text-center mb-0">HTML5</p>
+                                    <p class="text-center text-muted mb-0">HTML5</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/css3-badge.png" alt="">
-                                    <p class="text-center mb-0">CSS3</p>
+                                    <p class="text-center text-muted mb-0">CSS3</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/bootstrap.png" alt="">
-                                    <p class="text-center mb-0">Bootstrap</p>
+                                    <p class="text-center text-muted mb-0">Bootstrap</p>
                                 </div>
                                 <div class="p-2 text-center">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/bootstrap-vue-badge.png" alt="">
-                                    <p class="text-center mb-0">BootstrapVue</p>
+                                    <p class="text-center text-muted mb-0">BootstrapVue</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid img-sass" src="../assets/techBrands/sass.png" alt="">
-                                    <p class="text-center mb-0">Sass</p>
+                                    <p class="text-center text-muted mb-0">Sass</p>
                                 </div>
                             </div>
                         </div>
@@ -45,27 +45,27 @@
                             <div class="d-flex justify-content-around align-items-end">
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/javascript-badge.png" alt="">
-                                    <p class="text-center">Javascript</p>
+                                    <p class="text-center text-muted">Javascript</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/typescript.png" alt="">
-                                    <p class="text-center">Typescript</p>
+                                    <p class="text-center text-muted">Typescript</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/jquery-badge.png" alt="">
-                                    <p class="text-center">jQuery</p>
+                                    <p class="text-center text-muted">jQuery</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/vue-badge.png" alt="">
-                                    <p class="text-center">Vuejs</p>
+                                    <p class="text-center text-muted">Vuejs</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/angular.png" alt="">
-                                    <p class="text-center">Angular</p>
+                                    <p class="text-center text-muted">Angular</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/ionic-badge.png" alt="">
-                                    <p class="text-center">Ionic</p>
+                                    <p class="text-center text-muted">Ionic</p>
                                 </div>
                             </div>
                         </div>
@@ -76,15 +76,15 @@
                             <div class="d-flex justify-content-around align-items-end">
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge"  src="../assets/techBrandsBadges/php.png" alt="">
-                                    <p class="text-center">PHP</p>
+                                    <p class="text-center text-muted">PHP</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/laravel-badge.png" alt="">
-                                    <p class="text-center">Laravel</p>
+                                    <p class="text-center text-muted">Laravel</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/mysql.png" alt="">
-                                    <p class="text-center">MySQL</p>
+                                    <p class="text-center text-muted">MySQL</p>
                                 </div>
                             </div>
                         </div>
@@ -95,11 +95,11 @@
                             <div class="d-flex justify-content-around align-items-end">
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/npm.png" alt="">
-                                    <p class="text-center">NPM</p>
+                                    <p class="text-center text-muted">NPM</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/conposer.png" alt="">
-                                    <p class="text-center">Composer</p>
+                                    <p class="text-center text-muted">Composer</p>
                                 </div>
                             </div>
                         </div>
@@ -110,23 +110,23 @@
                             <div class="d-flex justify-content-around align-items-end">
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/Java.png" alt="">
-                                    <p class="text-center">Java</p>
+                                    <p class="text-center text-muted">Java</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/wordpress.png" alt="">
-                                    <p class="text-center">Wordpress</p>
+                                    <p class="text-center text-muted">Wordpress</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid img-badge" src="../assets/techBrandsBadges/firebase.png" alt="">
-                                    <p class="text-center">Firebase</p>
+                                    <p class="text-center text-muted">Firebase</p>
                                 </div>
                                 <div class="p-2">
                                     <img id="img-postgreSQL" class="img-fluid img-badge" src="../assets/techBrandsBadges/PostgreSQL.png" alt="">
-                                    <p class="text-center">PostgreSQL</p>
+                                    <p class="text-center text-muted">PostgreSQL</p>
                                 </div>
                                 <div class="p-2">
                                     <img id="img-postgreSQL" class="img-fluid img-badge" src="../assets/techBrandsBadges/bulma.png" alt="">
-                                    <p class="text-center">Bulma</p>
+                                    <p class="text-center text-muted">Bulma</p>
                                 </div>       
                             </div>
                         </div>
@@ -137,31 +137,31 @@
                             <div class="d-flex justify-content-around align-items-baseline">
                                 <div class="p-2">
                                     <img  class="img-fluid" src="../assets/techBrandsBadges/gitBash.png" alt="">
-                                    <p class="text-center">Git Bash</p>
+                                    <p class="text-center text-muted">Git Bash</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid" src="../assets/techBrandsBadges/gitHub.png" alt="">
-                                    <p class="text-center">GitHub</p>
+                                    <p class="text-center text-muted">GitHub</p>
                                 </div>
                                 <div class="p-2">
                                     <img  class="img-fluid" src="../assets/techBrandsBadges/intelij.png" alt="">
-                                    <p class="text-center">IntelliJ IDEA</p>
+                                    <p class="text-center text-muted">IntelliJ IDEA</p>
                                 </div>
                                 <div class="p-2 text-center">
                                     <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/vsc.png" alt="">
-                                    <p class="text-center">Visual Studio Code</p>
+                                    <p class="text-center text-muted">Visual Studio Code</p>
                                 </div>
                                 <div class="p-2">
                                     <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/postman.png" alt="">
-                                    <p class="text-center">Postman</p>
+                                    <p class="text-center text-muted">Postman</p>
                                 </div>
                                 <div class="p-2">
                                     <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/gimp.png" alt="">
-                                    <p class="text-center">GIMP</p>
+                                    <p class="text-center text-muted">GIMP</p>
                                 </div>
                                 <div class="p-2 text-center">
                                     <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/logoDesign.png" alt="">
-                                    <p class="text-center">Logo Design Studio Pro</p>
+                                    <p class="text-center text-muted">Logo Design Studio Pro</p>
                                 </div>        
                             </div>
                         </div>

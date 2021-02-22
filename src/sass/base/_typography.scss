@@ -9,11 +9,11 @@ html{
     font-size: 18px;
     
   @include respond(phone) { 
-    font-size: 65%; 
+    font-size: 80%; 
   }
 
   @include respond(tab-port) { 
-      font-size: 68%; 
+      font-size: 90%; 
   }
 
 }
@@ -45,7 +45,7 @@ a:hover{
 }
 
 .contact-icon{
-  font-size: 2.0rem;
+  font-size: 2.5rem;
   color: $my-color-3;
   vertical-align: middle;
 }
@@ -79,5 +79,15 @@ nav a {
   font-size: 2.2rem;
   color: $my-color-4;
   vertical-align: middle;
+}
+
+.text-muted{
+  @include respond(phone) { 
+    font-size: 65%; 
+  }
+
+  @include respond(tab-port) { 
+      font-size: 65%; 
+  }
 }
   

@@ -68,12 +68,12 @@
                                     <div class="row justify-content-center">
                                         <div class="col-8 text-center">
                                             <h6>{{$t('java-projects.benchmark-algo')}}</h6>
-                                             <ul style="list-style: none;">
-                                                <li>Bubble sort</li>
-                                                <li>Selection sort</li>
-                                                <li>Merge sort</li>
-                                                <li>Quick sort</li>
-                                                <li>Counting sort</li>
+                                             <ul class="list-group list-group-flush">
+                                                <li class="list-group-item">Bubble sort</li>
+                                                <li class="list-group-item">Selection sort</li>
+                                                <li class="list-group-item">Merge sort</li>
+                                                <li class="list-group-item">Quick sort</li>
+                                                <li class="list-group-item">Counting sort</li>
                                             </ul>
                                         </div>
                                     </div>
