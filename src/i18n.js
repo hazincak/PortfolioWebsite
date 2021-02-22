@@ -17,7 +17,6 @@ function loadLocaleMessages () {
 }
 
 const locale = localStorage.getItem('locale');
-console.log(locale);
 
 export default new VueI18n({
   locale: process.env.VUE_APP_I18N_LOCALE || locale ? locale : 'en' ,

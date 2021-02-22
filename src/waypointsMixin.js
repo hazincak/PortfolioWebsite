@@ -15,14 +15,12 @@ export default{
             this.stickyNavbar = false;
             let navbar = document.querySelector('nav');
             navbar.classList.remove('fixed-top', 'navbar-sticky');
-            console.log(this.stickyNavbar);
           }
      
           if (direction === this.$waypointMap.DIRECTION_TOP) {
             let navbar = document.querySelector('nav');
             navbar.classList.add('fixed-top', 'navbar-sticky');
             this.stickyNavbar = true;
-            console.log(this.stickyNavbar);
           }
         }
       }
