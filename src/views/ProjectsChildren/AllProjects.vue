@@ -251,7 +251,7 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-8 col-md-4">
+                        <div class="col-9 col-md-6">
                             <div class="d-flex justify-content-around align-items-center">
                                 <div class="p-1 p-md-2">
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
@@ -261,6 +261,9 @@
                                 </div>
                                 <div class="p-1 p-md-2">
                                     <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
+                                </div>
+                                <div class="p-1 p-md-2 ">
+                                    <img class="img-fluid" src="../../assets/techBrands/bootstrap.png" alt="bootstrap-logo">
                                 </div>
                                 <div class="p-1 p-md-2">
                                      <img class="img-fluid" src="../../assets/techBrands/sass.png" alt="sass-logo">

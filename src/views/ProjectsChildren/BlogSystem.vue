@@ -46,9 +46,6 @@
                             </div>
                         </div>
                         <hr>
-                            <h5><span>{{$t('laptopmania.user-authentification')}}</span></h5>
-                            <p>{{$t('laptopmania.user-authentification-detail')}}</p>
-                            <hr class="divider--partial">
                             <h5><span>{{$t('blog-system.sections')}}</span></h5>
                             <p>{{$t('blog-system.sections-detail')}}</p>
                             <hr class="divider--partial">

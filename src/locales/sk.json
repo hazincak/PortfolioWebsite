@@ -104,7 +104,7 @@
   "weather-app":{
     "title": "Mobilná aplikácia na počasie",
     "description": "Záverečná práca predmetu Vývoj mobilných aplikácií na GMIT.",
-    "description-detail": "Záverečná práca predmetu Vývoj mobilných aplikácií na GMIT vo forme Ionic mobilnej aplikácia zobrazujúca počasie a aktuality zo zvolenej oblasti.",
+    "description-detail": "Záverečná práca predmetu Vývoj mobilných aplikácií na GMIT vo forme Ionic mobilnej aplikácie zobrazujúcej počasie a aktuality zo zvolenej oblasti.",
     "bookmarks": "Záložky článkov",
     "bookmarks-detail": "Užívateľ aplikácie môže pridať ľubovoľný článok do záložiek. Ten je potom uloženy do Ionic úložiska. Článok môže byť neskôr prečítaný alebo zmazaný.",
     "bookmarks-badge": "Zobrazenie počtu záložiek",
@@ -131,8 +131,8 @@
   },
 
   "laptopmania-videos":{
-    "order-guest":"Objednávanie tovaru registrovaný užívateľ",
-    "order-registered": "Objednávanie tovaru návštevník stránky"
+    "order-guest":"Objednávanie tovaru ako registrovaný užívateľ",
+    "order-registered": "Objednávanie tovaru ako návštevník stránky"
   },
 
   "sap-concur":{
@@ -188,7 +188,7 @@
     "report-download": "Stiahnuť report",
 
     "chat-title": "Java chat aplikácia",
-    "chat-description": "Jednoduchá multithreded chat aplikácia využívajúca Java Socke API. Táto aplikácia je rozdelená na dva Java projekty - ChatClient a ChatServer"
+    "chat-description": "Jednoduchá multithredová chat aplikácia využívajúca Java Socket API. Táto aplikácia je rozdelená na dva Java projekty - ChatClient a ChatServer."
   },
 
   "education": {

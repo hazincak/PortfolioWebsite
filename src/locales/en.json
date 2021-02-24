@@ -65,7 +65,7 @@
       "carousel": "1. Products displayed in products carousel on the home page.",
       "products-features": "2. Products categories, brands, models, colours and materials.",
       "products": "3. Products CRUD (create, read update and delete).",
-      "other-pages":"4. Content of Return & Refund policies, Trading terms and GRPR pages"
+      "other-pages":"4. Content of Return & Refund policies, Trading terms and GRPR pages."
     },
 
     "admin-section-detail": "The content can be managed from the admin section. The admin routes are protected both on the client (VueJS Navigation Guards) and server side (Laravel Gates).",
@@ -125,7 +125,7 @@
     "price-calculation": "Price calculation",
     "price-calculation-detail": "The total price of the basket is calculated any time the user alters the content of the basket.",
     "user-authentification": "User authentification",
-    "user-authentification-detail": "User authentification detail"
+    "user-authentification-detail": "The users can complete their purchase either as registered users or website guests."
   },
 
   "laptopmania-videos":{

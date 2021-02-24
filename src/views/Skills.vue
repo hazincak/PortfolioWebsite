@@ -148,21 +148,17 @@
                                     <p class="text-center text-muted">IntelliJ IDEA</p>
                                 </div>
                                 <div class="p-2 text-center">
-                                    <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/vsc.png" alt="">
+                                    <img class="img-fluid" src="../assets/techBrandsBadges/vsc.png" alt="">
                                     <p class="text-center text-muted">Visual Studio Code</p>
                                 </div>
                                 <div class="p-2">
-                                    <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/postman.png" alt="">
+                                    <img class="img-fluid" src="../assets/techBrandsBadges/postman.png" alt="">
                                     <p class="text-center text-muted">Postman</p>
                                 </div>
                                 <div class="p-2">
-                                    <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/gimp.png" alt="">
+                                    <img class="img-fluid" src="../assets/techBrandsBadges/gimp.png" alt="">
                                     <p class="text-center text-muted">GIMP</p>
-                                </div>
-                                <div class="p-2 text-center">
-                                    <img id="img-postgreSQL" class="img-fluid" src="../assets/techBrandsBadges/logoDesign.png" alt="">
-                                    <p class="text-center text-muted">Logo Design Studio Pro</p>
-                                </div>        
+                                </div>     
                             </div>
                         </div>
 
