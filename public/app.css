@@ -7239,12 +7239,12 @@ html {
   text-align: center;
   color: #2c3e50;
   font-size: 18px; }
-  @media (max-width: 600px) {
-    html {
-      font-size: 80%; } }
   @media (max-width: 900px) {
     html {
       font-size: 90%; } }
+  @media (max-width: 600px) {
+    html {
+      font-size: 80%; } }
 
 body {
   font-family: 'Rubik', Helvetica, Arial, sans-serif;

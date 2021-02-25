@@ -12,13 +12,13 @@
             <div v-waypoint="{ active: true, callback: onWaypoint, options: intersectionOptions }"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-12">
+                    <div class="col-12 p-0">
                         <div class="m-5">
                             <div class="row align-items-center">
-                                <div class="col-md-3 text-center">
+                                <div class="col-md-3 p-0 p-md-2 text-center">
                                     <img class="img-fluid img-java"  src="../../assets/techBrandsBadges/java_title.png">
                                 </div>
-                                <div class="col-md-9 text-center">
+                                <div class="col-md-9 p-0 p-md-2 text-center">
                                     <h4><span>{{$t('java-projects.cypher-title')}}</span></h4>
                                     <p>{{$t('java-projects.cypher-description')}}</p>
                                     <a href="https://en.wikipedia.org/wiki/ADFGVX_cipher" target="_blank" rel="noopener noreferrer">{{$t('java-projects.cypher-about')}}</a>
@@ -38,10 +38,10 @@
                     <div class="col-12">
                         <div class="m-5">
                             <div class="row align-items-center">
-                                <div class="col-md-3 text-center">
+                                <div class="col-md-3 p-0 p-md-2 text-center">
                                     <img class="img-fluid img-java"  src="../../assets/techBrandsBadges/java_title.png">
                                 </div>
-                                <div class="col-md-9 text-center">
+                                <div class="col-md-9 p-0 p-md-2 text-center">
                                     <h4><span>{{$t('java-projects.simplifier-title')}}</span></h4>
                                     <p>{{$t('java-projects.simplifier-description')}}</p>
                                    <div class="row justify-content-center">
@@ -59,10 +59,10 @@
                     <div class="col-12">
                         <div class="m-5">
                             <div class="row align-items-center">
-                                <div class="col-md-3 text-center">
+                                <div class="col-md-3 p-0 p-md-2 text-center">
                                     <img class="img-fluid img-java"  src="../../assets/techBrandsBadges/java_title.png">
                                 </div>
-                                <div class="col-md-9 text-center">
+                                <div class="col-md-9 p-0 p-md-2 text-center">
                                     <h4><span>{{$t('java-projects.benchmark-title')}}</span></h4>
                                     <p>{{$t('java-projects.benchmark-description')}}</p>
                                     <div class="row justify-content-center">
@@ -95,10 +95,10 @@
                     <div class="col-12">
                         <div class="m-5">
                             <div class="row align-items-center">
-                                <div class="col-md-3 text-center">
+                                <div class="col-md-3 p-0 p-md-2 text-center">
                                     <img class="img-fluid img-java"  src="../../assets/techBrandsBadges/java_title.png">
                                 </div>
-                                <div class="col-md-9 text-center">
+                                <div class="col-md-9 p-0 p-md-2 text-center">
                                     <h4><span>{{$t('java-projects.chat-title')}}</span></h4>
                                     <p>{{$t('java-projects.chat-description')}}</p>
                                     <div class="row justify-content-center">

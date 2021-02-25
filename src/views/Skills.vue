@@ -157,7 +157,7 @@
                                 </div>
                                 <div class="p-2">
                                     <img class="img-fluid" src="../assets/techBrandsBadges/gimp.png" alt="">
-                                    <p class="text-center text-muted">GIMP</p>
+                                    <p class="text-center text-muted pt-2">GIMP</p>
                                 </div>     
                             </div>
                         </div>

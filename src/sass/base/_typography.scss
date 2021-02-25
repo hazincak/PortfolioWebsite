@@ -7,14 +7,16 @@ html{
     text-align: center;
     color: #2c3e50;
     font-size: 18px;
+
+  @include respond(tab-port) { 
+    font-size: 90%; 
+  }  
     
   @include respond(phone) { 
     font-size: 80%; 
   }
 
-  @include respond(tab-port) { 
-      font-size: 90%; 
-  }
+  
 
 }
 
@@ -75,10 +77,20 @@ nav a {
   }
 }
 
+// .navbar-brand{
+//   @include respond(phone) { 
+//     font-size: 90%; 
+//   }
+// }
+
 .nav-toggler-icon{
   font-size: 2.2rem;
   color: $my-color-4;
   vertical-align: middle;
+
+  // @include respond(phone) { 
+  //   font-size: 2.0rem; 
+  // }
 }
 
 .text-muted{
