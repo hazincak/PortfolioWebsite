@@ -51,7 +51,7 @@
                             </div>
                         </div>
                         <hr class="divider--partial">
-                        <h5><span>{{$t('admin-section')}}&nbsp;and&nbsp;{{$t('authentification')}}</span></h5>
+                        <h5><span>{{$t('admin-section')}}&nbsp;& &nbsp;{{$t('authentification')}}</span></h5>
                         <p>{{$t('phone-cases-shop.admin-section-detail')}}</p>
                         <hr class="divider--partial">
                         <h5><span>{{$t('email-notification')}}</span></h5>

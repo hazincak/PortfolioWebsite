@@ -35,7 +35,7 @@
                 </div>
                 <hr class="divider--full">
                 <div class="row">
-                    <div class="col-12">
+                    <div class="col-12 p-0">
                         <div class="m-5">
                             <div class="row align-items-center">
                                 <div class="col-md-3 p-0 p-md-2 text-center">
@@ -56,7 +56,7 @@
                 </div>
                 <hr class="divider--full">
                 <div class="row">
-                    <div class="col-12">
+                    <div class="col-12 p-0">
                         <div class="m-5">
                             <div class="row align-items-center">
                                 <div class="col-md-3 p-0 p-md-2 text-center">
@@ -92,7 +92,7 @@
                 </div>
                 <hr class="divider--full">
                 <div class="row">
-                    <div class="col-12">
+                    <div class="col-12 p-0">
                         <div class="m-5">
                             <div class="row align-items-center">
                                 <div class="col-md-3 p-0 p-md-2 text-center">

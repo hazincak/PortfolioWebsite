@@ -40,7 +40,7 @@
   "about": "O tejto web stránke",
   "about-detail":"Táto webová stránka slúži ako portfólio prác, ktoré boli vypracované jednak ako školské projekty 75 kreditového vysokoškolského diplomu na Galway-Mayo Institute of Technology (GMIT) v odbore Software Developmentu, ako aj projekty vypracované vo voľnom čase.",
   "about-detail-2": "Keďže zo všetkých učených predmetov tohto vzdelávacieho programu ma najviac zaujal vývoj webových a hybridných mobilných aplikácií, svoj voľný čas rád trávim zdokonaľovaním sa v už pomerne znalých a učením nových frontend a backend programovacích jazykov, frameworkov a trendov z tejto oblasti.",
-  "about-detail-3": "Rád by som tieto skúsenosti a znalosti využil a prehlbil aj na prvej pracovnej pozícií Frontend alebo PHP Developera.",
+  "about-detail-3": "Rád by som tieto skúsenosti a znalosti využil a prehĺbil aj na prvej pracovnej pozícií Frontend alebo PHP Developera.",
   "contact": "Kontakt",
 
   "menu":{
@@ -57,7 +57,7 @@
   "phone-cases-shop":{
     "title": "Internetový obchod",
     "description": "Webová aplikácia na predaj mobilného príslušenstva s vlastným redakčným systémom, dynamickým obsahom a integrovanymi platobnými bránami.",
-    "description-detail": "Táto stránka bola vytvorená ako projekt pre moje portfólio. Účelom tejto webovej stránky si bolo vyskúšať prácu na pokročilejšiom projekte s využitím frameworkov Vuejs a Laravel. Stránka implementuje základne prvky internetového obchodu ako sú platobné brany, počítanie ceny na základe zvoleného spôsobu dopravy a zaplatenia alebo tiež možnosť spravovania obsahu stránky z admin sekcie.",
+    "description-detail": "Táto stránka bola vytvorená ako projekt pre moje portfólio. Účelom tejto webovej stránky si bolo vyskúšať prácu na pokročilejšom projekte s využitím frameworkov Vuejs a Laravel. Stránka implementuje základné prvky internetového obchodu ako sú platobné brany, počítanie ceny na základe zvoleného spôsobu dopravy a zaplatenia alebo tiež možnosť spravovania obsahu stránky z admin sekcie.",
 
     "manageable-content-items": {
       "carousel": "Produkty zobrazené v karuseli na domovskej stránke",
@@ -67,9 +67,9 @@
     },
 
     "admin-section-detail": "Obsah je spravovateľný z admin sekcie, ku ktorej prístup je chránený na frontende (VueJS Navigation Guards), ako aj na backende (Laravel Gates).",
-    "email-notification-detail": "Zakaznik e-shopu je upozornený po úspěšnej objednávke a takisto ak je jeho objednávka potvrdená",
+    "email-notification-detail": "Zakaznik e-shopu je upozornený po úspěšnej objednávke a takisto ak je jeho objednávka potvrdená.",
     "responsiveness-detail": "Responzívny dizajn je dosiahnutý najmä Bootsrap grid systémom. Všetky ostatné elementy ako napríklad veľkosť textu su dynamicky modifikované Sass mixin funkciou, ktorá reaguje na definované zlomy.",
-    "shopping-cart-details": "Produkty pridané do nákupného košíka sú dostupné naprieč všetkými stránkami e-shopu. Rovnako sú uložené v HTML5 webovom uložisku bez expiračnej doby. To zaručuje, že obsah nákupného košíka je dostupný aj po znovu načítání webovej stránky.",
+    "shopping-cart-details": "Produkty pridané do nákupného košíka sú dostupné naprieč všetkými stránkami e-shopu. Rovnako sú uložené v HTML5 webovom úložisku bez expiračnej doby. To zaručuje, že obsah nákupného košíka je dostupný aj po znovu načítání webovej stránky.",
     "diagram-title": "Diagram modelu databázy zobrazujúci vzťahy medzi kategóriami, značkami, modelmi a produktmi."
   
 
@@ -122,7 +122,7 @@
     "description": "Internetová stránka vypracovaná ako záverečná práca predmetu Vývoj webových aplikácií na GMIT.",
     "description-detail": "Internetová stránka vypracovaná ako záverečná práca predmetu Vývoj webových aplikácií na GMIT. Hlavnou úlohou tejto práce bolo vyvinúť e-commerce stránku s použitím technológií učenom na tomto predmete - HTML5, CSS3, Bootstrap 4, Javascript a PHP. Pod slovom 'nákup' sa v tomto projekte rozumelo, povoliť užívateľovi sa zaregistrovať, prihlásiť a následne použiť svoje dáta na skompletizovanie nákupu bez nutnosti integrovania platobných brán.",
     "shopping-cart": "Nákupný košík",
-    "shopping-cart-detail": "Produkty pridané do nákupného košíka sú dostupné naprieč všetkými stránkami e-shopu. Rovnako sú uložené v HTML5 webovom uložisku bez expiračnej doby. To zaručuje, že obsah nákupného košíka je dostupný aj po znovu načítání webovej stránky.",
+    "shopping-cart-detail": "Produkty pridané do nákupného košíka sú dostupné naprieč všetkými stránkami e-shopu. Rovnako sú uložené v HTML5 webovom úložisku bez expiračnej doby. To zaručuje, že obsah nákupného košíka je dostupný aj po znovu načítání webovej stránky.",
     "price-calculation": "Výpočet ceny",
     "price-calculation-detail": "Výpočet ceny nákupného košíka je stále prepočítaný po pridaní alebo odstránení produktu.",
     "user-authentification": "Autentifikácia užívateľa",

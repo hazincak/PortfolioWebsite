@@ -14,27 +14,6 @@
             <div class="row">
                 <div class="col-12 text-center">
                         <div class="p-2 align-self-center">
-                            <img class="img-fluid"  src="../assets/education/gagls.jpg">
-                        </div>
-                        <div class="p-2 align-self-center text-center">
-                            <h4><span>{{$t('education.high-school')}}</span></h4>
-                            <h5>2010-2014</h5>
-                            <h6>{{$t('education.institution-website')}}: <a href="https://gaglshe.edupage.org/" target="_blank" rel="noopener noreferrer">https://gaglshe.edupage.org/</a></h6>
-                        </div>
-                    
-                    <hr class="divider--full">
-                        <div class="p-2 align-self-center">
-                            <img class="img-fluid" src="../assets/education/APZ.png">
-                        </div>
-                        <div class="p-2 align-self-center text-center">
-                            <h4><span>{{$t('education.university')}}</span></h4>
-                            <h5>2014-2017</h5>
-                            <p>{{$t('education.university-description')}}</p>
-                            <h6>{{$t('education.institution-website')}}: <a href="https://www.akademiapz.sk/" target="_blank" rel="noopener noreferrer">https://www.akademiapz.sk/</a></h6>
-                        </div>
-                   
-                    <hr class="divider--full">
-                        <div class="p-2 align-self-center">
                             <img class="img-fluid"  src="../assets/education/GMIT.png">
                         </div>
                         <div class="p-2 align-self-center text-center">
@@ -49,6 +28,25 @@
                                     </button>
                                 </div>
                             </div>
+                        </div>
+                        <hr class="divider--full">
+                        <div class="p-2 align-self-center">
+                            <img class="img-fluid" src="../assets/education/APZ.png">
+                        </div>
+                        <div class="p-2 align-self-center text-center">
+                            <h4><span>{{$t('education.university')}}</span></h4>
+                            <h5>2014-2017</h5>
+                            <p>{{$t('education.university-description')}}</p>
+                            <h6>{{$t('education.institution-website')}}: <a href="https://www.akademiapz.sk/" target="_blank" rel="noopener noreferrer">https://www.akademiapz.sk/</a></h6>
+                        </div>
+                        <hr class="divider--full">
+                        <div class="p-2 align-self-center">
+                            <img class="img-fluid"  src="../assets/education/gagls.jpg">
+                        </div>
+                        <div class="p-2 align-self-center text-center">
+                            <h4><span>{{$t('education.high-school')}}</span></h4>
+                            <h5>2010-2014</h5>
+                            <h6>{{$t('education.institution-website')}}: <a href="https://gaglshe.edupage.org/" target="_blank" rel="noopener noreferrer">https://gaglshe.edupage.org/</a></h6>
                         </div>
                 </div>
             </div>

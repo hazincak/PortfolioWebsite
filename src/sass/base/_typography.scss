@@ -77,20 +77,11 @@ nav a {
   }
 }
 
-// .navbar-brand{
-//   @include respond(phone) { 
-//     font-size: 90%; 
-//   }
-// }
 
 .nav-toggler-icon{
   font-size: 2.2rem;
   color: $my-color-4;
   vertical-align: middle;
-
-  // @include respond(phone) { 
-  //   font-size: 2.0rem; 
-  // }
 }
 
 .text-muted{
