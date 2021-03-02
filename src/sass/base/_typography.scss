@@ -79,9 +79,20 @@ nav a {
 
 
 .nav-toggler-icon{
-  font-size: 2.2rem;
+  font-size: 2.1rem;
   color: $my-color-4;
   vertical-align: middle;
+}
+
+.navbar-toggler {
+  border: none;
+  outline: none;
+} 
+
+.navbar-brand{
+  @include respond(phone) { 
+    width: 80%;
+  }
 }
 
 .text-muted{

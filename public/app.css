@@ -7291,9 +7291,17 @@ nav a {
   color: #fff; }
 
 .nav-toggler-icon {
-  font-size: 2.2rem;
+  font-size: 2.1rem;
   color: #f05454;
   vertical-align: middle; }
+
+.navbar-toggler {
+  border: none;
+  outline: none; }
+
+@media (max-width: 600px) {
+  .navbar-brand {
+    width: 80%; } }
 
 @media (max-width: 600px) {
   .text-muted {

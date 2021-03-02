@@ -131,8 +131,8 @@
   },
 
   "laptopmania-videos":{
-    "order-guest":"Objednávanie tovaru ako registrovaný užívateľ",
-    "order-registered": "Objednávanie tovaru ako návštevník stránky"
+    "order-guest":"Objednávanie tovaru ako návštevník stránky",
+    "order-registered": "Objednávanie tovaru ako registrovaný užívateľ"
   },
 
   "sap-concur":{

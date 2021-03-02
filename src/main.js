@@ -14,14 +14,6 @@ import VueWaypoint from 'vue-waypoint'
 // Waypoint plugin
 Vue.use(VueWaypoint)
 
-
-import '@fortawesome/fontawesome-free/js/fontawesome'
-import '@fortawesome/fontawesome-free/js/solid'
-import '@fortawesome/fontawesome-free/js/regular'
-import '@fortawesome/fontawesome-free/js/brands'
-
-
-
 Vue.config.productionTip = false
 
 new Vue({
