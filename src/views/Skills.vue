@@ -123,11 +123,7 @@
                                 <div class="p-2">
                                     <img id="img-postgreSQL" class="img-fluid img-badge" src="../assets/techBrandsBadges/PostgreSQL.png" alt="">
                                     <p class="text-center text-muted">PostgreSQL</p>
-                                </div>
-                                <div class="p-2">
-                                    <img id="img-postgreSQL" class="img-fluid img-badge" src="../assets/techBrandsBadges/bulma.png" alt="">
-                                    <p class="text-center text-muted">Bulma</p>
-                                </div>       
+                                </div>     
                             </div>
                         </div>
                         <hr class="divider--full">

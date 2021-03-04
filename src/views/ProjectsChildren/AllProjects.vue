@@ -209,37 +209,6 @@
                     </div>
                 </div>
                 <hr class="divider--full">
-                <div class="m-5">   
-                    <div class="row align-items-center">
-                        <div class="col-md-6 p-0 p-md-2">
-                            <img class="img-fluid rounded img-thumbnail"  src="../../assets/MovieFight.jpg">
-                        </div>
-                        <div class="col-md-6 p-0 p-md-2 text-center">
-                            <h4><span>MovieFight</span></h4>
-                            <p>{{$t('movie-fight.description')}}</p>
-                            <router-link :to="{name: 'MovieFightProject'}" class="btn btn--myPrimary btn-block">{{$t('more-button')}}</router-link>
-                        </div>
-                    </div>
-                    <div class="row justify-content-center">
-                        <div class="col-7 col-md-4">
-                                <div class="d-flex justify-content-around align-items-center">
-                                    <div class="p-1 p-md-2">
-                                    <img class="img-fluid" src="../../assets/techBrandsBadges/html5-badge.png" alt="html-badge">
-                                    </div>
-                                    <div class="p-1 p-md-2">
-                                        <img class="img-fluid" src="../../assets/techBrandsBadges/css3-badge.png" alt="css-badge">
-                                    </div>
-                                    <div class="p-1 p-md-2">
-                                        <img class="img-fluid" src="../../assets/techBrandsBadges/javascript-badge.png" alt="js-badge">
-                                    </div>    
-                                    <div class="p-1 p-md-2">
-                                        <img class="img-fluid" src="../../assets/techBrands/bulma.png" alt="bulma-logo">
-                                    </div>
-                                </div>
-                        </div>
-                    </div>
-                </div>
-                <hr class="divider--full">
                 <div class="m-5"> 
                     <div class="row align-items-center">
                         <div class="col-md-6 p-0 p-md-2">

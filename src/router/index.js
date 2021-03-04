@@ -51,11 +51,6 @@ const routes = [
         component: () => import('../views/ProjectsChildren/BlogSystem.vue')
       },
       {
-        path:"movie-fight",
-        name:"MovieFightProject",
-        component: () => import('../views/ProjectsChildren/MovieFight.vue')
-      },
-      {
         path:"java-projects",
         name:"JavaProjects",
         component: () => import('../views/ProjectsChildren/JavaProjects.vue')
